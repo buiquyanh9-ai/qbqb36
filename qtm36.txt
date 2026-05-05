@@ -1,0 +1,463 @@
+Mô hình OSI (Open Systems Interconnection) là mô hình tham chiếu gồm 7 tầng nhằm chuẩn hóa cách các hệ thống, thiết bị mạng giao tiếp với nhau.
+ TẦNG 7: application (tầng ứng dụng): Là tầng gần người dùng nhất, cung cấp giao diện và dịch vụ mạng trực tiếp cho ứng dụng mà người dùng sử dụng.
+TẦNG 6: Presentation (Đồng bộ định dạng dữ liệu giữa hai hệ thống khác nhau giúp chúng có thể giao tiếp với nhau) 
+- Khi gửi (send): Nhận dữ liệu từ tầng 7 → mã hóa/nén/chuyển đổi → đưa xuống tầng 5. 
+- Khi nhận (receive): Nhận dữ liệu từ tầng 5 → giải mã/giải nén/chuyển đổi → đưa lên tầng 7. 
++ Mã hoá là để bảo mật, nén là để tiết kiệm băng thông, chuyển đổi là để Đồng bộ định dạng dữ liệu giữa hai hệ thống khác nhau giúp chúng có thể giao tiếp với nhau
+TẦNG 5: Session (Phiên) (đảm bảo 2 bên có kênh giao tiếp ổn định.)
++ Checkpoint là dấu mốc mà tầng Session tạo ra trong phiên giao tiếp, nó giống như dấu lưu (save point) trong game: chơi tới chỗ đó rồi lưu lại. Chia nhỏ bằng checkpoint, kiểm tra checkpoint để nếu phiên bị gián đoạn (mất mạng, lỗi hệ thống), thì khi kết nối lại: Không cần bắt đầu từ đầu, Mà có thể tiếp tục từ checkpoint gần nhất.
+- Khi gửi (send): Thiết lập phiên làm việc → chia nhỏ phiên bằng checkpoint (điểm đồng bộ) → điều khiển hội thoại (ai gửi trước, song công/ bán song công) → đưa dữ liệu xuống tầng 4.
+- Khi nhận (receive): Nhận dữ liệu từ tầng 4, quản lý hội thoại → duy trì hoặc kết thúc phiên → đưa lên tầng 6.
+TẦNG 4: Transport (Vận chuyển) (đảm bảo dữ liệu truyền chính xác, đủ, đúng thứ tự)
+TCP: chậm hơn nhưng an toàn, chính xác.
+UDP: nhanh hơn nhưng có thể mất mát.
+TẦNG 3: Network (Mạng) (Xác định đường đi và địa chỉ IP, đảm bảo gói tin đến đúng máy đích)
+- Khi gửi (send): Nhận Segment từ tầng 4 → đóng gói thành Packet → gắn địa chỉ IP nguồn và IP đích → chọn đường đi (routing) → đưa xuống tầng 2.
+- Khi nhận (receive): Nhận Packet từ tầng 2 → đọc địa chỉ IP đích → nếu đúng máy mình thì chuyển Packet lên tầng 4, nếu không thì router sẽ chuyển tiếp theo đường khác. Đơn vị dữ liệu (PDU): Packet (Gói tin).
+TẦNG 2 data link đưa dữ liệu vào đường truyền và phân luồng đường truyền
+TẦNG 1 – Physical (Vật lý) dây, sóng, cáp quang, Wi-Fi,.. (Truyền bit 0/1 qua vật lý)
+
+QUẢN TRỊ MẠNG, NMS, SNMP
+Cơ sở dữ liệu chứa thông tin quản lý các đối tượng mạng gọi là gì? Đáp án: MIB.
+Cụm từ nào không phải là tên của một lĩnh vực trong công tác quản trị mạng? Đáp án: Group Management.
+Đối tượng nào đóng vai trò khởi phát phiên truyền thông của cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP? Đáp án: Manager
+Đối tượng nào đóng vai trò khởi phát phiên truyền thông của cơ chế Poll trong SNMP? Đáp án: Manager.
+Hệ thống quản trị mạng NMS bao gồm những gì? Đáp án: Cả phần mềm và phần cứng.
+Khẳng định đúng về bản tin GetRequest trong SNMP là gì? Đáp án: Trong một bản tin GetRequest có thể chứa nhiều OID.
+Khẳng định đúng về Sub-id trong SNMP là gì? Đáp án: Sub-id không nhất thiết phải liên tục và không phải bắt đầu từ 0.
+Khi nói về cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP, khẳng định nào sau đây là KHÔNG đúng? Đáp án: Mỗi khi trong Device xảy ra một sự kiện (event) nào đó thì Device sẽ tự động gửi thông báo cho Manager.
+MIB là gì? Đáp án: cơ sở dữ liệu quản lý, OID là mã định danh của từng Object trong MIB.
+Một SNMP Agent có thể gửi message nào? Đáp án: Response.
+NMS là gì? Đáp án: hệ thống quản trị mạng gồm phần mềm và phần cứng, dùng để giám sát, điều khiển, cảnh báo và quản lý thiết bị mạng.
+Phát biểu sai về SNMP là gì? Đáp án: Chế độ hoạt động Polling sử dụng Port 163.
+Phương thức Polling trong quản trị mạng là gì? Đáp án: Thiết bị quản lý chủ động thăm dò thiết bị theo chu kỳ.
+phương thức Trap là gì? Đáp án: Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở Object nào đó trong Agent
+Phương thức Trap trong SNMP là gì? Đáp án: Agent tự động gửi Trap đến Manager khi có sự kiện xảy ra ở Object trong Agent.
+Polling là gì? Đáp án: cơ chế Manager chủ động hỏi Agent theo chu kỳ; Trap là cơ chế Agent chủ động báo về Manager khi có sự kiện.
+SNMP ACL là gì và được cài ở đâu? Đáp án: Là danh sách các địa chỉ IP được phép quản lý/giám sát Agent, áp dụng riêng cho SNMP và được cài trên Agent.
+SNMP được định nghĩa trong đâu? Đáp án: RFC.
+SNMP giúp làm gì? Đáp án: Giám sát và quản lý các thiết bị mạng.
+SNMP là viết tắt của gì? Đáp án: Simple Network Management Protocol.
+Tập con của MIB được gọi là gì? Đáp án: VIEW.
+Tên của các lĩnh vực trong công tác quản trị mạng? Đáp án: Configuration management, Accounting management, Fault management, Security management, Performance Management
+Thành phần nào của SNMP chịu trách nhiệm thu thập thông tin từ các thiết bị? Đáp án: Agent.
+Thành phần nào của SNMP là phần mềm trung tâm giám sát thiết bị? Đáp án: Manager.
+Trap trong SNMP là gì? Đáp án: Thông báo tự động khi có sự kiện bất thường.
+Trên Agent có thể định nghĩa bao nhiêu VIEW? Đáp án: Nhiều VIEW.
+Trong các tác vụ quản trị mạng, quy trình quản trị bảo mật không liên quan đến công việc nào? Đáp án: Thiết lập hạn ngạch sử dụng tài nguyên mạng cho các nhóm user khác nhau.
+Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào? Đáp án: Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống.
+Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã số để nhận dạng object đó, mã số đó được gọi là gì? Đáp án: OID
+Trong SNMP, mỗi Object có một tên gọi và một mã số nhận dạng. Mã số đó gọi là gì? Đáp án: OID.
+Write-Community được dùng trong bản tin nào? Đáp án: SetRequest.
+
+THIẾT BỊ MẠNG, LAN, VLAN, SWITCH, ROUTER, IP
+Access Point là thiết bị gì? Đáp án: Thiết bị phát sóng WiFi, kết nối mạng không dây với mạng có dây.
+Access Port được dùng để kết nối gì? Đáp án: Thiết bị đầu cuối như PC.
+Chế độ nào cho phép Switch trunk nhiều VLAN? Đáp án: Trunk Mode.
+Để cấu hình VLAN trên Switch Cisco, bắt đầu bằng lệnh nào? Đáp án: vlan [số].
+Để cấu hình VLAN trên switch Cisco, ta bắt đầu bằng lệnh nào? Đáp án: vlan [số]
+Để chặn một VLAN truyền qua trunk, ta làm gì? Đáp án: Disallow VLAN trên trunk port.
+Để gán một cổng Switch vào VLAN 10, lệnh nào đúng? Đáp án: switchport access vlan 10.
+Địa chỉ IP dùng để làm gì? Đáp án: Phân biệt các thiết bị trong mạng.
+Địa chỉ IP mặc định của nhiều thiết bị Switch Cisco mới xuất xưởng là gì? Đáp án: Không có.
+Địa chỉ IP nào không thể dùng cho thiết bị? Đáp án: Địa chỉ Network.
+Địa chỉ MAC có độ dài bao nhiêu bit? Đáp án: 48 bit.
+Giao thức nào cho phép Switch gửi bản tin tìm kiếm VLAN tự động? Đáp án: VTP.
+Giao thức nào đảm bảo không có vòng lặp trong mạng LAN? Đáp án: STP.
+Giao thức nào được Cisco sử dụng để khám phá thiết bị lân cận? Đáp án: CDP.
+Giao thức nào giúp các Switch tránh vòng lặp mạng? Đáp án: STP.
+Giao thức nào sau đây được Cisco sử dụng để khám phá thiết bị lân cận? Đáp án: CDP
+Hub khác Switch ở điểm nào? Đáp án: Hub truyền dữ liệu tới tất cả các cổng.
+Khi một gói tin đi đến Router, Router quyết định đường đi dựa trên? Đáp án: Địa chỉ IP đích.
+Khi nào Switch học địa chỉ MAC mới? Đáp án: Khi nhận được một frame mới.
+Khi thiết bị nhận gói tin không thuộc VLAN của nó, Switch sẽ làm gì? Đáp án: Bỏ gói tin.
+Lệnh nào dùng để bật giao diện VLAN trên Switch? Đáp án: interface vlan [số].
+Lệnh nào dùng để kiểm tra kết nối giữa các host thông qua một Switch trong cùng một mạng LAN? Đáp án: ping address
+Lệnh nào dùng để kiểm tra kết nối giữa các host trong cùng một mạng LAN qua Switch? Đáp án: ping address.
+Lệnh nào dùng để xem bảng MAC Address trên Switch Cisco? Đáp án: show mac-address-table.
+Lệnh nào trên Switch Cisco dùng để bật chế độ cổng trunk? Đáp án: switchport mode trunk.
+Người quản trị cần kết nối trực tiếp 2 Router qua cổng FastEthernet. Dùng loại cáp nào? Đáp án: Cáp chéo (cross-over).
+Phát biểu đúng về cổng trunk trên Switch là gì? Đáp án: Có thể mang nhiều VLAN.
+Phát biểu nào đúng về cổng trunk trên switch? Đáp án: Có thể mang nhiều VLAN
+Phát biểu nào sai về Switch? Đáp án: Switch gửi tất cả frame đến tất cả các cổng.
+Phát biểu nào sau đây sai? Đáp án: Switch gửi tất cả frame đến tất cả cổng
+Router Cisco nào dùng chủ yếu cho văn phòng nhỏ SOHO? Đáp án: Cisco 1900.
+Router dùng để làm gì trong mạng? Đáp án: Kết nối các mạng khác nhau.
+Router hoạt động chủ yếu ở tầng nào trong mô hình OSI? Đáp án: Tầng 3.
+Switch có chức năng gì? Đáp án: Chuyển tiếp dữ liệu giữa các thiết bị trong cùng mạng nội bộ.
+Switch hoạt động ở tầng nào trong mô hình OSI? Đáp án: Tầng 2.
+Switch lớp 3 khác Switch lớp 2 ở điểm nào? Đáp án: Switch lớp 3 có thể định tuyến IP.
+Switch lớp 3 khác với switch lớp 2 ở điểm nào? Đáp án: Có thể định tuyến IP
+Thành phần bộ nhớ nào lưu file cấu hình đang chạy của Router? Đáp án: RAM.
+Thiết bị nào có thể chia cả Collision Domain và Broadcast Domain? Đáp án: Router.
+Thiết bị nào dùng để kết nối các mạng khác nhau? Đáp án: Router.
+Thiết bị nào dùng để phân chia Broadcast Domain? Đáp án: Router.
+Tính năng Port Security trên Switch nhằm mục đích gì? Đáp án: Giới hạn số lượng MAC Address trên cổng.
+Trunk Link khác Access Link ở điểm nào? Đáp án: Trunk Link truyền nhiều VLAN, còn Access Link thường chỉ thuộc một VLAN.
+Trunk link khác gì so với access link? Đáp án: Truyền nhiều VLAN
+Trunk port có thể gán vào bao nhiêu VLAN? Đáp án: Nhiều VLAN
+VLAN 1 trong Switch Cisco mặc định có chức năng gì? Đáp án: Quản lý Switch.
+VLAN có tác dụng gì? Đáp án: Chia mạng nội bộ thành các vùng logic.
+VLAN dùng để chia mạng như thế nào? Đáp án: Theo cổng vật lý.
+
+CẤU HÌNH ROUTER/SWITCH CISCO
+Câu lệnh nào để bật giao diện trên Router hoặc Switch? Đáp án: no shutdown.
+Chế độ enable trên Switch/Router dùng để làm gì? Đáp án: Truy cập chế độ quản trị cao hơn.
+Cổng Console của Switch/Router dùng để làm gì? Đáp án: Cấu hình thiết bị trực tiếp.
+Dấu nhắc nào cho biết Router đang ở chế độ Global Configuration? Đáp án: Router(config)#.
+Để bảo mật truy cập Telnet trên Router, bạn cần cấu hình gì? Đáp án: password và login trên VTY lines
+Để bảo mật truy cập Telnet trên Router, cần cấu hình gì? Đáp án: Password và login trên VTY lines.
+Để reset Switch Cisco về mặc định ban đầu, dùng lệnh nào? Đáp án: erase startup-config và reload.
+Để truy cập từ xa vào Router Cisco qua SSH, cần cấu hình gì? Đáp án: VTY lines và SSH.
+Lệnh enable secret dùng để làm gì? Đáp án: Đặt mật khẩu mã hóa cho chế độ enable.
+Lệnh nào dùng để xóa file cấu hình trong NVRAM ? erase startup-config
+Lệnh nào cho phép xem cấu hình hiện tại trên thiết bị Cisco? Đáp án: show running-config.
+Lệnh nào đặt hostname của Router là CNTT? Đáp án: Router(config)# hostname CNTT.
+Lệnh nào dùng để cấu hình secret password là Cisco1 cho Router? Đáp án: Router(config)# enable secret Cisco1.
+Lệnh nào dùng để đặt hostname cho thiết bị Cisco? Đáp án: hostname [tên].
+Lệnh nào dùng để hiển thị phiên bản hệ điều hành IOS? Đáp án: show version.
+Lệnh nào dùng để kiểm tra hoạt động của dịch vụ DHCP trong Router? Đáp án: Router# show ip dhcp binding.
+Lệnh nào dùng để lưu cấu hình hiện tại vào bộ nhớ khởi động trên Switch/Router? Đáp án: copy running-config startup-config.
+Lệnh nào dùng để lưu file cấu hình đang chạy trên RAM (file running config) vào NVRAM? Đáp án: Router# copy running-config startup-config
+Lệnh nào dùng để lưu file running-config trong RAM vào NVRAM? Đáp án: router#copy running-config startup-config.
+Lệnh nào dùng để vào chế độ cấu hình toàn cục Global Configuration Mode? Đáp án: configure terminal.
+Lệnh nào dùng để xem tên thiết bị hiện tại trên Switch/Router? Đáp án: show running-config.
+Lệnh nào dùng để xem thông tin tóm lược của tất cả giao diện trên Router? Đáp án: show ip interface brief hoặc show ip int brief.
+Lệnh nào được dùng để đặt hostname cho thiết bị Cisco? Đáp án: hostname [tên]
+Lệnh nào kiểm tra bảng định tuyến trên Router Cisco? Đáp án: show ip route.
+Lệnh nào kiểm tra tuyến đường mạng trên router Cisco? Đáp án: show ip route
+Lệnh show interfaces dùng để làm gì? Đáp án: Hiển thị thông tin trạng thái các cổng.
+Mục đích của lệnh "banner motd" trên Switch/Router là gì? Đáp án: Hiển thị thông báo khi đăng nhập.
+NVRAM và Flash tương ứng với thành phần nào trong máy PC? Đáp án: HDD, SSD.
+Router đang ở chế độ Privileged. Lệnh nào chuyển Router sang chế độ User? Đáp án: disable.
+Sử dụng câu lệnh nào để kiểm tra hoạt động của dịch vụ DHCP trên router? Đáp án: Router#show ip dhcp binding
+Sử dụng câu lệnh nào để xem thông tin tóm lược của tất cả các giao diện trong router? Đáp án: Router#show ip int brief
+Tiện ích nào là phương thức bảo mật truy cập từ xa tốt hơn Telnet? Đáp án: SSH.
+Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tốt hơn telnet? Đáp án: SSH
+Trong cấu hình Router, câu lệnh nào chuyển từ chế độ User sang chế độ Privileged? Đáp án: Router> enable.
+Trong cấu hình router, câu lệnh nào dùng để chuyển người dùng từ chế độ cấu hình User vào chế độ cấu hình Privileged? Đáp án: Router> enable
+Trong cấu hình Router, câu lệnh nào sai khi cấu hình địa chỉ IP? Đáp án: Router(config-if)# address 192.168.1.1 255.255.255.0. Ghi nhớ: Lệnh đúng thường là ip address 192.168.1.1 255.255.255.0.
+Trong cấu hình router, dấu nhắc nào cho biết đang ở chế độ cấu hình Global configuration? Đáp án: Router(config)#
+Trong cấu hình Router, lệnh nào cho phép chuyển tiếp gói tin IP quảng bá của DHCP Client tìm DHCP Server trong mạng khác? Đáp án: Router(config-if)# ip helper-address 192.1.1.2.
+Trong cấu hình Router, lệnh nào hiển thị các lệnh hợp lệ trong chế độ cấu hình đang dùng? Đáp án: Dấu hỏi (?) hoặc show ? tùy ngữ cảnh.
+Trong cấu hình router,sử dụng câu lệnh nào để đặt hostname của router là CNTT? Đáp án: Router(config)# hostname CNTT
+Trong chế độ cấu hình Router, chế độ Router Configuration có dấu nhắc nào? Đáp án: Router(config-router)#.
+
+ĐỊNH TUYẾN, NAT, DHCP, IP
+AD trong định tuyến là gì? Đáp án: Administrative Distance.
+Broadcast lớp C thường có dạng gì? Đáp án: x.x.x.255.
+DHCP có chức năng gì trong mạng Cisco? Đáp án: Cấp phát địa chỉ IP tự động.
+DHCP hoạt động ở tầng nào trong mô hình OSI? Đáp án: Tầng 7.
+Định tuyến tĩnh là gì? Đáp án: Quản trị viên thiết lập thủ công đường đi dữ liệu.
+Giao thức định tuyến nào sử dụng thuật toán vector khoảng cách? Đáp án: RIP.
+Giao thức nào cho phép định tuyến giữa các Autonomous System? Đáp án: BGP.
+Giao thức nào hỗ trợ định tuyến liên mạng lớn và phức tạp? Đáp án: BGP.
+Giao thức nào không phải giao thức định tuyến? Đáp án: FTP.
+Giao thức nào sau đây hỗ trợ định tuyến liên mạng lớn và phức tạp? Đáp án: BGP
+Giao thức NAT dùng để làm gì? Đáp án: Chuyển đổi địa chỉ IP nội bộ ra ngoài.
+Khi triển khai DHCP với IP Reservation, bạn cần thông tin gì của thiết bị? Đáp án: MAC Address
+Khoảng giá trị của AD là bao nhiêu? Đáp án: AD là số nguyên từ 0 đến 255.
+Lệnh nào dùng để cấu hình mô tả cho một cổng Switch? Đáp án: description [nội dung].
+Loại địa chỉ IPv6 nào sau đây tương đương với IPv4 private? Đáp án: Unique local unicast.
+Router sử dụng giao thức định tuyến nào để tìm đường ngắn nhất? Đáp án: OSPF.
+Trong trường hợp router được cài đặt từ 2 giao thức định tuyến trở lên thì giao thức định tuyến nào có AD lớn hơn được router sử dụng? AD tự động giảm giá trị mỗi khi đi qua 1 nút kế tiếp
+Trong cấu hình NAT của Router, câu lệnh đúng là gì? Đáp án: ip nat pool POOL-1 203.162.0.2 203.162.0.2 netmask 255.255.255.0.
+Trong cấu hình Router dùng định tuyến động RIPv2, lệnh nào không hợp lệ? Đáp án: Router(config)# ripv2.
+Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng cách quản trị - AD (Administrative Distance)? Đáp án: AD là một số nguyên nhận giá trị từ 0 đến 255
+Trong DHCP, "scope" định nghĩa điều gì? Đáp án: Một dải địa chỉ IP có thể cấp phát
+Trong định tuyến tĩnh, thông tin cấu hình được thiết lập như thế nào? Đáp án: Thiết lập thủ công bởi quản trị viên.
+Trong mạng Cisco, chức năng của DHCP là gì? Đáp án: Cấp phát địa chỉ IP tự động
+Ưu điểm của định tuyến tĩnh là gì? Đáp án: Tiết kiệm băng thông và kiểm soát rõ đường đi.
+
+WINDOWS SERVER, ACTIVE DIRECTORY, GPO
+Active Directory có chức năng gì? Đáp án: Quản lý tập trung người dùng và thiết bị.
+Bản ghi DNS SRV (Service Location) có vai trò gì trong Active Directory? Đáp án: Xác định vị trí các dịch vụ AD
+Câu nào sau đây nói không đúng về Server Manager? Đáp án: Server Manager có thể cùng một lúc cài đặt nhiều chức năng cho nhiều server
+Cho mạng 192.168.20.24/29, Router dùng địa chỉ đầu tiên và Server01 dùng địa chỉ cuối cùng. Cấu hình IP Server01 thế nào? Đáp án: IP Address: 192.168.20.30 Subnet Mask: 255.255.255.248 Default Gateway: 192.168.20.25
+Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là "Not Configured". Kết quả của thiết lập này là? Đáp án: Trạng thái của chức năng đó vẫn là disabled
+Có một chức năng trong hệ thống được thiết lập là disabled. Bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể trong GPO bạn thiết lập giá trị cho nó là Not configured. Kết quả của thiết lập này là? Đáp án: Trạng thái của chức năng đó vẫn là disabled
+Công cụ nào cho phép giám sát lưu lượng mạng trên Windows Server? Đáp án: Performance Monitor.
+Công cụ nào dùng để kiểm soát và theo dõi sự kiện hệ thống trên Server? Đáp án: Event Viewer.
+Để cấu hình Group Policy cho một số máy tính nhất định trong OU, bạn cần làm gì? Đáp án: Sử dụng Group Policy Filtering
+Để chuyển Windows Server 2012 R2 từ chế độ Server Core sang Minimal Server Interface, bạn phải cài đặt feature nào? Đáp án: Graphical Management Tools and Infrastructure
+Để làm cho các thay đổi về môi trường không tác động lên lược sử mạng, cần làm thao tác gì? Đáp án: Thay đổi tên file ntuser.dat thành file ntuser.man
+Để thay đổi chính sách về mật khẩu trên miền ta sử dụng công cụ nào trong Administrative Tools? Đáp án: Domain Security Policy
+DHCPACK, đây là gói tin nhằm giúp ? Đáp án: DHCP server xác nhận thông tin áp dụng cho client
+Dịch vụ nào cần được cài để triển khai DHCP failover cluster? Đáp án: Failover Clustering feature
+Dịch vụ nào cần thiết để Active Directory hoạt động? Đáp án: DNS.
+Dịch vụ nào cho phép in qua mạng trong Windows Server? Đáp án: Print and Document Services.
+Dịch vụ nào được sử dụng để điều khiển Server từ xa bằng Desktop? Đáp án: Remote Desktop Services.
+Dịch vụ nào giúp nhân bản và đồng bộ file giữa nhiều server Windows? Đáp án: DFS Replication
+Dịch vụ nào trong Windows Server cho phép lưu trữ và quản lý trang web? Đáp án: IIS.
+Dịch vụ nào trong Windows Server quản lý người dùng, nhóm và máy tính trong mạng? Đáp án: Active Directory.
+Dịch vụ nào Windows Server dùng để tự động cấp phát địa chỉ IP? Đáp án: DHCP.
+Dịch vụ sau đây cần thiết để cho Active Directory hoạt động? Đáp án: DNS
+DNS phân giải tên miền sang địa chỉ IP và là gì? Đáp án: dịch vụ cần thiết cho Active Directory.
+Giao thức nào được sử dụng bởi Group Policy để update chính sách? Đáp án: SMB và RPC
+Giao thức nào Windows Server sử dụng để đồng bộ thời gian mạng? Đáp án: NTP
+Giao thức nào Windows Server sử dụng để tự động cấp phát địa chỉ IP? Đáp án: DHCP
+Group nào dùng để tập hợp người dùng và group trên nhiều domain hoặc toàn forest? Đáp án: Universal.
+Group nào được sử dụng để tập hợp người dùng và group trên nhiều domain hoặc toàn forest? Đáp án: Universal
+Group Policy dùng để làm gì? Đáp án: Quản lý chính sách, cấu hình và kiểm soát hệ thống tập trung.
+Group Policy trong Windows Server chủ yếu dùng để? Đáp án: Quản lý chính sách và cấu hình hệ thống
+Hệ điều hành Windows Server 2003 mặc định hỗ trợ cài đặt? Đáp án: IIS 6.0
+Hyper-V Replica cho phép thực hiện điều gì? Đáp án: Đồng bộ máy ảo giữa hai Hyper-V Server
+Khi cần kiểm soát và theo dõi sự kiện hệ thống trên server, bạn sử dụng công cụ nào? Đáp án: Event Viewer
+Khi liên kết đối tượng chính sách nhóm GPO vào các đối tượng, có 2 phát biểu như sau:PB1: "Mỗi GPO có thể liên kết đến nhiều đối tượng trên AD."; PB2: "Mỗi đối tượng trên AD có thể liên kết đến nhiều GPO khác nhau.". Hỏi khẳng định nào sau đây là đúng? Đáp án: PB1 đúng, PB2 đúng
+Khi liên kết GPO vào các đối tượng AD, phát biểu nào đúng? Đáp án: Mỗi GPO có thể liên kết nhiều đối tượng AD; mỗi đối tượng AD có thể liên kết nhiều GPO khác nhau.
+Khi thêm một User Account mới, bắt buộc khai báo thông số nào? Đáp án: Tên đăng nhập.
+Khi thêm một User Account mới, bắt buộc phải khai báo thông số nào? Đáp án: Tên đăng nhập
+Khi triển khai RADIUS server trên Windows, bạn cần cài đặt dịch vụ nào? Đáp án: Network Policy Server (NPS)
+Khoảng giá trị AD? AD được sử dụng để định danh một router láng giềng
+Lệnh dcpromo dùng để làm gì? Đáp án: Nâng cấp server thành Domain Controller
+Lệnh nào cho phép kiểm tra bản ghi SRV của DNS hỗ trợ Active Directory? Đáp án: nslookup -type=srv
+Lệnh nào dùng để kiểm tra kết nối giữa hai thiết bị mạng trong Windows Server? Đáp án: ping.
+Lệnh nào hiển thị thông tin địa chỉ IP của Server? Đáp án: ipconfig.
+Nếu một chức năng đang Disabled, trong GPO đặt là Not Configured thì kết quả là gì? Đáp án: Trạng thái của chức năng đó vẫn là Disabled.
+Phiên bản nào của Windows Server hỗ trợ tối đa 2 CPU vật lý? Đáp án: Windows Server Standard
+Phiên bản Windows Server nào hỗ trợ tối đa 2 CPU vật lý? Đáp án: Windows Server Standard.
+Profile có 2 loại là Network Profile và Local Profile. Vậy Network Profile có những loại nào? Đáp án: Roaming profile và Mandatory profile
+Roaming profile cho phép lưu profile của user trên đâu? Đáp án: Client
+Sau đây là các mô tả về stater GPO, mô tả nào phù hợp nhất? Đáp án: Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
+So sánh giữa System Policy và Group Policy? Đáp án: Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
+So sánh System Policy và Group Policy: đáp án đúng là gì? Đáp án: Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống.
+Starter GPO là gì? Đáp án: Bản mẫu để tạo ra các GPO mới.
+Tên môi trường Windows, tài khoản người dùng được định nghĩa trên máy cục bộ và tài khoản này chỉ được phép logon, truy cập các tài nguyên trên máy tính cục bộ được gọi là tài nguyên gì? Đáp án: Tài khoản người dùng cục bộ (Local User Account)
+Thành phần nào sau đây chịu trách nhiệm lưu trữ cơ sở dữ liệu của Active Directory? Đáp án: NTDS.dit
+Thông tin người dùng được quản lý bởi dịch vụ Active Directory và được lưu trữ trên Domain Controller với tập tin là? Đáp án: NTDS.DIT
+Thứ tự thực thi các GPO trong cấu trúc Active Directory là gì? Đáp án: Site → Domain → OU.
+Trên môi trường Windows, tài khoản người dùng được định nghĩa trên máy cục bộ và chỉ được logon/truy cập tài nguyên trên máy cục bộ gọi là gì? Đáp án: Local User Account / Tài khoản người dùng cục bộ.
+Trong Active Directory, Domain là gì? Đáp án: Miền quản lý tập trung các tài khoản và thiết bị.
+Trong Active Directory, FSMO role nào chịu trách nhiệm phân phối SID cho domain? Đáp án: RID Master
+Trong Active Directory, OU dùng để làm gì? Đáp án: Tổ chức, phân nhóm và quản lý các đối tượng.
+Trong domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đối tượng nào KHÔNG thể là thành viên của group kiểu global? Đáp án: Universal
+Trong domain Windows Server 2012 R2 functional level, đối tượng nào không thể là thành viên của group kiểu Global? Đáp án: Universal / Group kiểu Universal.
+Trong kiến trúc AD, thành phần nào định nghĩa các đối tượng và thuộc tính mà dịch vụ thư mục dùng để lưu trữ dữ liệu? Đáp án: Schema.
+Trong mô hình Domain, việc chứng thực người dùng đăng nhập hệ thống được thực hiện ở đâu? Đáp án: Domain Controller.
+Trong Windows Server, DHCP Failover hoạt động theo cơ chế nào? Đáp án: Load balancing hoặc Hot standby
+User đăng nhập bằng cách gõ tên đăng nhập và password. Windows 2003 kiểm chứng thông tin về user. Nếu đăng nhập vào domain-Windows 2003 kiểm chứng thông tin trên một? Đáp án: Domain Controller
+Với subnet 172.16.1.0/24, DHCP Server là 172.16.1.250, 25 địa chỉ đầu tiên không cấp cho máy trạm. Scope phù hợp là gì? Đáp án: 172.16.1.26 - 172.16.1.249/24, Default Gateway: 172.16.1.1. Lưu ý: Trong đề cũ có ghi 172.16.1.126 - 172.16.1.249; nếu đề/đáp án của thầy cố định thì chọn theo đáp án đề mẫu.
+Windows Firewall dùng để làm gì trên Server? Đáp án: Bảo vệ Server khỏi truy cập trái phép.
+Windows Server là gì? Đáp án: Hệ điều hành máy chủ của Microsoft.
+Windows Server là hệ điều hành chủ yếu dùng để làm gì? Đáp án: Quản lý tài nguyên mạng
+
+QUYỀN NTFS, CHIA SẺ, BACKUP, VOLUME
+Bạn đang quản lý miền bmcntt.edu. Trên miền này, chỉ có user Administrator mới có quyền gia nhập một máy tính vào miền bmcntt.edu. Để cấp quyền cho tài khoản người dùng có tên HOCVIEN có quyên gia nhập một máy tính vào miền bmcntt.edu, bạn sẽ chọn chính sách hệ thống nào để thêm tài khoản HOC VIEN vào danh sách được áp dụng chính sách này? Đáp án: Add workstations to the domain
+Bạn muốn cấp cho user U02 quyền gia nhập máy tính vào domain bmcntt.edu, chọn chính sách nào? Đáp án: Add workstations to the domain.
+Các phát biểu nào sau đây nói đúng về volume kiểu striped? Đáp án: Volume kiểu striped giúp nâng cao hiệu suất xử lý so với volume kiểu simple
+Chọn đáp án sai khi nói về quyền NTFS? Đáp án: Quyền thư mục NTFS trội hơn quyền file NTFS.
+Công cụ nào dùng để backup hệ thống trên Windows Server? Đáp án: Windows Server Backup.
+Để backup hệ thống trên Windows Server, công cụ nào thường được sử dụng? Đáp án: Windows Server Backup
+Để giải nén một file đã được nén bằng NTFS, cần? Đáp án: Khi mở file, hệ thống tự động giải nén
+Điều gì xảy ra khi bạn di chuyển tệp hoặc thư mục trong cùng một ổ đĩa NTFS? Đáp án: Các quyền được chỉ định cho thư mục không thay đổi.
+Điều gì xảy ra khi di chuyển tệp/thư mục trong cùng một ổ đĩa NTFS? Đáp án: Các quyền được chỉ định cho thư mục không thay đổi.
+File Server là gì? Đáp án: Máy chủ lưu trữ và chia sẻ dữ liệu.
+Giả sử ổ đĩa C: đã được định dạng với hệ thống tệp tin FAT, cần sử dụng lệnh nào dưới đây để chuyển đổi ổ này sang hệ thống tệp tin NTFS? Đáp án: convert C: /fs:ntfs
+Giả sử trong cơ quan nhiều người dùng có nhu cầu sử dụng tài nguyên trong hệ thống giống nhau. Anh (chị) hãy cho biết cách đơn giản nhất để cấp quyền cho họ là? Đáp án: Đặt họ vào những nhóm, sau đó gán quyền cho các nhóm đó
+Group Policy có thể dùng để làm gì? Đáp án: Ấn định quyền hạn User, thiết lập kịch bản logon, triển khai phần mềm ứng dụng cho Client.
+Hình thức tấn công vào phiên làm việc giữa client và server cách đánh cắp cookie của người sử dụng sau khi họ đã qua bước xác thực với máy chủ, sau đó sẽ chiếm quyền điều khiển của phiên làm việc này.”. Đây là mô tả đúng nhất về hình thức tấn công nào? Đáp án: Session Hijacking.
+Khi 1 file nén được copy từ 1 phân vùng đến 1 thư mục nén trên 1 phân vùng khác thì? Đáp án: Phải giải nén, copy trong trạng thái không nén, sau đó lại nén lại.
+Khi quyền Share và NTFS cùng áp dụng, quyền thực tế thường là gì? Đáp án: quyền hạn chế hơn.
+Khi server Domain Controller bị lỗi, để phục hồi Active Directory, cần boot vào chế độ nào? Đáp án: Directory Services Restore Mode (DSRM)
+Kiểu volume nào sau đây được Windows Server 2012 R2 hỗ trợ khả năng chịu lỗi? Đáp án: Mirrored
+Kiểu volume nào sau đây được Windows Server 2012 R2 hỗ trợ và có khả năng chịu lỗi? Đáp án: Mirrored
+Lệnh net use trong Windows Server dùng để làm gì? Đáp án: Kết nối hoặc ngắt kết nối với tài nguyên chia sẻ.
+Lệnh net use trong Windows Server dùng để? Đáp án: Kết nối hoặc ngắt kết nối với tài nguyên chia sẻ
+Loại nhóm nào không dùng để gán quyền cho tài nguyên? Đáp án: Nhóm phân phối.
+Một thư mục DATA được share cho U01 Full Control, nhưng NTFS của U01 chỉ là Read. Quyền thực sự là gì? Đáp án: Read. Ghi nhớ: Khi truy cập qua mạng, quyền thực tế là quyền hạn chế hơn giữa Share Permission và NTFS Permission.
+Nếu đĩa định dạng là NTFS thì trong hộp thoại Properties sẽ có thêm một Tab gì so với hộp thoại Properties nếu ổ đĩa định dạng FAT? Đáp án: Tab Security
+Nếu nhiều người dùng có nhu cầu sử dụng tài nguyên giống nhau, cách đơn giản nhất để cấp quyền là gì? Đáp án: Đặt họ vào các nhóm, sau đó gán quyền cho nhóm.
+Người dùng NEU có NTFS Full Control trên D:\DATA, nhưng Share Permission của DULIEU là Read. Từ máy B truy cập DULIEU thì quyền là gì? Đáp án: Read.
+Nhóm dùng để gán quyền cho tài nguyên gồm những nhóm nào? Đáp án: Nhóm toàn thể, nhóm an ninh, nhóm cục bộ miền.
+Nhóm dùng để gán quyền cho tài nguyên là gì? Đáp án: Nhóm toàn thể, Nhóm an ninh, Nhóm cục bộ miền
+NSD u01 thuộc về hai nhóm g1 và g2. Nhóm g2 có quyền full control trên file f1. Nhóm g1 bị từ chối quyền write trên file f1. Quyền thực tế trên f1 của u01 là gì? Đáp án: Read/Execute
+Phân quyền NTFS nào cho phép người dùng thay đổi nội dung file? Đáp án: Modify
+Phát biểu đúng về lệnh show running-config là gì? Đáp án: Lệnh này chỉ được thực hiện ở chế độ Privileged/EXEC đặc quyền.
+Phát biểu không đúng về mục đích tạo OU là gì? Đáp án: Ủy quyền quản trị. Lưu ý: Câu này phụ thuộc đáp án đề mẫu; trong thực tế OU có thể dùng để ủy quyền quản trị.
+Phục hồi dữ liệu từ bản sao lưu gọi là gì? Đáp án: Restore.
+Phương thức RAID nào cung cấp khả năng dự phòng dữ liệu bằng cách nhân đôi? Đáp án: RAID 1
+Quyền đối với thư mục chia sẻ và quyền NTFS khác nhau như thế nào về việc kiểm soát quyền truy cập vào tài nguyên? Đáp án: Không giống như quyền thư mục chia sẻ, quyền NTFS cũng có thể được sử dụng để kiểm soát quyền truy cập vào tài nguyên được lưu trữ cục bộ trên máy tính mà người dùng đăng nhập thực tế.
+Quyền thư mục chia sẻ và quyền NTFS khác nhau như thế nào? Đáp án: Quyền NTFS có thể kiểm soát cả tài nguyên được lưu trữ cục bộ trên máy tính mà người dùng đăng nhập, còn quyền chia sẻ chỉ áp dụng khi truy cập qua mạng.
+Role nào cho phép chia sẻ tệp tin trong mạng? Đáp án: File and Storage Services.
+Role nào trên Windows Server cho phép chia sẻ tệp tin trong mạng? Đáp án: File and Storage Services
+Router đang ở chế độ EXEC đặc quyền (Chế độ Privileged). Câu lệnh nào dùng để chuyển Router sang chế độ EXEC người dùng (Chế độ User)? Đáp án: disable
+Sao lưu dữ liệu là gì? Đáp án: Lưu bản sao dữ liệu để phòng sự cố.
+Số shadow copies tối đa mà hệ thống Windows Server 2012 R2 cho phép duy trì trên mỗi volume là? Đáp án: 64
+Trên máy tính A, người dùng NEU có quyền NTFS là "Full Control" trên thư mục D:\DATA. Sau đó chia sẻ thư mục này với tên DULIEU và cấp quyền truy cập thư mục chia sẻ cho người dùng NEU là cho phép "Read". Người dùng NEU ngồi tại máy tính B và truy cập vào tài nguyên chia sẻ DULIEU thì sẽ có quyền gì? Đáp án: Read
+Trong cấu hình router, đâu là phát biểu đúng? Đáp án: Câu lệnh “show running-config” chỉ được thực hiện ở chế độ Privileged (hay còn gọi là chế độ EXEC đặc quyền).
+Trong hệ thống quản trị mạng, bộ phận kiểm soát quyền truy cập vào mạng dựa trên chính sách định trước gọi là gì? Đáp án: Security Management.
+Trong Windows Server 2012, các nhóm cục bộ hệ thống (built-in) sẽ nhận các thiết lập đặc biệt thông qua cơ chế nào? Đáp án: Quyền hạn người dùng (user right)
+Trong Windows Server 2012, các nhóm cục bộ hệ thống built-in nhận thiết lập đặc biệt thông qua cơ chế nào? Đáp án: Quyền hạn người dùng (User Right).
+Volume kiểu Striped có đặc điểm gì? Đáp án: Giúp nâng cao hiệu suất xử lý so với Volume kiểu Simple.
+Volume kiểu striped là gì? Đáp án: Volume kiểu striped giúp nâng cao hiệu suất xử lý so với volume kiểu simple.
+
+BẢO MẬT MẠNG, TẤN CÔNG, IDS/IPS, FIREWALL, VPN
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user? Đáp án: Giới hạn số lần login
+Chính sách tài khoản nào nên thiết lập để ngăn chặn tấn công ác ý vào tài khoản User? Đáp án: Giới hạn số lần logon/login.
+Chức năng của hệ thống phát hiện xâm nhập IDS là gì? Đáp án: Giám sát, cảnh báo, bảo vệ.
+Chức năng hệ thống phát hiện xâm nhập IDS là gì? Đáp án: Giám sát, cảnh báo, bảo vệ
+Công nghệ nào cho phép người dùng kết nối đến mạng LAN công ty qua Internet bằng kênh mã hóa an toàn? Đáp án: VPN.
+Công nghệ nào cho phép người sử dụng kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn? Đáp án: VPN
+Đâu không phải là chức năng của IDS? Đáp án: Điều khiển luồng.
+Đâu không phải là một kiểu tấn công từ chối dịch vụ? Đáp án: Packet Sniffing Attack.
+Đâu không phải tiêu chí đánh giá mức độ nguy cơ hệ thống? Đáp án: Quy mô tấn công.
+Đâu là phát biểu đúng khi nói về Network Base IDS? Đáp án: Không cho biết việc tấn công có thành công hay không thành công
+DDoS Distribute Denial of Services Từ chối dịch vụ phân tán
+DMZ Demilitarized Zone Vùng phi quân sự
+DoS Denial of Service Từ chối dịch vụ
+HIDS Host Base Instruction Detect System Hệ thống phát hiện xâm nhập dựa trên máy chủ
+IDS Instruction Detect System Hệ thống phát hiện xâm nhập 
+NIDS Network Base Instruction Detect System Hệ thống phát hiện xâm nhập dựa trên mạng
+Đâu là phát biểu đúng nhất về nguy cơ hệ thống: Nguy cơ hệ thống (Risk) được hình thành bởi sự kết hợp giữa…. ? Đáp án: Lỗ hổng hệ thống và các mối đe dọa đến hệ thống.
+Firewall giúp làm gì? Đáp án: Kiểm soát lưu lượng và ngăn truy cập trái phép.
+Hình thức lừa đảo qua email giả mạo gọi là gì? Đáp án: Phishing.
+IDS/IPS có tác dụng gì? Đáp án: Phát hiện và ngăn chặn tấn công mạng.
+Khi gõ lệnh "ping 192.168.1.1", thiết bị đang thực hiện gì? Đáp án: Gửi ICMP echo request
+Khi gõ lệnh ping 192.168.1.1, thiết bị đang làm gì? Đáp án: Gửi ICMP Echo Request.
+Khi xác định mức độ nguy cơ hệ thống, nếu hệ thống kết nối vật lý không an toàn thì hệ thống ở mức nguy cơ nào? Đáp án: Cao.
+Network Based IDS có đặc điểm gì? Đáp án: Không cho biết việc tấn công có thành công hay không thành công.
+Nguy cơ hệ thống là gì? Đáp án: Lỗ hổng hệ thống và các mối đe dọa đến hệ thống
+Phishing là gì? Đáp án: giả mạo email/trang web để lừa người dùng cung cấp thông tin nhạy cảm.
+Session Hijacking là gì? Đáp án: chiếm quyền phiên làm việc, thường bằng cách đánh cắp cookie hoặc token phiên.
+Sử dụng biện pháp nào để phòng chống Ping Sweep hiệu quả? Đáp án: Cấu hình Firewall chặn các gói tin ICMP mặc định.
+Sử dụng biện pháp nào sau đây để phòng chống tấn công “Ping Sweep” hiệu quả? Đáp án: Cấu hình ở tường lửa (firewall) để chặn các gói tin ICMP mặc định
+Tấn công từ chối dịch vụ DoS có tác dụng gì? Đáp án: Làm hệ thống ngừng hoạt động.
+Thứ tự thực hiện các luật trong chính sách bảo mật ở Firewall là gì? Đáp án: Từ trên xuống.
+Tiêu chí đánh giá khi xác định mức độ nguy cơ hệ thống? Đáp án: Chi phí,thời gian, danh dự, tài nguyên hệ thống, cơ hội kinh doanh / KHÔNG CÓ Quy mô tấn công
+Tiêu chí đánh giá mức độ nguy cơ hệ thống gồm những gì? Đáp án: Chi phí, thời gian, danh dự, tài nguyên hệ thống, cơ hội kinh doanh.
+Tính bí mật của dữ liệu nghĩa là gì? Đáp án: Chỉ người có quyền mới được truy cập.
+Trong tấn công DDoS, các máy tính bị nhiễm chương trình nguy hiểm và bị điều khiển bởi thành phần nào? Đáp án: Master hoặc Handler.
+Trong tấn công từ chối dịch vụ phân tán, các máy tính bị cài đặt hay lây nhiễm các chương trình nguy hiểm và bị điều khiển bởi thành phần nào? Đáp án: Master hay Handler
+VPN giúp làm gì? Đáp án: Tạo kết nối an toàn qua mạng công cộng.
+Xác thực người dùng là quá trình gì? Đáp án: Kiểm tra danh tính khi truy cập hệ thống.
+vùng mạng DMZ là vùng mạng trung lập để đặt các máy chủ cung cấp dịch vụ ra Internet (như Web, Mail). Việc này giúp tách biệt rủi ro: nếu máy chủ trong DMZ bị tấn công, mạng nội bộ (LAN) vẫn được bảo vệ an toàn phía sau tường lửa.
+Mỗi luật trong Firewall thường có 7 thuộc tính mô tả dưới đây:Chiều đi của gói tin (vào hoặc ra),Giao thức (TCP hoặc UDP),Địa chỉ IP nguồn, hoặc một dải địa chỉ IP nguồn,Cổng nguồn,Địa chỉ IP đích hoặc một dải địa chỉ IP đích
+Cổng đích,Hành động (chấp nhận hoặc từ chối)
+
+DNS, DOMAIN NAME, MAIL, PACKET TRACER, CÔNG CỤ
+Bạn có thể thêm thành viên cho nhóm nào sau đây bằng Control Panel (chọn nhiều đáp án)? Đáp án: Users; Administrators
+Bạn đang quản trị một máy print server chạy Windows Server 2012 R2. Bạn muốn tiến hành bảo trì một thiết bị in đang gắn trực tiếp với print server. Tuy nhiên, đang có một số tài liệu in nằm trên hàng đợi. Bạn không muốn thiết bị in in các tài liệu này, nhưng cũng không muốn người dùng phải gửi lại các yêu cầu in đã được gửi tới hàng đợi. Giải pháp nào sau đây là tốt nhất để giải quyết tình huống này? Đáp án: Mở cửa sổ hàng đợi của printer, chọn tạm dừng in (pause printing) trong trình đơn Printer.
+Bạn đang quản trị một máy print server chạy Windows Server 2012 R2. Người dùng thuộc nhóm Marketing cho biết, họ không thể in được tài liệu khi sử dụng printer trên máy print server. Bạn kiểm tra quyền trên printer thì thấy nhóm Marketing có quyền Manage Documents. Phát biểu nào sau đây giải thích đúng nhất lý do mà người dùng không thể in được tài liệu? Đáp án: Nhóm Marketing phải có quyền Print.
+Bạn đang thực hiện cài đặt một printer pool trên máy Windows Server 2012 R2. Printer pool gồm ba thiết bị in giống nhau. Bạn mở cửa sổ Properties của printer, chọn táp Ports và đánh dấu chọn mục Enable Printer Pooling. Bước tiếp theo bạn phải thực hiện là? Đáp án: Chọn hoặc tạo ra các cổng phù hợp với kết nối của ba printer.
+Bản ghi nào sau đây có chứa thông tin phục vụ cho quá trình phân giải ngược của hệ thống DNS? Đáp án: PTR
+Bản ghi nào cho biết Mail server? MX
+Bản ghi quy định trên các Server? NS
+Bạn phải khởi chạy bằng tay dịch vụ nào sau đây của Windows, để AppLocker có thể thực hiện các chính sách của nó? Đáp án: Application Identity
+Bạn phải thực hiện công việc nào sau đây, trước khi bạn có thể quản lý Windows Server 2012 R2 ở xa bằng Computer Management snap-in? Đáp án: Kích hoạt luật (rule) COM+ Network Access trên server ở xa.
+Các (tiện ích) feature nào sau đây của Hyper-V, cho phép giá trị Minimum RAM trong một máy ảo có thể nhỏ hơn giá trị Startup RAM (chọn các đáp án phù hợp)? Đáp án: Smart paging.; Guest Integration Services.
+Các công cụ làm việc với nhóm chính sách có thể truy cập loại tập tin nào trong Central Store? Đáp án: ADMX
+Các kiểu tấn công từ chối dịch vụ gồm những kiểu nào? Đáp án: SYN Flood Attack, DNS Attack, Smurf Attack.
+Các lý do để sử dụng chế độ Server Core (có thể chọn nhiều đáp án)? Đáp án: Có thể chuyển server từ chế độ Server Core sang chế độ GUI mà không phải cài đặt lại hệ điều hành; Bản Server Manager mới trong Windows Server 2012 R2 giúp việc quản trị từ xa dễ dàng hơn
+Các lý do nào sau đây dẫn tới việc chúng ta sẽ sử dụng cạc mạng kiểu emulated thay cho cạc mạng kiểu synthetic (chọn nhiều đáp án)? Đáp án: Bạn muốn cài đặt hệ điều hành trên máy ảo bằng Windows Deployment Services server.; Hệ điều hành bạn dự định cài trên máy ảo không có gói Guest Integration Services.
+Các phát biểu nào sau đây mô tả đúng nhất về các yêu cầu khi muốn mở rộng một volume trên đĩa kiểu dynamic? (chọn tất cả các khả năng) Đáp án: Nếu muốn mở rộng một volume kiểu simple và sau khi mở rộng nó vẫn thuộc kiểu simple thì chỉ có thể sử dụng không gian đĩa còn trống trên cùng một đĩa cứng vật lý; Có thể mở rộng một volume kiểu simple sang các đĩa cứng khác, miễn là volume đó không phải là system volume hoặc boot volume.
+Các phát biểu nào sau đây nói đúng về volume kiểu striped? Đáp án: Volume kiểu striped giúp nâng cao hiệu suất xử lý so với volume kiểu simple.
+Các phát biểu nào sau đây nói không đúng về cạc mạng kiểu synthetic? Đáp án: Cạc mạng kiểu synthetic có thể khởi động máy ảo bằng kĩ thuật khởi động qua mạng PXE.
+Các thành phần mạng nào sau có thể hoạt động với vai trò giống như một trạm chuyển tiếp DHCP (DHCP relay agents)? Đáp án: Routers; Máy Windows Server 2012 R2
+Các thông tin cấu hình TCP/IP nào sau đây thường được cấu hình ở mức scope option trong DHCP? Đáp án: Default Gateway
+Cái nào sau đây cho phép điều chỉnh việc lưu tạm (caching) của hệ thống DNS? Đáp án: Táp Start of Authority (SOA) trong mục Properties của zone.
+Cái nào sau đây không phải là một thành phần của hệ thống DNS? Đáp án: Relay agents
+Câu nào sau đây nói không đúng về Server Manager? Đáp án: Server Manager có thể cùng một lúc cài đặt nhiều chức năng cho nhiều server
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user? Đáp án: Giới hạn số lần Logon
+Cho biết tên của thư mục mà Windows sử dụng để lưu toàn bộ các thành phần cần thiết liên quan đến việc cài đặt các chức năng của hệ điều hành sau này? Đáp án: WinSxS
+Cho địa chỉ mạng là 172.16.32.0/19, vậy subnet mask sẽ là? Đáp án: 255.255.224.0
+Chương trình nào sau đây có thể sử dụng để thêm, xóa hoặc thay đổi các đối tượng trong AD, nếu cần thiết có thể thay đổi schema? Đáp án: LDIFDE
+Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là Not Configured. Kết quả của thiết lập này là? Đáp án: Trạng thái của chức năng đó vẫn là disabled
+Có một chức năng trong hệ thống được thiết lập là disabled. Bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể trong GPO bạn thiết lập giá trị cho nó là Not configured. Kết quả của thiết lập này là? Đáp án: Trạng thái của chức năng đó vẫn là disabled
+Có thể sử dụng vi xử lý nào dưới đây để cài đặt Windows Server 2012 R2? Đáp án: Chỉ có vi xử lý 64-bit
+Công cụ nào sau đây được sử dụng để thực hiện các cấu hình cho thiết lập mẫu? Đáp án: Security Templates snap-in
+Công nghệ nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn? Đáp án: VPN
+Công việc nào sau đây bạn không thể thực hiện được từ xa, khi server ở xa đang chạy Windows Server 2008? Đáp án: Cài đặt các role bằng Server Manager.
+Chức năng merge chỉ xuất hiện trong edit virtual hard disk với điều kiện nào sau đây ? Khi bạn đang lựa chọn 1 đĩa cứng kiểu difference để điều chỉnh
+Để áp dụng GPO trên một nhóm người dùng cụ thể trong OU, bạn sử dụng kĩ thuật nào sau đây? Đáp án: Security filtering (lọc)
+Để chuyển từ giao diện đồ họa (GUI) sang giao diện dòng lệnh (Server Core) cần gỡ bỏ các thiết lập nào (chọn nhiều đáp án)? Đáp án: Graphical Management Tools and Infrastructure; Server Graphical Shell
+Để chuyển Windows Server 2012 R2 từ chế độ Server Core sang Minimal Server Interface, bạn phải cài đặt feature nào? Đáp án: Graphical Management Tools and Infrastructure
+Để kết nối (join) một máy tính vào domain, sử dụng lệnh của chương trình nào sau đây? Đáp án: Netdom.exe
+Để kiểm tra dịch vụ DNS ta sử dụng lệnh nào? Đáp án: Nslookup
+Để liệt kê các luật hiện tại của Windows Firewall trên một máy tính đang chạy Windows Server 2012 R2, sử dụng lệnh Windows PowerShell nào? (có thể chọn nhiều đáp án)? Đáp án: Get-NetFirewallRule; Show-NetFirewallRule
+Để phân giải tên miền thành địa chỉ IP trong mạng, dịch vụ nào được dùng? Đáp án: DNS
+Để tạo bản ghi phân giải tên trong DNS cho tên miền, dùng loại bản ghi nào? Đáp án: A Record.
+Để làm cho các thay đổi về môi trường không tác động lên lược sử mạng, cần làm thao tác gì? Thay đổi tên file ntuser.dat thành file ntuser.man
+Để triển khai một mẫu bảo mật cho tất cả các máy tính trong AD DS, bạn sử dụng các công cụ nào sau đây (chọn nhiều đáp án)? Đáp án: Group Policy Object Editor; Group Policy Management
+DHCPACK, đây là gói tin nhằm giúp? Đáp án: DHCP server xác nhận thông tin áp dụng cho client
+Dịch vụ nào dùng để phân giải tên miền thành địa chỉ IP? Đáp án: DNS.
+File nào chứa dữ liệu sao lưu DNS zone dạng text? Đáp án: zone.dns
+FTP sử dụng cổng nào để truyền hình? Đáp án: 21
+FTP sử dụng cổng nào để truyền lệnh? Đáp án: 21
+Giải pháp nâng cấp lên Windows Server 2012 R2 nào sau đây có thể thực hiện được? Đáp án: Từ Windows Server 2008 Standard lên Windows Server 2012 R2 Standard
+Giải pháp tạo đường hầm tự động nào sau đây được hệ điều hành Windows sử dụng, trong trường hợp máy tính nằm sau NAT router? Đáp án: Teredo
+Giấy phép bản quyền của hệ điều hành nào sau đây không giới hạn số lượng các bản cài trên máy ảo? Đáp án: Windows Server 2012 R2 Datacenter.
+Gói tin nào sau đây không được sử dụng trong quá trình trao đổi để cấp một địa chỉ IP cho client? Đáp án: DHCPINFORM
+Group nào được sử dụng để tập hợp người dùng và group trên nhiều domain hoặc toàn forest? Đáp án: Universal
+Hai loại (lớp) đối tượng quan trọng trong AD là? Đáp án: Đối tượng nút lá, không thể chứa các đối tượng khác (Leaf); Thùng chứa (Container)
+Khay chứa đĩa cứng dựa trên công nghệ JBOD có thể sử dụng để thay thế cho các công nghệ lưu trữ nào sau đây? Đáp án: RAID
+Khi bạn cài role Hyper-V trên server Windows Server 2012 R2, hệ điều hành trên server đó sẽ được chuyển vào đối tượng nào? Đáp án: Parent partition. Khi bạn chạy Server Manager trên máy trạm
+Khi bạn sử dụng Active Directory Users And Computers để xóa một group kiểu global, tuy nhiên, hệ thống không cho phép thực hiện. Đâu là nguyên nhân (chọn nhiều đáp án)? Đáp án: Group có chứa thành viên được thiết lập là primary group.; Tài khoản hiện tại không có quyền xóa các đối tượng.
+Khi cấu hình SSH, bạn cần tạo gì đầu tiên? Đáp án: hostname và domain-name
+Khi cấu hình SSH, cần tạo gì đầu tiên? Đáp án: Hostname và domain-name.
+Khi nào nên dùng Conditional Forwarder trong DNS Server? Đáp án: Khi muốn phân giải nhanh tên miền của domain khác
+Khi sử dụng CSVDE, hàng dữ liệu đầu tiên trong tập tin .CSV được gọi là gì? Đáp án: Header record
+Khi thiết kế hạ tầng Active Directory, để hạn chế tới mức tối đa việc tạo domain, lý do nào sau đây không hợp lý? Đáp án: Bạn phải trả tiền bản quyền cho Microsoft với mỗi domain được tạo ra.
+Kiểu cấu hình gộp cạc mạng nào sau đây, vừa cung cấp khả năng chịu lỗi, vừa tăng băng thông cho hệ thống? Đáp án: Switch Independent Mode
+Kiểu volume nào sau đây được Windows Server 2012 R2 hỗ trợ khả năng chịu lỗi? Đáp án: Mirrored
+Kiểu volume nào sau đây được Windows Server 2012 R2 hỗ trợ và có khả năng chịu lỗi (chọn tất cả các khả năng)? Đáp án: Mirrored; RAID-5
+Lệnh nào dùng để kiểm tra dịch vụ DNS? Đáp án: nslookup.
+Loại bản ghi DNS nào dùng để ánh xạ địa chỉ IP với hostname? Đáp án: PTR Record
+Loại địa chỉ IPv6 nào sau đây tương đương với IPv4 private? Đáp án: Unique local unicast.
+Loại luật nào sau đây không có trong Software Restriction Policies của Windows Server 2012 R2? Đáp án: Firewall rules
+Loại luật nào sau đây sẽ kiểm soát các tập tin có phần mở rộng là .msi? Đáp án: Windows Installer rules
+Loại nhóm nào không dùng để gán quyền cho tài nguyên? Đáp án: Nhóm phân phối
+Mặc định, hyper-V server có thể gán bao nhiêu địa chỉ MAC cho các cạc mạng ảo? Đáp án: 256
+Một hệ thống muốn được nhận ra trên Internet, thì nó phải sử dụng loại địa chỉ IP nào? Đáp án: Registered (được đăng kí).
+Một cơ sở có 100 sinh viên, 20 giáo viên. SV chỉ được dùng máy in HP02, chiến lược phân nhóm hợp lý? Tạo 2 nhóm cục bộ LG1, LG2, 2 nhóm toàn thể GG1,GG2. Gán quyền sử dụng HP01,HP02 cho LG1, HP02 cho LG2
+Một máy tính có địa chỉ IP là 10.75.143.88, bản ghi nào sau đây trong reverse lookup zone là dạng tên đầy đủ (FQDN) của nó? Đáp án: 88.143.75.10.in-addr.arpa
+Nếu đĩa định dạng là NTFS thì trong hộp thoại properties sẽ có thêm một Tab gì so với hộp thoại properties nếu ổ đĩa định dạng FAT? Đáp án: Tab Security
+Những lí do nào sau đây cho thấy không nên thực hiện tạo ra checkpoint cho máy ảo (chọn các đáp án đúng)? Đáp án: Checkpoint tiêu hao một không gian đĩa cứng rất lớn.; Các checkpoint đã có sẽ làm giảm hiệu suất của các máy ảo.
+Những thao tác nào sau đây không thể thực hiện được với một dịch vụ (service) trong Server Manager? Đáp án: Vô hiệu một dịch vụ (Disable); Cấu hình để một dịch vụ tự chạy khi máy tính khởi động
+Phát biểu nào không đúng về mục đích tạo OU? Đáp án: Để tạo một thùng chứa cố định, không thể di chuyển hoặc đổi tên.
+Phát biểu nào sau đây mô tả đúng nhất về đối tượng được cấp quyền (security principal) liên quan đến quá trình cấp quyền NTFS? Đáp án: Đối tượng được cấp quyền là người sẽ được nhận các quyền sử dụng tài nguyên
+Phát biểu nào sau đây nói không đúng về đĩa cứng định dạng VHDX? Đáp án: Chỉ có thể mở các đĩa VHDX bằng Windows Server 2012 R2 và Windows Server 2012.
+Phát biểu nào sau đây phù hợp với ảo hóa loại 1, và loại 2 (chọn các đáp án phù hợp)? Đáp án: Trong ảo hóa loại 1, hypervisor chạy trực tiếp trên phần cứng của máy thật.; Trong ảo hóa loại 2, hypervisor chạy trên nền hệ điều hành của máy thật.
+Phát biểu nào sau đây phù hợp với máy ảo thế hệ 1 và máy ảo thế hệ 2 (chọn các đáp án phù hợp)? Đáp án: Việc tạo máy ảo thế hệ 2 thì nhanh hơn so với việc tạo ra máy ảo thế hệ 1.
+Resource Record nào ánh xạ tên máy (hostname) vào địa chỉ IP version 6? Đáp án: AAAA
+Roaming profile cho phép lưu profile của user trên đâu? Đáp án: Client
+Sau đây là các mô tả về stater GPO, mô tả nào phù hợp nhất? Đáp án: Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
+Server ở xa đang chạy Windows Server 2008, để kết nối tới server này bằng Server Manager từ Windows Server 2012 R2, bạn phải cập nhật các gói nào (chọn nhiều phương án)? Đáp án: .NET Framework 4.0; Windows Management Framework 3.0
+Số shadow copies tối đa mà hệ thống Windows Server 2012 R2 cho phép duy trì trên mỗi volume là? Đáp án: 64
+Sử dụng câu lệnh nào để kiểm tra dịch vụ DNS? Đáp án: nslookup
+Switch ảo nào sau đây không cho phép hệ điều hành trên máy ảo giao tiếp với partition cha? Đáp án: Private
+Tác vụ nào sau đây có thể thực hiện bằng quota trong File Server Resource Manager nhưng không thể thực hiện được bằng quota của NTFS? Đáp án: Gửi một email tới người quản trị, khi người dùng sử dụng vượt quá định mức của họ.
+Tên nhãn ngoài cũng bên phải trong mỗi domain name được gọi là gì? Đáp án: Top-level domain
+Tên nhãn ngoài cùng bên phải trong mỗi domain name gọi là gì? Đáp án: Top-level domain.
+Thành phần nào sau đây giúp DHCP client có thể giao tiếp với DHCP server nằm trên mạng con khác? Đáp án: Relay agent
+Thứ tự thực thi của GPOs trong cấu trúc Active Directory? Đáp án: Domain, OU, Site
+Thuật ngữ nào sau đây diễn đạt quá trình hệ thống xem xét người dùng được phép làm gì trên một thư mục chia sẻ, bằng cách đọc các quyền mà họ đã được cấp? Đáp án: Authorization
+Thuật ngữ nào sau đây nói về một thành phần giao tiếp mềm (software interface). Nó giúp máy tính giao tiếp với thiết bị in? Đáp án: Printer driver
+Tiện ích nào sau đây được sử dụng để kết nối gián tiếp (offline) máy tính tới domain? Đáp án: Djoin.
+Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tốt hơn Telnet? Đáp án: SSH.
+Tình huống nào sau đây làm cho hash rule bị mất tác dụng trong việc kiểm soát các phần mềm (chọn tất cả các khả năng)? Đáp án: Khi bạn nâng cấp tập tin đang được thiết lập hash rule lên phiên bản mới.; Khi tập tin đang được thiết lập hash rule bị virus làm thay đổi nội dung.
+Trong các chế độ cấp địa chỉ IP cho client của DHCP Windows Server 2012 R2, thuật ngữ nào sau đây tương đương với “reservation”? Đáp án: Cấp Manual
+Trong các phát biểu liên quan đến thuộc tính (attribute) của một đối tượng (object), phát biểu nào sau đây không đúng? Đáp án: Các đối tượng thuộc kiểu leaf không chứa thuộc tính.
+Trong domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đối tượng nào có thể là thành viên của group kiểu global (chọn nhiều đáp án)? Đáp án: Các tài khoản người dùng.; Các tài khoản máy tính.; Group kiểu global.
+Trong hệ thống mạng có một trong các thiết bị in không hoạt động được, và bạn muốn người dùng tạm thời không được phép gửi yêu cầu in tới printer nối với thiết bị đó. Bạn sẽ thực hiện hành động nào sau đây? Đáp án: Ngưng việc chia sẻ printer.
+Trong hệ thống quyền NTFS của Windows Server 2012 R2, kết hợp các quyền kiểu advanced sẽ tạo thành các quyền kiểu gì (chọn nhiều khả năng)? Đáp án: Basic; Standard
+Trong hoạt động của DNS, hệ thống sẽ tạo ra một truy vấn kiểu đệ quy trong tình huống nào sau đây? Đáp án: DNS client yêu cầu DNS server của nó phân giải tên miền www.adatum.com sang địa chỉ IP.
+Trong Hyper-V, switch ảo có số cổng tối đa là? Đáp án: Không giới hạn
+Trong máy cục bộ có nhiều local GPO, local GPO nào có quyền ưu tiên cao nhất? Đáp án: User-specific group policy
+Trong môi trường Active Directory, dịch vụ nào sau đây được client sử dụng để tìm kiếm các đối tượng trên domain khác? Đáp án: Global Catalog
+Trong môi trường AD, đối tượng nào sau đây không thể chứa các domain? Đáp án: OU
+Trong Packet Tracer, công cụ nào dùng để kiểm tra quá trình gửi và nhận giữa các thiết bị? Đáp án: Add Simple PDU.
+Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong số các công cụ sau đây để tiến hành kiểm tra quá trình gửi và nhận giữa các thiết bị? Đáp án: Add Simple PDU
+Trong Software Restriction Policies, chiến lược nào sẽ cấm chạy mọi phần mềm, ngoại trừ các phần mềm đã được Administrator cho phép chạy một cách tường minh? Đáp án: Disallowed
+Trong vận hành thực tế, loại ảo hóa server nào sau đây cung cấp hiệu suất xử lý tốt nhất cho các server đòi hỏi lưu lượng xử lý lớn? Đáp án: Ảo hóa loại 1.
+Trong việc truyền các gói tin IPv6 trên nền IPv4, giải pháp nào sau đây được sử dụng phổ biến? Đáp án: Tunneling.
+Trong Windows Server 2012 R2, các nhóm cục bộ của hệ thống (buitl-in) sẽ nhận các thiết lập đặc biệt thông qua cơ chế nào? Đáp án: Quyền hạn người dùng (user right)
+Trong Windows Server 2012 R2, có hai tài khoản người dùng tạo sẵn (built-in) nào? Đáp án: Administrator; Guest
+Trong Windows Server 2012 R2, loại tài khoản nào sau đây không cho phép cấu hình? Đáp án: Network accounts
+Trong hệ thống Mail Server, giao thức kết nối giữa server to server ? SMTP
+Trong Windows Server 2012 R2, sau khi cấu hình và triển khai Audit Directory Service Access, bạn phải làm gì tiếp theo thì hệ thống mới thực hiện theo dõi việc truy cập Active Directory? Đáp án: Sử dụng Active Directory Users and Computers để lựa chọn các đối tượng trong Active Directory sẽ bị theo dõi
+Việc chuyển đổi kiểu của group nào sau đây không cho phép làm trong mọi tình huống? Đáp án: Từ global sang domain local.
+Với một đĩa cứng ảo kiểu pass-through, yêu cầu nào sau đây là đúng? Đáp án: Đĩa được sử dụng để làm đĩa ảo kiểu pass-through phải được thiết lập chế độ offline trong partition cha của Hyper-V server.
+Windows 8 bằng Remote Server Administrator Tools, mặc định, thành phần nào sau đây không được hiển thị? Đáp án: Trang quản lý của Local Server.
+Yêu cầu nào sau đây không cần phải có, khi gắn một cạc Fibre Channel tới một máy ảo trong Hyper-V? Đáp án: Bạn phải có một cáp nối SCSI để kết nối cạc Fibre Channel và thiết bị lưu trữ.
+Bộ định tuyến (router) của ĐHKTQD có địa chỉ IP là: 17.16.11 ? 172.16.1.26 - 172.16.1.249/24
+
