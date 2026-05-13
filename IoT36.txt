@@ -1,0 +1,196 @@
+CHƯƠNG 1:
+     FIT KHÁI NIỆM
+Vật thể (Thing): Một đối tượng vật lý hoặc ảo có thể được định danh và tích hợp vào mạng truyền thông.
+Gateway (Cổng kết nối): Thiết bị trung gian giúp kết nối các thiết bị IoT với mạng Internet.
+M2M (Machine to Machine): Giao tiếp trực tiếp giữa các thiết bị mà không cần sự can thiệp của con người.
+RFID (Radio Frequency Identification): Công nghệ nhận dạng bằng sóng vô tuyến, dùng để định danh và theo dõi đối tượng.
+NFC (Near Field Communication): Công nghệ truyền dữ liệu không dây tầm ngắn, thường dùng trong thanh toán và nhận dạng.
+     KHÁI NIỆM IOT:
+EU: “cơ sở hạ tầng mạng toàn cầu”, “liên kết các đối tượng vật lý và ảo”, “thu thập dữ liệu và giao tiếp”.
+ITU: “cơ sở hạ tầng toàn cầu cho xã hội thông tin”, “dịch vụ tiên tiến”, “công nghệ thông tin và truyền thông hiện có và tương lai”.
+IETF: “mạng lưới toàn cầu”, “định danh duy nhất”, “giao thức truyền thông tiêu chuẩn”.
+IEEE: “nhúng cảm biến”, “kết nối với Internet”.
+WSIS 2005: “thiết bị truyền tín hiệu di động tầm ngắn”, “giao tiếp mới giữa con người và thiết bị”, “giữa các thiết bị với nhau”.
+Gartner: “đối tượng vật lý có chứa công nghệ nhúng”, “trạng thái bên trong”, “môi trường bên ngoài”.
+Kevin Ashton: “sử dụng cảm biến để kết nối thế giới vật lý với thế giới số”, “hiểu và phản ứng với môi trường”.
+IoTAgenda: “mã định danh duy nhất (UID)”, “truyền dữ liệu qua mạng”, “không cần tương tác giữa con người với nhau hoặc giữa con người với máy tính”.
+Forbes: “bất kỳ thiết bị nào có công tắc bật/tắt”, “máy pha cà phê, máy giặt…”, “động cơ phản lực hoặc giàn khoan dầu”.
+IoT Association: “thiết bị vật lý được kết nối với Internet”, “thu thập và trao đổi dữ liệu”, “không cần sự can thiệp của con người”.
+Cisco Systems: “hàng tỷ đối tượng vật lý trên thế giới”, “kết nối với nhau thông qua Internet”, “chia sẻ dữ liệu”.
+     MỐC TG
+1990: Máy nướng bánh mì được cho là đồ vật đầu tiên được kết nối internet.  1999: Thuật ngữ “internet of things” được đề xuất bởi Kevin Ashton khi thuyết trình về một hệ thống cảm biến và nhãn nhận dạng qua tần số radio (RFID) gắn trên hàng hóa để quản lý chuỗi cung ứng.  2000: LG giới thiệu chiếc tủ lạnh có kết nối internet đầu tiên trên thế giới  2008: Hội nghị quốc tế đầu tiên về IoT được tổ chức tại Zurich, Thụy Sĩ.  2009: Theo Cisco, đây là thời điểm mà mạng internet vạn vật thực sự được khai sinh, khi số lượng thiết bị được kết nối internet vượt dân số thế giới.  2012: Hội nghị Internet Châu Âu diễn ra với chủ đề “Internet of Things”.  2021: Ước tính có hơn 46 tỷ thiết bị được kết nối trên Internet. 
+BOARD ARDUINO UNO R3
+-  Vi xử lý: ATmega328P
+-  Điện áp hoạt động: 5 Volts
+-  Điện áp vào giới hạn: 7 đến 20 Volts
+-  Dòng tiêu thụ: khoảng 30mA
+-  Số chân Digital I/O: 14
+-  Số chân Analog: 6
+-  Dòng tối đa trên mỗi chân I/O: 30 mA
+-  Dòng ra tối đa (5V): 500 mA
+-  Dòng ra tối đa (3.3V): 50 mA
+-  Bộ nhớ Flash: 32 KB
+-  SRAM: 2 KB
+-  EEPROM: 1 KB
+-  Clock Speed: 16 MHz
+ 
+BOARD ARDUINO UNO WIFI - WEMOS D1
+  Vi điều khiển: ESP8266EX
+  Điện áp hoạt động: 3V3
+  I/O Digital Pin: 11
+  Analog Pin: 1 (Max input = 3V2)
+  Xung clock: 80MHz / 160MHz
+  Flash: 4Mb
+  Khối lượng: 25g
+  Kích thước: 68.6mm x 53.4mm
+ 
+Nhập xuất Digital (Digital I/O)
+-pinMode()
+-digitalWrite()
+-digitalRead()
+Nhập xuất Analog (Analog I/O)
+-analogReference()
+-analogRead()
+-analogWrite() – PWM – PPM
+Hàm thời gian
+-millis()
+-micros()
+-delay()
+-delayMicroseconds()
+ 
+ESP32 – Thông số kỹ thuật
+- CPU: Dual-core Xtensa LX6, tốc độ 160/240 MHz
+- RAM: 520 KB SRAM
+- Flash: 4 MB
+- Wi-Fi: 802.11 b/g/n
+- Bluetooth: BLE và Bluetooth Classic
+- ADC: 18 kênh
+- DAC: 2 kênh tích hợp
+- Giao tiếp: SPI, I2C, UART, CAN, PWM
+ 
+— MÔ HÌNH 3 LỚP —
+Lớp 1 – Thiết bị (Device / Perception Layer): Chứa cảm biến, actuator, RFID,... dùng để thu thập dữ liệu từ môi trường.
+Lớp 2 – Mạng (Network Layer): Truyền dữ liệu từ thiết bị đến server/cloud qua Wi-Fi, Bluetooth, 4G/5G,...
+Lớp 3 – Ứng dụng (Application Layer): Cung cấp dịch vụ cho người dùng như Smart Home, Smart City, Smart Farming,...
+— MÔ HÌNH 5 LỚP — 
+Lớp 1 – Đối tượng (Object Layer): Chứa các thiết bị vật lý như sensor, RFID, actuator dùng để thu thập dữ liệu.
+Lớp 2 – Trừu tượng đối tượng (Object Abstraction Layer): Truyền dữ liệu và xử lý giao thức kết nối như Wi-Fi, Bluetooth, ZigBee, MQTT,...
+Lớp 3 – Quản lý dịch vụ (Service Management Layer): Xử lý dữ liệu, quản lý dịch vụ và liên kết giữa thiết bị với ứng dụng.
+Lớp 4 – Ứng dụng (Application Layer): Cung cấp các ứng dụng IoT như Smart Home, Smart City, Smart Farming,...
+Lớp 5 – Quản lý (Business / Management Layer): Quản lý toàn hệ thống, business logic, bảo mật và thống kê dữ liệu.
+— MÔ HÌNH 7 LỚP —
+Lớp 1 – Thiết bị vật lý và bộ điều khiển (Physical Devices & Controllers): Chứa cảm biến, actuator và thiết bị IoT dùng để thu thập dữ liệu.
+Lớp 2 – Kết nối (Connectivity): Truyền dữ liệu giữa các thiết bị và hệ thống qua Wi-Fi, Bluetooth, Ethernet, 4G/5G,...
+Lớp 3 – Điện toán biên (Edge Computing): Xử lý dữ liệu gần nơi tạo dữ liệu để giảm độ trễ và giảm tải cho cloud.
+Lớp 4 – Tích lũy dữ liệu (Data Accumulation): Thu thập, lưu trữ và chuyển dữ liệu sang dạng phù hợp để xử lý tiếp.
+Lớp 5 – Trừu tượng hóa dữ liệu (Data Abstraction): Chuẩn hóa, phân tích và trích xuất dữ liệu để ứng dụng dễ sử dụng.
+Lớp 6 – Ứng dụng (Application): Cung cấp các ứng dụng IoT cho người dùng như Smart Home, Smart Health, Smart Factory,...
+Lớp 7 – Hợp tác và quy trình (Collaboration & Processes): Hỗ trợ quản lý, ra quyết định và tích hợp quy trình doanh nghiệp.
+ARDUINO / IoT FUNCTIONS AND CODE
+ADC (Analog to Digital Converter): Chuyển tín hiệu analog sang digital.
+analogRead(pin): Đọc giá trị analog (thường 0–1023).
+analogReference(): Thiết lập điện áp tham chiếu cho analog input.
+analogWrite(pin, value): Xuất tín hiệu PWM (0–255).
+constrain(x,a,b): Giới hạn giá trị trong khoảng cho phép.
+DAC (Digital to Analog Converter): Chuyển tín hiệu digital sang analog.
+delay(ms): Dừng chương trình theo mili giây.
+delayMicroseconds(us): Dừng chương trình theo micro giây.
+digitalRead(pin): Đọc trạng thái HIGH / LOW từ chân digital.
+digitalWrite(pin, value): Xuất HIGH hoặc LOW ra chân digital.
+for(initialization; condition; increment): Vòng lặp lặp lại nhiều lần.
+if(condition): Thực hiện lệnh khi điều kiện đúng.
+irrecv.enableIRIn(): Bật cảm biến hồng ngoại IR.
+lcd.begin(col,row): Khởi tạo LCD với số cột và dòng.
+lcd.setCursor(col,row): Đặt vị trí con trỏ trên LCD.
+map(x,in_min,in_max,out_min,out_max): Ánh xạ giá trị từ khoảng này sang khoảng khác.
+micros(): Trả về số micro giây từ khi board hoạt động.
+millis(): Trả về số mili giây từ khi board hoạt động.
+myservo.attach(pin): Gắn servo vào chân tín hiệu.
+myservo.write(angle): Điều khiển góc quay servo.
+pinMode(pin, mode): Thiết lập chân INPUT / OUTPUT.
+PWM (Pulse Width Modulation): Điều chế độ rộng xung để điều khiển LED, motor,...
+Serial.begin(9600): Khởi tạo giao tiếp Serial với baud rate 9600.
+Serial.print(): In dữ liệu lên Serial Monitor.
+CÂU HỎI:
+-  Board Arduino Uno R3 sử dụng nguồn điện áp bao nhiêu volt? B. 5V
+-  Đặc điểm "kết nối liên tục" của IoT mang lại lợi ích gì? A. Giao tiếp thời gian thực
+-  Đại lượng đầu vào của cảm biến thường được gọi là gì? B. Kích thích
+-  Đâu không phải là hệ điều hành phổ biến để chạy các ứng dụng loT? C. FPGA
+-  Đâu không phải là một phương pháp định danh (Identification) đối tượng trong IoT? d.Semantic
+-  Đâu không phải là một tính năng của CoAP? c. Tìm đường đi tối ưu
+-  Đâu không phải là một tính năng mà một cảm biến tốt cần có? A. Có độ phân giải cao với các hiện tượng vật lý khác với hiện tượng mà nó đo
+-  Đâu không phải là một ứng dụng IoT? C. Web 2.0
+-  Đâu không phải là nền tảng phần cứng phổ biến để chạy các ứng dụng loT? d. NFC
+-  Đâu không phải là tiêu chí để so sánh các nền tảng IoT? b.Số lượng thiết bị mạng
+-  Đâu không phải là ưu điểm khi ứng dụng IoT vào trong các dây chuyền sản xuất (các cảm biến được gắn vào máy móc để theo dõi hoạt động của chúng)? d.Có nguy cơ bị đánh cắp dữ liệu
+-  Đâu là câu trả lời đúng nhất về phạm vi hoạt động tối đa của NFC? b. 10 cm
+-  Đâu là câu trả lời đúng nhất về tốc độ truyền dữ liệu tối đa của NFC? a. 424 Kbps
+-  Đâu là mô tả đúng nhất về thuộc tính “Độ nhạy” của cảm biến IoT? c.Sự thay đổi tối thiểu của thông số đo được gây ra thay đổi có thể phát hiện được trong tín hiệu đầu ra
+-  Đâu là mô tả đúng nhất về thuộc tính “Độ phân giải” của cảm biến IoT? a.Sự thay đổi tối thiểu trong hiện tượng mà cảm biến có thể phát hiện
+-  Đâu là phát biểu đúng khi nói về giao thức định tuyến cho mạng tổn hao năng lượng thấp (RPL)?  a. RPL sắp xếp cấu trúc liên kết mạng theo biểu đồ định hướng đích (Destination-Oriented Graph)
+-  Đâu là phát biểu đúng về giao thức CoAP?  b. CoAP định nghĩa một giao thức truyền tải web dựa trên REpresentational State Transfer (REST)
+-  Đâu là phát biểu sai khi nói về Cơ cấu chấp hành (bộ truyền động; thiết bị chấp hành) IoT? d.Cơ cấu chấp hành IoT là một thiết bị quan sát một hoặc nhiều thuộc tính của một thực thể vật lý và chuyển đổi các thuộc tính đó thành thông tin
+-  Đâu là phát biểu sai khi nói về giao thức định tuyến cho mạng tổn hao năng lượng thấp (RPL)?  d.RPL không hỗ trợ phương thức truyền dữ liệu: đa điểm đến điểm (MP2P)
+-  Địa chỉ website của cộng đồng Arduino Việt Nam là gì?  d. http://arduino.vn/
+-  Điền vào chỗ trống trong phát biểu về Đặc trưng về độ tuyến tính của cảm biến: Một cảm biến được gọi là tuyến tính trong một dải đo xác định nếu trong dải chế độ đó,…………………………   a.độ nhạy không phụ thuộc vào đại lượng đo.
+-  Giao thức định tuyến RPL, hàm mục tiêu Objective Function zero (OF0) chọn node kế thừa dựa trên yếu tố nào?   a.Tổng thứ tự ưu tiên của node cha
+-  IoT cần đảm bảo điều gì khi xử lý dữ liệu?  B. Bảo mật dữ liệu
+-  IoT giúp gì cho doanh nghiệp?  B. Nâng cao hiệu quả hoạt động
+-  Khi nói về các giao thức trong loT có 2 phát biểu sau đây: PB1 - Giao thức BLE (Bluetooth Low Energy) hiệu quả hơn về mức tiêu thụ năng lượng so với giao thức ZigBee; PB2- Giao thức BLE sử dụng phương pháp truy cập đường truyền TDMA. Hỏi khẳng định nào sau đây là đúng?   a. PB1 sai, PB2 sai
+-  Khi nói về các giao thức trong loT có 2 phát biểu sau đây: PB1- Giao thức BLE (Bluetooth Low Energy) hỗ trợ tốc độ dữ liệu cao hơn giao thức EPCglobal; PB2-Giao thức BLE hoạt động trong dải tần số 100MHz. Hỏi khẳng định nào sau đây là đúng?   C.PB1 đúng. PB2sai
+-  Khi nói về giao thức Z-Wave trong IoT, phát biểu nào sau đây là đúng?    c.Z-Wave cho phép kết nối điểm-điểm trong phạm vi khoảng 30 mét
+-  Khi nói về giao thức Z-Wave trong IoT, phát biểu nào sau đây là sai?   b. Z-Wave hoạt động trong dải tần số 100MHz
+-  Ký hiệu các bước xử lý như sau: (1) Thu thập dữ liệu; (2) Biến đổi dữ liệu; (3) Lọc dữ liệu; (4) Phân tích dữ liệu; (5) Trình bày kết quả; (6) Tổ chức và lưu trữ: Đâu là thứ tự đúng trong quá trình xử lý dữ liệu cảm biến?     B. 1-3-2-6-4-5
+-  Lập trình với hàm map() trong Arduino. Cho biết giá trị nhận được từ cảm biến được ghi vào biến sensorReading; giá trị cảm biến min là sensorMin = 0; giá trị cảm biến max là sensorMax = 600. Hỏi câu lệnh nào sau đây dùng để khai báo ánh xạ kết quả đọc giá trị cảm biến thành một trong bốn giá trị: 0, 1, 2 hoặc 3?     a. int range = map(sensorReading, sensorMin, sensorMax, 0, 3);
+-  Lệnh nào dùng để in giá trị lên màn hình Serial trong Arduino?  d.Serial.print();
+-  Mô hình tham chiếu IoT 3 lớp không bao gồm lớp nào?  a.Lớp Kết nối
+-  Một trong những ứng dụng chính của cảm biến tiệm cận là gì?   C. Xác định sự hiện diện của vật thể
+-  Nguvên lý hoạt động của cảm biến quang dựa trên hiện tượng gì?    D. Biến đổi ánh sáng thành điện
+-  Ở bước tổ chức và lưu trữ trong quá trình xử lý dữ liệu cảm biến, “Sắp xếp và lưu trữ dữ liệu theo một cách có tổ chức” để làm gì?  C. dễ dàng truy cập và tìm kiếm
+-  Phát biểu nào sau đây là đúng khi nói đến lớp Quản lý dịch vụ (Service Management) trong mô hình tham chiếu IoT 5 lớp?   b.Lớp này cho phép các lập trình viên ứng dụng IoT làm việc với các đối tượng không đồng nhất mà không cần xem xét đến một nền tảng phần cứng cụ thể
+-  Rủi ro khi dữ liệu được truyền qua các kênh IoT không an toàn là gì?  D. Mất kiểm soát thiết bị
+-  Tại sao cần phải xử lý dữ liệu cảm biến?  D. Dữ liệu có thể bị thiếu hoặc nhiễu
+-  Thứ tự đúng từ lớp 1 đến lớp 5 trong mô hình tham chiếu loT 5 lớp là:
+     	 d. Objects, Object Abstraction, Service Management, Application, Business
+-  Thuật ngữ "Internet of Things" đã được Kevin Ashton đề xuất vào năm nào?  C. Năm 1999
+-  Trong Arduino, câu lệnh lcd.setCursor(0, 0); thực hiện chức năng gì?   b.Đặt vị trí con trỏ ở cột 0, hàng 0 trên LCD
+-  Trong Arduino, câu lệnh: analogWrite(ledPin, 128);, mức sáng của đèn LED tương ứng với bao nhiêu phần trăm?   b.50%
+-  Trong Arduino, câu lệnh: map(sensorValue, 0, 1023, 0, 255); chuyển đổi giá trị của sensorValue sang dải giá trị nào?   c.0 – 255
+-  Trong Arduino, cho đoạn lệnh như sau: for (int pos = 0; pos <= 180; pos += 1) { myservo.write(pos); }, kết quả thực thi đoạn lệnh là gì?   d.Xoay servo từ 0 độ đến 180 độ
+-  Trong Arduino, đoạn lệnh: for (int i = 3; i < 10; i++) { pinMode(i, OUTPUT); }, lệnh này thiết lập bao nhiêu chân làm đầu ra?    c.7
+-  Trong Arduino, hàm nào dùng để đặt lại giá trị tối thiểu và tối đa của cảm biến để hiệu chỉnh?    c.map()
+-  Trong Arduino, Lệnh nào sau đây giúp đọc giá trị từ một cảm biến analog gắn vào chân A0?   D. analogRead(A0);
+-  Trong Arduino, sử dụng lệnh nào để kiểm tra một nút nhấn (Button) có được bấm không?  d.digitalRead(Button);
+-  Trong các phát biểu sau, phát biểu nào là đúng khi nói về giao thức IEEE 802.15.4?   a.IEEE 802.15.4 có cung cấp các dịch vụ bảo mật, mã hóa và xác thực
+-  Trong điều khiển IoT với Board Arduino Uno R3, lập trình Arduino: nếu trạng thái nút bấm (buttonState) là mức thế cao thì điều khiển bật đèn led (ledPin). Hỏi đoạn lệnh nào sau đây là đúng nhất?
+        	 C. if (buttonState == HIGH) { digitalWrite(ledPin, HIGH); } else { } digitalWrite(ledPin, LOW);
+-  Trong giao thức định tuyến RPL, độ trễ trong MRHOF được tạo ra nhằm mục đích gì?   a.Tránh thay đổi node cha liên tục
+-  Trong giao thức MQTT (Message Queue Telemetry Transport) không bao gồm thành phần nào?  d.Administrator
+-  Trong hệ thống RFID, làm thế nào để thẻ RFID thụ động nhận năng lượng để hoạt động?   c.Từ sóng vô tuyến của đầu đọc
+-  Trong IoT, đâu là phát biểu đúng về giao thức CoAP?    d.CoAP có thể được chia thành 2 lớp con: lớp con nhắn tin; lớp con yêu cầu/phản hồi
+-  Trong IoT, Giao thức AMQP là viết tắt của cụm từ:  c. Advanced Message Queuing Protocol
+-  Trong IoT, khi nói về giao thức LTE-A (Long Term Evolution—Advanced) có 2 phát biểu sau đây: PB1- Giao thức LTE-A hỗ trợ tốc độ dữ liệu upload lên tới 1Gbps; PB2- Giao thức LTE-A sử dụng phương pháp truy cập đường truyền CSMA/CD. Hỏi khẳng định nào sau đây là đúng?   b.PB1 đúng, PB2 sai
+-  Trong lập trình Arduino, câu lệnh nào cho phép chương trình dừng trong thời gian 1 giây?    C. delay(1000)
+-  Trong lập trình Arduino, câu lệnh nào không thuộc nhóm hàm Digital I/O?  A. digitalSerial()
+-  Trong lập trình Arduino, câu lệnh: Serial.begin (9600) có ý nghĩa là gì?   B. Khai báo sử dụng truyền Serial với tốc độ baud là 9600
+-  Trong lập trình Arduino với Board Arduino Uno R3, câu lệnh nào sau đây là sai?   D. pinMode(Pin5, DIGITAL)
+-  Trong lập trình Arduino với Board Arduino Uno R3, sử dụng hàm nào để lấy giá trị của cảm biến điện trở quang (photoresistor)?   D. analogRead()
+-  Trong lập trình điều khiển bằng hồng ngoại với Arduino, sau khi tạo đối tượng IRrecv, sử dụng hàm nào sau đây để bật cảm biến hồng ngoại? a.irrecv.enableIRIn();
+-  Trong lập trình điều khiển động cơ servo, biết myservo là biến được khai báo kiểu Servo, sử dụng hàm nào để thay đổi góc quay của servo với tọa độ góc quay là 90 độ?	 A. myservo.write(90);
+-   Trong lập trình điều khiển động cơ servo, sau khi khởi tạo đối tượng và đặt tên là myservo, câu lệnh nào để thiết lập vị trí chân cắm cho động cơ Servo vào chân tín hiệu số 9?    a.myservo.attach(9);
+-  Trong lập trình điều khiển với Arduino, nếu giá trị của sensor là 5 thì kết quả trả về của hàm constrain(sensor,10,150) là bao nhiêu?     B. 10
+-  Trong lập trình giao tiếp Arduino với màn hình LCD 16x2 sử dụng thư viện LiquidCrystal.h, câu lệnh nào sau đây dùng để thiết lập loại LCD sử dụng là 16 cột và 2 dòng?    C. lcd.begin(16,2);
+-  Trong lập trình IoT, đâu là phát biểu sai về Arduino IDE?     c. Trong Arduino IDE không có công cụ Debugger (công cụ giúp tìm kiếm và sửa lỗi)
+-  Trong mô hình tham chiếu IoT 3 lớp, lớp 1 không bao gồm loại thiết bị nào?    b. Thiết bị liên kết mạng như Switch, Router
+-  Trong mô hình tham chiếu IoT 7 lớp, lớp "Điện toán biên" ở lớp nào?    C. Lớp 3
+-  Trong mô hình tham chiếu IoT 7 lớp, lớp "Khả năng kết nối" (Connectivity) không bao gồm chức năng nào sau đây?     c. Chuyển đổi tín hiệu tương tự sang số và số sang tương tự theo yêu cầu
+-  Trong mô hình tham chiếu IoT 7 lớp, lớp "Trừu tượng hóa dữ liệu" không bao gồm chức năng nào sau đây?    b.Giao tiếp với các thiết bị ở lớp 1
+-  Trong số các công nghệ sau đây, công nghệ nào ít ảnh hưởng đến sự phát triển của IoT nhất?    a. Truyền thông đa phương tiện
+-  Trong số các giao thức sau đây, giao thức nào không thuộc nhóm giao thức cơ sở hạ tầng?   a.XMPP
+-  Trong số các giao thức sau đây, giao thức nào không thuộc nhóm giao thức ứng dụng?  d. mDNS
+-  Trong thành phần ngữ nghĩa (Semantics) trong IoT, Khuyến nghị Trao đổi XML hiệu quả (EXI) đã chuyển đổi các thông điệp XML sang dạng nào để giảm băng thông và giảm thiểu kích thước lưu trữ cần thiết?  a. XML nhị phân
+
+
+
+ 
+
