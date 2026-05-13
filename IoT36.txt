@@ -82,23 +82,113 @@ ESP32 – Thông số kỹ thuật
 - Giao tiếp: SPI, I2C, UART, CAN, PWM
  
 — MÔ HÌNH 3 LỚP —
-Lớp 1 – Thiết bị (Device / Perception Layer): Chứa cảm biến, actuator, RFID,... dùng để thu thập dữ liệu từ môi trường.
-Lớp 2 – Mạng (Network Layer): Truyền dữ liệu từ thiết bị đến server/cloud qua Wi-Fi, Bluetooth, 4G/5G,...
-Lớp 3 – Ứng dụng (Application Layer): Cung cấp dịch vụ cho người dùng như Smart Home, Smart City, Smart Farming,...
-— MÔ HÌNH 5 LỚP — 
-Lớp 1 – Đối tượng (Object Layer): Chứa các thiết bị vật lý như sensor, RFID, actuator dùng để thu thập dữ liệu.
-Lớp 2 – Trừu tượng đối tượng (Object Abstraction Layer): Truyền dữ liệu và xử lý giao thức kết nối như Wi-Fi, Bluetooth, ZigBee, MQTT,...
-Lớp 3 – Quản lý dịch vụ (Service Management Layer): Xử lý dữ liệu, quản lý dịch vụ và liên kết giữa thiết bị với ứng dụng.
-Lớp 4 – Ứng dụng (Application Layer): Cung cấp các ứng dụng IoT như Smart Home, Smart City, Smart Farming,...
-Lớp 5 – Quản lý (Business / Management Layer): Quản lý toàn hệ thống, business logic, bảo mật và thống kê dữ liệu.
+Lớp 1: Lớp thiết bị
+Bao gồm các cảm biến, thiết bị chấp hành và các bộ điều 
+khiển như vi xử lý/vi điều khiển, PLC, FPGA đến các máy 
+tính nhúng.
+Lớp thiết bị thực hiện đo lường và thu thập dữ liệu các đại 
+lượng vật lý thông qua các cảm biến, điều khiển các thiết 
+bị chấp hành và có thể truyền và nhận dữ liệu từ các thiết 
+bị khác qua mạng.
+Lớp 2: Lớp mạng
+Chức năng lớp mạng xác định các giao thức truyền thông 
+khác nhau được sử dụng cho việc kết nối mạng và thực 
+hiện điện toán biên.
+Lớp mạng bao gồm các thiết bị liên kết mạng như Hub, 
+Switch, Router; các thiết bị chuyển đổi giao thức mạng 
+như Gateways; đến các thiết bị có khả năng lưu trữ, xử lý 
+cục bộ trước khi gửi dữ liệu lên Server trung tâm
+Lớp 3: Lớp ứng dụng
+Đây là trung tâm lưu trữ dữ liệu hay đám mây điện tử.
+Lớp này thực hiện thu nhận dữ liệu từ lớp mạng, lưu trữ, 
+xử lý dữ liệu và ra quyết định dựa trên các thuật toán 
+AI/ML hoặc các công cụ phân tích dữ liệu hiện đại.
+
+— MÔ HÌNH 5 LỚP —
+1. Lớp Đối tượng (Objects Layer) - "Tầng vật lý"
+ Đây là nơi bắt đầu của mọi dữ liệu.
+ Thành phần: Bao gồm các cảm biến (nhiệt độ, độ ẩm, gia tốc), cơ cấu chấp hành (động cơ, đèn), RFID, và các thiết bị phần cứng.
+ Chức năng: Số hóa các thông số từ môi trường thực.
+ Điểm lưu ý: Một thiết bị có thể chứa nhiều cảm biến (ví dụ: Smartphone tích hợp GPS, con quay hồi chuyển, cảm biến ánh sáng).
+2. Lớp Trừu tượng đối tượng (Object Abstraction Layer) - "Tầng truyền dẫn"
+ Lớp này đóng vai trò là cầu nối đưa dữ liệu từ thế giới thực lên hệ thống xử lý.
+ Công nghệ: Sử dụng các phương thức như WiFi, Bluetooth, ZigBee, 4G/5G, vệ tinh hoặc mạng dây.
+ Chức năng: Chuyển các gói dữ liệu từ lớp 1 đến lớp quản lý dịch vụ thông qua các kênh truyền thông.
+3. Lớp Quản lý dịch vụ (Service Management Layer) - "Tầng Middleware"
+ Đây là lớp cực kỳ quan trọng giúp hệ thống trở nên linh hoạt.
+ Vai trò: Giúp các lập trình viên không phải lo lắng về việc thiết bị đầu cuối là hãng nào hay chạy phần cứng gì (tính không đồng nhất).
+ Chức năng: Xử lý dữ liệu thô, lọc nhiễu, quản lý tên miền/địa chỉ và đưa ra các quyết định trung gian trước khi gửi lên lớp trên.
+4. Lớp Ứng dụng (Application Layer) - "Tầng giao diện người dùng"
+ Lớp này trực tiếp tạo ra giá trị cho người dùng cuối.
+ Thành phần: Các phần mềm ứng dụng như App nhà thông minh, hệ thống theo dõi sức khỏe, quản lý vận tải.
+ Chức năng: Hiển thị dữ liệu trực quan cho khách hàng và thực hiện các yêu cầu cụ thể (ví dụ: nhấn nút trên App để bật điều hòa).
+5. Lớp Quản lý (Business Layer) - "Tầng chiến lược"
+ Đây là "bộ não" điều hành toàn bộ hệ sinh thái IoT của một doanh nghiệp.
+ Chức năng: Phân tích Dữ liệu lớn (Big Data), lập biểu đồ xu hướng, xây dựng mô hình kinh doanh.
+ Trách nhiệm: Đưa ra các quyết định mang tính chiến lược dựa trên dữ liệu tổng hợp. Ví dụ: Từ dữ liệu của hàng ngàn cảm biến điện năng ở lớp 1, lớp 5 sẽ quyết định phương án đầu tư hạ tầng lưới điện mới cho năm sau.
+ Thiết bị: Thường được vận hành trên các máy chủ đám mây (Cloud) hoặc trung tâm dữ liệu cực mạnh.
 — MÔ HÌNH 7 LỚP —
-Lớp 1 – Thiết bị vật lý và bộ điều khiển (Physical Devices & Controllers): Chứa cảm biến, actuator và thiết bị IoT dùng để thu thập dữ liệu.
-Lớp 2 – Kết nối (Connectivity): Truyền dữ liệu giữa các thiết bị và hệ thống qua Wi-Fi, Bluetooth, Ethernet, 4G/5G,...
-Lớp 3 – Điện toán biên (Edge Computing): Xử lý dữ liệu gần nơi tạo dữ liệu để giảm độ trễ và giảm tải cho cloud.
-Lớp 4 – Tích lũy dữ liệu (Data Accumulation): Thu thập, lưu trữ và chuyển dữ liệu sang dạng phù hợp để xử lý tiếp.
-Lớp 5 – Trừu tượng hóa dữ liệu (Data Abstraction): Chuẩn hóa, phân tích và trích xuất dữ liệu để ứng dụng dễ sử dụng.
-Lớp 6 – Ứng dụng (Application): Cung cấp các ứng dụng IoT cho người dùng như Smart Home, Smart Health, Smart Factory,...
-Lớp 7 – Hợp tác và quy trình (Collaboration & Processes): Hỗ trợ quản lý, ra quyết định và tích hợp quy trình doanh nghiệp.
+LỚP 1: THIẾT BỊ VẬT LÝ VÀ BỘ ĐIỀU KHIỂN (PHYSICAL DEVICES & CONTROLLERS)
+ Là các "THINGS" trong IoT.
+ CHỨC NĂNG: Thu thập dữ liệu, chuyển đổi TƯƠNG TỰ SANG SỐ (ADC), tạo dữ liệu và nhận lệnh điều khiển qua mạng.
+ Bao gồm các thiết bị đầu cuối đa dạng (Cảm biến, camera, máy móc...).
+LỚP 2: KẾT NỐI (CONNECTIVITY)
+ TRỌNG TÂM: Truyền tải thông tin đáng tin cậy và kịp thời.
+ ĐẶC ĐIỂM: Dựa trên các mạng hiện có, không yêu cầu mạng mới.
+ CHỨC NĂNG: Chuyển mạch, ĐỊNH TUYẾN, chuyển đổi giữa các GIAO THỨC MẠNG khác nhau, bảo mật lớp mạng và phân tích mạng.
+LỚP 3: ĐIỆN TOÁN BIÊN (EDGE COMPUTING)
+ MỤC TIÊU: Chuyển đổi luồng dữ liệu mạng thành thông tin phù hợp để lưu trữ (Xử lý dữ liệu sớm nhất và GẦN BIÊN NHẤT).
+ CÁC HOẠT ĐỘNG CHÍNH: Đánh giá dữ liệu (lọc dữ liệu), ĐỊNH DẠNG LẠI dữ liệu, giải mã ngữ cảnh, TÓM TẮT DỮ LIỆU (giảm lưu lượng mạng) và thẩm định ngưỡng/cảnh báo.
+LỚP 4: TÍCH LŨY DỮ LIỆU (DATA ACCUMULATION)
+ TRẠNG THÁI DỮ LIỆU: Chuyển đổi dữ liệu từ "Đang chuyển động" (Data in motion) sang "TRẠNG THÁI NGHỈ" (DATA AT REST) trên ổ đĩa/bộ nhớ.
+ CHỨC NĂNG: Xác định dữ liệu nào cần duy trì lâu dài, tổ chức dữ liệu vào hệ thống lưu trữ, kết hợp hoặc tính toán lại dữ liệu.
+ BƯỚC NGOẶT: Chuyển từ xử lý dựa trên sự kiện sang XỬ LÝ DỰA TRÊN TRUY VẤN.
+LỚP 5: TRỪU TƯỢNG HÓA (DATA ABSTRACTION)
+ MỤC TIÊU: Hiển thị và lưu trữ dữ liệu giúp phát triển ứng dụng đơn giản và hiệu quả hơn.
+ CHỨC NĂNG: Đối chiếu nhiều ĐỊNH DẠNG DỮ LIỆU từ các nguồn khác nhau (ERP, CRM, IoT), đảm bảo tính nhất quán ngữ nghĩa, PHÂN QUYỀN/XÁC THỰC bảo vệ dữ liệu, và chuẩn hóa dữ liệu để truy cập nhanh.
+ Có thể tách biệt giữa hệ thống DỮ LIỆU LỚN (BIG DATA) và hệ quản trị CSDL QUAN HỆ (RDBMS).
+LỚP 6: ỨNG DỤNG (APPLICATION)
+ TRỌNG TÂM: Diễn giải thông tin. Hoạt động với dữ liệu ở trạng thái nghỉ (không nhất thiết phải theo tốc độ mạng).
+ VÍ DỤ: Phần mềm doanh nghiệp (ERP), ứng dụng di động, báo cáo BI (BUSINESS INTELLIGENCE), phân tích dữ liệu để ra quyết định kinh doanh.
+LỚP 7: HỢP TÁC VÀ QUY TRÌNH (COLLABORATION & PROCESSES)
+ ĐIỂM KHÁC BIỆT: Bao gồm CON NGƯỜI và các QUY TRÌNH.
+ MỤC TIÊU: Biến thông tin thành HÀNH ĐỘNG.
+ BẢN CHẤT: Trao quyền cho con người làm việc tốt hơn thông qua sự giao tiếp và cộng tác dựa trên dữ liệu IoT. Đây là mức cao nhất, vượt ra ngoài phạm vi của một ứng dụng đơn lẻ.
+
+SÁU THÀNH PHẦN CỐT LÕI CỦA IOT
+A. NHẬN DẠNG (IDENTIFICATION)
+ VAI TRÒ: Đặt tên và khớp dịch vụ với nhu cầu.
+ PHƯƠNG PHÁP: Mã sản phẩm điện tử (EPC) và mã phổ biến (uCode).
+ PHÂN BIỆT: * ID ĐỐI TƯỢNG: Là tên gọi (ví dụ: "T1" cho cảm biến nhiệt độ).
+ ĐỊA CHỈ ĐỐI TƯỢNG: Là địa chỉ trong mạng truyền thông (sử dụng IPv4 hoặc IPv6).
+ CÔNG NGHỆ HỖ TRỢ: 6LoWPAN (nén tiêu đề IPv6 giúp tiết kiệm năng lượng cho mạng không dây).
+B. CẢM BIẾN VÀ CƠ CẤU CHẤP HÀNH (SENSING AND ACTUATOR)
+ CẢM BIẾN: Chuyển đổi thuộc tính vật lý thành THÔNG TIN (tín hiệu điện).
+ 3 TÍNH NĂNG: Chỉ nhạy với thông số cần đo, không nhạy với thông số khác, không làm thay đổi hiện tượng đo.
+ 3 THUỘC TÍNH TRỌNG TÂM: PHẠM VI (Max/Min), ĐỘ NHẠY (thay đổi tối thiểu đầu ra), ĐỘ PHÂN GIẢI (thay đổi tối thiểu đầu vào).
+ CƠ CẤU CHẤP HÀNH: Thay đổi thuộc tính vật lý để ĐÁP ỨNG thông tin nhận được (Ví dụ: bật vòi phun nước khi có lửa).
+ THIẾT BỊ THỰC THI: Máy tính bo mạch đơn (SBC) như Arduino Yun, Raspberry Pi, BeagleBone Black.
+C. GIAO TIẾP (COMMUNICATION)
+ Kết nối các đối tượng không đồng nhất, yêu cầu NĂNG LƯỢNG THẤP.
+ RFID: Công nghệ đầu tiên cho M2M. Thẻ gồm 3 loại: Chủ động (có pin), Bị động (không pin), Bán chủ động (dùng pin khi cần).
+ NFC: Hoạt động ở băng tần 13,56 MHz, khoảng cách dưới 10 cm.  tốc độ truyền dữ liệu tối đa 424 Kbps
+ UWB: Băng thông cao, năng lượng thấp, khoảng cách ngắn.
+ WiFi sử dụng radio sóng để trao đổi dữ liệu giữa mọi thứ trong phạm vi 100 m
+ BLUETOOTH: Bluetooth 4.1 cung cấp Bluetooth Low Energy (BLE) và kết nối IP cho IoT.
+ LTE-A: dựa trên công nghệ mạng GSM / UMTS, Phiên bản cải tiến của LTE, mở rộng băng thông đến 100 MHz, độ trễ thấp.
+D. XỬ LÝ TÍNH TOÁN (COMPUTATION)
+ PHẦN CỨNG ("BỘ NÃO"): Bộ vi điều khiển (MCU), vi xử lý, SOC, FPGA.
+ PHẦN MỀM & ĐÁM MÂY: Nền tảng Cloud giúp xử lý DỮ LIỆU LỚN (BIG DATA) trong thời gian thực.
+E. DỊCH VỤ (SERVICES) - Phân thành 4 lớp:
+ DỊCH VỤ ĐỊNH DANH (Identity-related): Cơ bản nhất, xác định đối tượng thực trong thế giới ảo.
+ DỊCH VỤ TỔNG HỢP THÔNG TIN (Information Aggregation): Thu thập và tóm tắt dữ liệu thô.
+ DỊCH VỤ HỢP TÁC - NHẬN THỨC (Collaborative-Aware): Đưa ra quyết định dựa trên dữ liệu đã tổng hợp.
+ DỊCH VỤ PHỔ BIẾN (Ubiquitous): Cung cấp dịch vụ mọi lúc, mọi nơi, cho bất kỳ ai.
+ VÍ DỤ ỨNG DỤNG: Chăm sóc sức khỏe (theo dõi sinh lý), Giao thông thông minh (ITS - gồm 4 thành phần chính: xe, trạm bên đường, trung tâm giám sát, hệ thống bảo mật), Tự động hóa công nghiệp (4 yếu tố: vận chuyển, xử lý, cảm biến, giao tiếp).
+F. NGỮ NGHĨA (SEMANTICS)
+ ĐỊNH NGHĨA: Khả năng máy móc tự TRÍCH XUẤT KIẾN THỨC một cách thông minh để đưa ra quyết định đúng.
+ CÔNG NGHỆ HỖ TRỢ: Web ngữ nghĩa (RDF, OWL).
+ ĐỊNH DẠNG EXI (Efficient XML Interchange): Chuyển XML sang dạng NHỊ PHÂN để giảm băng thông, tiết kiệm pin và bộ nhớ.
 ARDUINO / IoT FUNCTIONS AND CODE
 ADC (Analog to Digital Converter): Chuyển tín hiệu analog sang digital.
 analogRead(pin): Đọc giá trị analog (thường 0–1023).
@@ -116,6 +206,16 @@ if(condition): Thực hiện lệnh khi điều kiện đúng.
 INPUT: Thiết lập chân ở chế độ đầu vào.
 INPUT_PULLUP: Chế độ input có điện trở kéo lên nội bộ.
 irrecv.enableIRIn(): Bật cảm biến hồng ngoại IR.
+| Hàm lcd                  | Chức năng          |
+| ------------------------ | ------------------ |
+| lcd.begin()              | Khởi tạo LCD       |
+| lcd.print()              | In chữ/số          |
+| lcd.clear()              | Xóa màn hình       |
+| lcd.setCursor()          | Đặt vị trí con trỏ |
+| lcd.cursor()             | Hiện con trỏ       |
+| lcd.noCursor()           | Ẩn con trỏ         |
+| lcd.scrollDisplayLeft()  | Cuộn trái          |
+| lcd.scrollDisplayRight() | Cuộn phải          |
 lcd.begin(col,row): Khởi tạo LCD với số cột và dòng.
 lcd.setCursor(col,row): Đặt vị trí con trỏ trên LCD.
 LOW: Mức điện áp thấp / tắt.
