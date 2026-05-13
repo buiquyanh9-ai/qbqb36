@@ -111,15 +111,20 @@ delayMicroseconds(us): Dừng chương trình theo micro giây.
 digitalRead(pin): Đọc trạng thái HIGH / LOW từ chân digital.
 digitalWrite(pin, value): Xuất HIGH hoặc LOW ra chân digital.
 for(initialization; condition; increment): Vòng lặp lặp lại nhiều lần.
+HIGH: Mức điện áp cao / bật.
 if(condition): Thực hiện lệnh khi điều kiện đúng.
+INPUT: Thiết lập chân ở chế độ đầu vào.
+INPUT_PULLUP: Chế độ input có điện trở kéo lên nội bộ.
 irrecv.enableIRIn(): Bật cảm biến hồng ngoại IR.
 lcd.begin(col,row): Khởi tạo LCD với số cột và dòng.
 lcd.setCursor(col,row): Đặt vị trí con trỏ trên LCD.
+LOW: Mức điện áp thấp / tắt.
 map(x,in_min,in_max,out_min,out_max): Ánh xạ giá trị từ khoảng này sang khoảng khác.
 micros(): Trả về số micro giây từ khi board hoạt động.
 millis(): Trả về số mili giây từ khi board hoạt động.
 myservo.attach(pin): Gắn servo vào chân tín hiệu.
 myservo.write(angle): Điều khiển góc quay servo.
+OUTPUT: Thiết lập chân ở chế độ đầu ra.
 pinMode(pin, mode): Thiết lập chân INPUT / OUTPUT.
 PWM (Pulse Width Modulation): Điều chế độ rộng xung để điều khiển LED, motor,...
 Serial.begin(9600): Khởi tạo giao tiếp Serial với baud rate 9600.
