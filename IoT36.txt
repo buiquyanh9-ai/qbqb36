@@ -1,10 +1,32 @@
-CHƯƠNG 1:
      FIT KHÁI NIỆM
 Vật thể (Thing): Một đối tượng vật lý hoặc ảo có thể được định danh và tích hợp vào mạng truyền thông.
 Gateway (Cổng kết nối): Thiết bị trung gian giúp kết nối các thiết bị IoT với mạng Internet.
 M2M (Machine to Machine): Giao tiếp trực tiếp giữa các thiết bị mà không cần sự can thiệp của con người.
 RFID (Radio Frequency Identification): Công nghệ nhận dạng bằng sóng vô tuyến, dùng để định danh và theo dõi đối tượng.
 NFC (Near Field Communication): Công nghệ truyền dữ liệu không dây tầm ngắn, thường dùng trong thanh toán và nhận dạng.
+Smart Home (Nhà thông minh): Hệ thống nhà ở sử dụng thiết bị IoT để tự động hóa và điều khiển từ xa.
+Thiết bị đeo thông minh (Wearables): Các thiết bị như đồng hồ, vòng tay, kính,... có khả năng theo dõi sức khỏe và hoạt động.
+Smart City (Thành phố thông minh): Ứng dụng IoT trong quản lý đô thị như giao thông, môi trường, năng lượng,...
+Smart Farming (Nông nghiệp thông minh): Sử dụng cảm biến và thiết bị IoT để giám sát và tối ưu hóa quá trình trồng trọt và chăn nuôi.
+Smart Retail (Bán lẻ thông minh): Kệ hàng và máy bán hàng tự động tích hợp cảm biến để giám sát và phân tích hành vi khách hàng.
+
+Vùng làm việc danh định: Khoảng giá trị của đại lượng đo mà cảm biến có thể hoạt động ổn định và chính xác.
+Dữ liệu cảm biến (Sensor Data): Là dữ liệu được thu thập từ các cảm biến đo lường các yếu tố vật lý như nhiệt độ, độ ẩm, ánh sáng, áp suất,... và được sử dụng để phân tích, điều khiển hoặc ra quyết định.
+Xử lý dữ liệu (Data Processing): Quá trình thu thập, làm sạch, biến đổi, lưu trữ và phân tích dữ liệu để tạo ra thông tin có giá trị phục vụ cho các ứng dụng IoT.
+Thuật toán K-Means: Một thuật toán phân cụm dữ liệu, chia dữ liệu thành K nhóm dựa trên khoảng cách giữa các điểm dữ liệu và tâm cụm.
+Giải thuật cây nhị phân (Binary Tree Classification): Phương pháp phân loại dữ liệu bằng cách chia nhỏ tập dữ liệu theo các thuộc tính, tạo thành cây quyết định với các nhánh là điều kiện và lá là kết quả phân loại.
+Mô hình Gaussian Mixture (GMM): Mô hình xác suất dùng để phân cụm dữ liệu theo cách tiếp cận mềm, cho phép một điểm dữ liệu thuộc về nhiều cụm với xác suất khác nhau.
+Xử lý dữ liệu ngoại lệ (Outlier Detection): Quá trình phát hiện và xử lý các giá trị bất thường trong dữ liệu cảm biến, nhằm đảm bảo độ chính xác và tin cậy của phân tích.
+Phân tích thành phần chính (PCA - Principal Component Analysis): Kỹ thuật giảm chiều dữ liệu, trích xuất các thành phần chính để phát hiện các điểm dữ liệu bất thường hoặc ngoại lệ.
+Giao thức CoAP (Constrained Application Protocol):Giao thức ứng dụng dùng cho thiết bị IoT có tài nguyên hạn chế, hoạt động qua UDP để tiết kiệm năng lượng.
+Giao thức MQTT (Message Queuing Telemetry Transport): Giao thức nhắn tin sử dụng mô hình xuất bản/đăng ký, phù hợp với mạng băng thông thấp và thiết bị hạn chế tài nguyên.
+Giao thức XMPP (Extensible Messaging and Presence Protocol): Giao thức nhắn tin tức thời dựa trên XML, hỗ trợ xác thực, mã hóa và tương thích cao, có thể dùng trong IoT.
+Giao thức 6LoWPAN (IPv6 over Low power Wireless Personal Area Networks): Giao thức cho phép truyền IPv6 qua mạng không dây công suất thấp như IEEE 802.15.4, hỗ trợ nén tiêu đề (header) và phân mảnh gói tin.
+Chuẩn IEEE 802.15.4: Chuẩn cho mạng không dây tốc độ thấp, tiêu thụ năng lượng thấp, hỗ trợ nhiều cấu trúc liên kết như hình sao, lưới.
+BLE (Bluetooth Low Energy): Bluetooth tiết kiệm năng lượng, phạm vi rộng, độ trễ thấp, rất phù hợp cho các ứng dụng IoT như thiết bị đeo, cảm biến.
+EPC (Electronic Product Code): Mã sản phẩm điện tử lưu trên thẻ RFID, dùng để nhận dạng duy nhất sản phẩm trong chuỗi cung ứng.
+RFID (Radio Frequency Identification): Công nghệ nhận dạng bằng sóng vô tuyến, gồm thẻ (tag) và đầu đọc (reader), dùng trong quản lý hàng hóa và IoT.
+Z-Wave: Giao thức truyền thông không dây công suất thấp, dùng trong nhà thông minh, hoạt động ở tần số 900 MHz.
      KHÁI NIỆM IOT:
 EU: “cơ sở hạ tầng mạng toàn cầu”, “liên kết các đối tượng vật lý và ảo”, “thu thập dữ liệu và giao tiếp”.
 ITU: “cơ sở hạ tầng toàn cầu cho xã hội thông tin”, “dịch vụ tiên tiến”, “công nghệ thông tin và truyền thông hiện có và tương lai”.
@@ -44,19 +66,9 @@ BOARD ARDUINO UNO WIFI - WEMOS D1
   Khối lượng: 25g
   Kích thước: 68.6mm x 53.4mm
  
-Nhập xuất Digital (Digital I/O)
--pinMode()
--digitalWrite()
--digitalRead()
-Nhập xuất Analog (Analog I/O)
--analogReference()
--analogRead()
--analogWrite() – PWM – PPM
-Hàm thời gian
--millis()
--micros()
--delay()
--delayMicroseconds()
+Nhập xuất Digital (Digital I/O) -pinMode() -digitalWrite() -digitalRead()
+Nhập xuất Analog (Analog I/O) -analogReference() -analogRead() -analogWrite() – PWM – PPM
+Hàm thời gian -millis() -micros() -delay() -delayMicroseconds()
  
 ESP32 – Thông số kỹ thuật
 - CPU: Dual-core Xtensa LX6, tốc độ 160/240 MHz
@@ -177,7 +189,7 @@ CÂU HỎI:
 -  Trong lập trình Arduino với Board Arduino Uno R3, sử dụng hàm nào để lấy giá trị của cảm biến điện trở quang (photoresistor)?   D. analogRead()
 -  Trong lập trình điều khiển bằng hồng ngoại với Arduino, sau khi tạo đối tượng IRrecv, sử dụng hàm nào sau đây để bật cảm biến hồng ngoại? a.irrecv.enableIRIn();
 -  Trong lập trình điều khiển động cơ servo, biết myservo là biến được khai báo kiểu Servo, sử dụng hàm nào để thay đổi góc quay của servo với tọa độ góc quay là 90 độ?	 A. myservo.write(90);
--   Trong lập trình điều khiển động cơ servo, sau khi khởi tạo đối tượng và đặt tên là myservo, câu lệnh nào để thiết lập vị trí chân cắm cho động cơ Servo vào chân tín hiệu số 9?    a.myservo.attach(9);
+-  Trong lập trình điều khiển động cơ servo, sau khi khởi tạo đối tượng và đặt tên là myservo, câu lệnh nào để thiết lập vị trí chân cắm cho động cơ Servo vào chân tín hiệu số 9?    a.myservo.attach(9);
 -  Trong lập trình điều khiển với Arduino, nếu giá trị của sensor là 5 thì kết quả trả về của hàm constrain(sensor,10,150) là bao nhiêu?     B. 10
 -  Trong lập trình giao tiếp Arduino với màn hình LCD 16x2 sử dụng thư viện LiquidCrystal.h, câu lệnh nào sau đây dùng để thiết lập loại LCD sử dụng là 16 cột và 2 dòng?    C. lcd.begin(16,2);
 -  Trong lập trình IoT, đâu là phát biểu sai về Arduino IDE?     c. Trong Arduino IDE không có công cụ Debugger (công cụ giúp tìm kiếm và sửa lỗi)
@@ -189,8 +201,3 @@ CÂU HỎI:
 -  Trong số các giao thức sau đây, giao thức nào không thuộc nhóm giao thức cơ sở hạ tầng?   a.XMPP
 -  Trong số các giao thức sau đây, giao thức nào không thuộc nhóm giao thức ứng dụng?  d. mDNS
 -  Trong thành phần ngữ nghĩa (Semantics) trong IoT, Khuyến nghị Trao đổi XML hiệu quả (EXI) đã chuyển đổi các thông điệp XML sang dạng nào để giảm băng thông và giảm thiểu kích thước lưu trữ cần thiết?  a. XML nhị phân
-
-
-
- 
-
