@@ -18,6 +18,7 @@ Giải thuật cây nhị phân (Binary Tree Classification): Phương pháp ph�
 Mô hình Gaussian Mixture (GMM): Mô hình xác suất dùng để phân cụm dữ liệu theo cách tiếp cận mềm, cho phép một điểm dữ liệu thuộc về nhiều cụm với xác suất khác nhau.
 Xử lý dữ liệu ngoại lệ (Outlier Detection): Quá trình phát hiện và xử lý các giá trị bất thường trong dữ liệu cảm biến, nhằm đảm bảo độ chính xác và tin cậy của phân tích.
 Phân tích thành phần chính (PCA - Principal Component Analysis): Kỹ thuật giảm chiều dữ liệu, trích xuất các thành phần chính để phát hiện các điểm dữ liệu bất thường hoặc ngoại lệ.
+
 Giao thức CoAP (Constrained Application Protocol):Giao thức ứng dụng dùng cho thiết bị IoT có tài nguyên hạn chế, hoạt động qua UDP để tiết kiệm năng lượng.
 Giao thức MQTT (Message Queuing Telemetry Transport): Giao thức nhắn tin sử dụng mô hình xuất bản/đăng ký, phù hợp với mạng băng thông thấp và thiết bị hạn chế tài nguyên.
 Giao thức XMPP (Extensible Messaging and Presence Protocol): Giao thức nhắn tin tức thời dựa trên XML, hỗ trợ xác thực, mã hóa và tương thích cao, có thể dùng trong IoT.
@@ -123,6 +124,7 @@ pinMode(pin, mode): Thiết lập chân INPUT / OUTPUT.
 PWM (Pulse Width Modulation): Điều chế độ rộng xung để điều khiển LED, motor,...
 Serial.begin(9600): Khởi tạo giao tiếp Serial với baud rate 9600.
 Serial.print(): In dữ liệu lên Serial Monitor.
+
 CÂU HỎI:
 -  Board Arduino Uno R3 sử dụng nguồn điện áp bao nhiêu volt? B. 5V
 -  Đặc điểm "kết nối liên tục" của IoT mang lại lợi ích gì? A. Giao tiếp thời gian thực
