@@ -1185,24 +1185,6 @@ a. Dùng DSS chỉ để tạo báo cáo thống kê tài chính hàng quý cho 
 b. Kết hợp DSS với cơ sở tri thức từ dự án cũ để đề xuất giải pháp cho tình huống mới 
 c. Giới hạn DSS trong phạm vi quản lý dữ liệu khách hàng để đảm bảo bảo mật
 d. Tập trung phát triển DSS như công cụ độc lập mà không gắn với tri thức tổ chức
-22:50 5/12/25 Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
-https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1 1/16
-Câu hỏi 
-3
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-4
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-5
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-6
-Đúng
-Đạt điểm 1,00 trên 1,00
 Một lợi ích chính của việc áp dụng KM mechanisms trong doanh nghiệp là gì?
 a. Giảm thiểu chi phí đầu tư vào văn hóa tổ chức và đào tạo
 b. Tăng khả năng học hỏi của nhân viên và thúc đẩy quá trình chia sẻ tri thức thông qua các hoạt động thực tế 
@@ -1223,33 +1205,17 @@ a. Hệ thống ERP để quản lý nguồn lực tài chính và sản xuất
 b. Cơ chế luân chuyển nhân viên giữa các phòng ban để mở rộng kỹ năng
 c. Hệ thống lập luận tình huống (case-based reasoning) lưu trữ và gợi ý giải pháp từ kinh nghiệm trước đó 
 d. Các hội nghị trực tiếp nhằm khuyến khích trao đổi tri thức ẩn trong tổ chức
-22:50 5/12/25 Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
-https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1 2/16
-22:50 5/12/25
-Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
-Câu hỏi 
-7
-Đúng
-Đạt điểm 1,00 trên 1,00
 Tại sao KM mechanisms được coi là khác biệt so với KM technologies?
 a. Vì KM mechanisms chỉ tồn tại trong thời gian ngắn và không có tác động lâu dài
 b. Vì KM mechanisms được thiết kế để thay thế hoàn toàn hạ tầng công nghệ thông tin
 c. Vì KM mechanisms tập trung nhiều hơn vào dữ liệu thống kê và phân tích kinh tế
 d. Vì KM mechanisms chủ yếu liên quan đến các cơ chế xã hội hóa và cấu trúc tổ chức, không liên quan đến công cụ CNTT 
-Câu hỏi 
-8
-Sai
-Đạt điểm 0,00 trên 1,00
 Một doanh nghiệp khởi nghiệp thương mại điện tử đang cân nhắc đầu tư vào KM. Lãnh đạo hỏi: “Chúng ta nên ưu tiên công nghệ
 hay cơ chế xã hội hóa trước?”. Câu trả lời hợp lý nhất là gì?
 a. Cơ chế xã hội hóa chỉ cần khi doanh nghiệp đã phát triển trên quy mô toàn cầu
 b. Công nghệ và cơ chế xã hội hóa luôn hoạt động tách biệt và không cần phối hợp
 c. Ưu tiên các cơ chế xã hội hóa nếu văn hóa chia sẻ còn yếu, sau đó kết hợp công nghệ hỗ trợ V
 d. Ưu tiên công nghệ vì chỉ có CNTT mới duy trì được tri thức lâu dài
-Câu hỏi 
-9
-Đúng
-Đạt điểm 1,00 trên 1,00
 Một tập đoàn bán lẻ muốn ứng dụng trí tuệ nhân tạo (AI) để phân tích hành vi khách hàng, đồng thời duy trì khả năng học hỏi tổ
 chức. Cách tiếp cận nào phản ánh quản trị KM đúng đắn?
 a. Sử dụng AI thay thế hoàn toàn mọi hoạt động học hỏi và đào tạo nhân sự
@@ -1768,24 +1734,7 @@ a. Đều hướng đến việc thay thế hoàn toàn tương tác con ngườ
 b. Đều tập trung vào chuẩn hóa dữ liệu định lượng và lưu giữ chúng trong kho dữ liệu chung.
 c. Đều nhằm bảo đảm tri thức, dù là ẩn hay hiện, được truyền đạt hiệu quả để người nhận có thể hiểu và hành động dựa trênnó.
 d. Đều chỉ phục vụ mục đích quản lý tài chính và vận hành các quy trình hành chính.
-22:51 5/12/25 Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
-https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1 3/18
-Câu hỏi 
-10
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-11
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-12
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-13
-Đúng
-Đạt điểm 1,00 trên 1,00
+
 Các cơ sở hạ tầng nào thường được đề cập cùng với văn hóa tổ chức và cấu trúc tổ chức?
 a. Hạ tầng đào tạo nhân sự và huấn luyện, vì chúng thay thế vai trò của cơ chế KM.
 b. Hạ tầng marketing và truyền thông, vì chúng quyết định khả năng áp dụng tri thức.
@@ -1879,24 +1828,6 @@ a. Videoconferencing để khách hàng và nhân viên trao đổi trực tiế
 b. Data mining để phát hiện các mẫu dữ liệu bất thường trong giao dịch tài chính.
 c. Groupware và best practices để phổ biến quy trình xử lý chuẩn cho toàn bộ nhân viên. 
 d. Case-based reasoning để hệ thống tự động gợi ý giải pháp dựa trên các tình huống cũ.
-22:51 5/12/25 Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
-https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1 8/18
-Câu hỏi 
-28
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-29
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-30
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-31
-Đúng
-Đạt điểm 1,00 trên 1,00
 Trong ngữ cảnh hệ thống khám phá tri thức, điểm chung của việc tạo ra tri thức mới từ dữ liệu và từ xã hội hóa là gì?
 a. Cả hai đều dựa vào cùng một cơ chế là ngoại hóa tri thức ẩn thành tri thức hiện thông qua tài liệu hóa.
 b. Cả hai đều tập trung hoàn toàn vào việc lưu trữ tri thức hiện để đảm bảo khả năng truy xuất lâu dài.
@@ -2004,66 +1935,31 @@ a. Vì sự phối hợp này chỉ ra rằng tri thức ẩn và tri thức hi�
 b. Vì sự phối hợp này đảm bảo mỗi cơ chế chỉ phục vụ cho một quá trình KM duy nhất.
 c. Vì sự phối hợp này cho thấy cách tri thức được tạo ra, lưu giữ, chia sẻ và áp dụng thông qua công cụ cụ thể. 
 d. Vì sự phối hợp này loại bỏ nhu cầu tham gia của con người trong toàn bộ hệ thống.
-22:51 5/12/25 Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
-https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1 14/18
-22:51 5/12/25
-Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
-Câu hỏi 
-49
-Đúng
-Đạt điểm 1,00 trên 1,00
+
 Trong hệ thống chia sẻ tri thức, xã hội hóa (socialization) khác với trao đổi (exchange) ở điểm nào?
 a. Xã hội hóa chủ yếu được thực hiện qua các hệ thống ERP, còn trao đổi chủ yếu qua cơ sở dữ liệu.
 b. Xã hội hóa diễn ra trong nghiên cứu hàn lâm, còn trao đổi diễn ra trong doanh nghiệp thực tiễn.
 c. Xã hội hóa chỉ phù hợp với chia sẻ tri thức hiện, còn trao đổi chỉ phù hợp với chia sẻ tri thức ẩn.
 d. Xã hội hóa tập trung vào tri thức ẩn và diễn ra qua tương tác trực tiếp, còn trao đổi tập trung vào tri thức hiện qua tài liệu
-và công nghệ.
-Câu hỏi 
-50
-Đúng
-Đạt điểm 1,00 trên 1,00
-
+và công nghệ.V
+
 Trong bối cảnh khám phá tri thức, cơ chế “collaborative problem solving” trong Bảng 4.1 phục vụ trực tiếp cho mục tiêu nào?
 a. Chia sẻ tri thức ẩn giữa các thành viên nhóm thông qua xã hội hóa.
-b. Tổng hợp tri thức hiện từ nhiều nguồn để hình thành tri thức hiện mới.
+b. Tổng hợp tri thức hiện từ nhiều nguồn để hình thành tri thức hiện mới.V
 c. Biến tri thức hiện thành tri thức ẩn thông qua thực hành tại chỗ.
 d. Ghi lại kinh nghiệm cá nhân thành tài liệu chính thức để phổ biến.
-Câu hỏi 
-51
-Đúng
-Đạt điểm 1,00 trên 1,00
 Theo Bảng 4.1, công nghệ “repositories of best practices” thường gắn liền với quá trình nào?
-a. Chia sẻ tri thức, vì nó cho phép lan truyền kinh nghiệm tích lũy và các bài học rút ra.
+a. Chia sẻ tri thức, vì nó cho phép lan truyền kinh nghiệm tích lũy và các bài học rút ra.V
 b. Nắm bắt tri thức, vì nó biến đổi tri thức ẩn thành tri thức hiện để lưu trữ.
 c. Khám phá tri thức, vì nó tổng hợp dữ liệu hiện thành tri thức hiện mới.
 d. Ứng dụng tri thức, vì nó cho phép nhân viên làm theo thủ tục được quy định sẵn.
-
-
-15/18
-https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
-Câu hỏi 
-52
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-53
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-54
-Đúng
-Đạt điểm 1,00 trên 1,00
-Câu hỏi 
-55
-Đúng
-Đạt điểm 1,00 trên 1,00
+
 Hệ thống khám phá tri thức khác biệt cơ bản với hệ thống nắm bắt tri thức ở điểm nào?
 a. Khám phá tri thức chỉ áp dụng cho tri thức ẩn, còn nắm bắt tri thức chỉ áp dụng cho tri thức hiện.
 b. Khám phá tri thức diễn ra trong nghiên cứu hàn lâm, còn nắm bắt tri thức diễn ra trong doanh nghiệp.
 c. Khám phá tri thức chủ yếu dựa vào công nghệ khai phá dữ liệu, còn nắm bắt tri thức chỉ dựa vào con người.
 d. Khám phá tri thức tập trung vào việc tạo ra tri thức mới từ dữ liệu hoặc tổng hợp, còn nắm bắt tri thức giả định tri thức đã
-tồn tại và chỉ cần ghi lại.
-
+tồn tại và chỉ cần ghi lại. V
 Theo Bảng 4.1, công nghệ “case-based reasoning systems” thường hỗ trợ trực tiếp cơ chế nào?
 a. Kết hợp, bằng cách tổng hợp nhiều nguồn tri thức hiện để hình thành tri thức mới.
 b. Hướng dẫn, bằng cách cung cấp lời khuyên và giải pháp dựa trên các trường hợp trước đó. 
@@ -2106,3 +2002,1814 @@ b. Công nghệ ERP trở thành nền tảng chính để kiểm soát toàn b�
 c. Tri thức ẩn trong tổ chức được biến thành tri thức hiện để tạo ra nhiều quy trình chuẩn.
 d. Lợi thế cạnh tranh khó duy trì vì đối thủ có thể dễ dàng bắt chước chính sách lãi suất. 
 
+Chương 5:
+Làm thế nào quản trị tri thức giúp nâng cao khả năng thích ứng quy trình trong bối cảnh thay đổi môi trường kinh doanh?
+a. Đảm bảo tính minh bạch bằng việc chỉ lưu giữ tri thức hiện dưới dạng cơ sở dữ liệu số.
+b. Giới hạn sự trao đổi tri thức giữa các phòng ban để tránh xung đột lợi ích.
+c. Giảm nhu cầu cập nhật tri thức bằng cách duy trì ổn định các thủ tục đã chuẩn hóa.
+d. Cho phép quy trình nhanh chóng điều chỉnh nhờ vào việc chia sẻ tri thức liên tục giữa các nhân viên. 
+Ví dụ Buckman Laboratories minh họa tác động nào của quản trị tri thức đến quy trình tổ chức?
+a. Hiệu quả chi phí được đảm bảo khi tri thức ẩn được loại bỏ khỏi các hoạt động hàng ngày.
+b. Khả năng đổi mới quy trình nhờ khai thác tri thức từ nhân viên bán hàng. 
+c. Quy trình trở nên ổn định nhờ áp dụng nghiêm ngặt các thủ tục quản lý chuẩn hóa.
+d. Khả năng giám sát tự động các giao dịch để giảm thiểu sự can thiệp của con người.
+Trong nghiên cứu của VHA (Veterans Health Administration), tác động quan trọng nhất của quản trị tri thức đối với tổ chức y tế là gì?
+a. Loại bỏ nhu cầu đào tạo liên tục cho nhân viên y tế nhờ quy trình thủ tục tự động hóa.
+b. Sự tập trung đầu tư vào công nghệ ERP nhằm kiểm soát chi phí vận hành toàn hệ thống.
+c. Việc chuẩn hóa toàn bộ dữ liệu bệnh án thành cơ sở dữ liệu trung tâm để thay thế bác sĩ.
+d. Khả năng phối hợp giữa các bệnh viện, giúp nâng cao chất lượng dịch vụ và giảm quan liêu. 
+Những cơ chế nào thường được sử dụng trực tiếp để nâng cao động lực và sự hài lòng trong công việc của nhân viên?
+a. Hệ thống ERP và MIS, vì chúng chuẩn hóa dữ liệu và giảm sự phụ thuộc vào tri thức ẩn.
+b. Công cụ phân tích dữ liệu, vì chúng cho phép phát hiện các xu hướng và mẫu hành vi.
+c. Cơ sở dữ liệu tập trung, vì chúng cho phép lưu trữ toàn bộ tri thức hiện và hạn chế truy cập.
+d. Mentoring, đào tạo và cộng đồng thực hành giúp tăng tính gắn kết và chia sẻ tri thức. 
+Trong bối cảnh phát triển sản phẩm dựa trên tri thức, yếu tố nào thường bị đánh giá thấp nhưng lại mang tính quyết định cho sự
+thành công?
+a. Khả năng chuẩn hóa và số hóa toàn bộ tri thức hiện trong các kho dữ liệu tập trung.
+b. Sự đầu tư tài chính dài hạn cho cơ sở hạ tầng công nghệ quản trị tri thức.
+c. Việc xây dựng quy trình thủ tục thống nhất nhằm giảm thiểu sự khác biệt giữa các phòng ban.
+d. Sự gắn kết trực tiếp với tri thức ẩn của khách hàng để tạo ra sản phẩm phù hợp. 
+Một tác động quan trọng khác của KM đối với tổ chức là gì?
+a. Đảm bảo toàn bộ chiến lược kinh doanh có thể quy đổi trực tiếp thành doanh thu.
+b. Tăng sự phụ thuộc vào các nhà cung cấp bên ngoài để mở rộng tri thức.
+c. Giúp nhân viên có động lực hơn nhờ khả năng tiếp cận giải pháp đã thử nghiệm. 
+d. Giảm thiểu chi phí nhân sự thông qua việc tự động hóa toàn diện.
+Nếu tổ chức không áp dụng quản trị tri thức trong phát triển sản phẩm, rủi ro lớn nhất là gì?
+a. Khó cải tiến kịp thời để đáp ứng nhu cầu thị trường đang thay đổi nhanh chóng. 
+b. Dễ dàng thay thế bằng các đối thủ chỉ dựa vào tri thức ẩn bên ngoài tổ chức.
+c. Vẫn duy trì lợi thế cạnh tranh nhờ tập trung vào tiềm lực tài chính và vốn hóa.
+d. Tự động phát triển sản phẩm mới nhờ sự tích hợp vô thức của tri thức chuyên gia.
+Một lợi ích gián tiếp của việc nhân viên tham gia học tập tri thức từ bên ngoài tổ chức là gì?
+a. Đảm bảo tất cả tri thức ẩn đều được biến thành tri thức hiện trong kho dữ liệu nội bộ.
+b. Giảm thiểu nhu cầu đầu tư vào hệ thống đào tạo và mentoring trong nội bộ.
+c. Cho phép tổ chức loại bỏ các cộng đồng thực hành không chính thức.
+d. Giúp tổ chức cập nhật kịp thời công nghệ mới và xu hướng thị trường để duy trì sự cạnh tranh. 
+Tại công ty tư vấn ICL, vai trò sống còn của KM được thể hiện ở đâu?
+a. Khả năng nhanh chóng truy cập và kết hợp tri thức để lập hồ sơ thầu. 
+b. Đào tạo chuyên gia tư vấn thành nhà quản lý dự án để mở rộng dịch vụ.
+c. Chuẩn hóa toàn bộ tri thức thành quy trình kiểm toán nội bộ.
+d. Tận dụng hệ thống ERP để kiểm soát chi phí vận hành toàn cầu.
+Steelcase Inc. sử dụng KM để đổi mới sản phẩm theo cách nào?
+a. Tích hợp cơ sở dữ liệu khách hàng thành hệ thống ERP để tái sử dụng.
+b. Đầu tư vào tự động hóa sản xuất nhằm giảm chi phí nguyên liệu.
+c. Thu thập tri thức từ video ethnography để thiết kế lại sản phẩm văn phòng. 
+d. Chuẩn hóa thiết kế nội thất văn phòng dựa trên dữ liệu thị trường toàn cầu.
+Một công ty điện tử muốn cải tiến sản phẩm gia dụng bằng quản trị tri thức. Đâu là cách tiếp cận thể hiện rõ nhất lợi thế của KM?
+a. Tách biệt hoàn toàn các bộ phận thiết kế và sản xuất để tránh trùng lặp ý tưởng.
+b. Học hỏi từ kinh nghiệm thực hành của chuyên gia thủ công và chuyển hóa thành thiết kế mới. 
+c. Giảm toàn bộ chi phí nghiên cứu bằng cách tái sử dụng dữ liệu cũ từ các dự án trước.
+d. Chuẩn hóa toàn bộ tài liệu kỹ thuật thành cơ sở dữ liệu để dễ dàng lưu trữ lâu dài.
+Tại Shell, tác động gián tiếp của KM đối với hiệu quả tổ chức được thể hiện như thế nào?
+a. Loại bỏ hoàn toàn nhu cầu nghiên cứu thị trường nhờ sử dụng cơ sở dữ liệu tri thức.
+b. Tạo ra giá trị hơn 200 triệu USD thông qua giảm chi phí và tăng doanh thu trong một năm. 
+c. Giảm sự phụ thuộc vào các nhà cung cấp bên ngoài thông qua chuẩn hóa tri thức nội bộ.
+d. Duy trì vị thế hàng đầu ngành bằng việc áp dụng hệ thống ERP quy mô toàn cầu.
+Khái niệm economies of scope gắn với quản trị tri thức minh họa đặc điểm nào?
+a. Tập trung vào một sản phẩm duy nhất nhằm tối đa hóa hiệu suất sản xuất.
+b. Loại bỏ sự đa dạng trong danh mục để giảm thiểu chi phí vận hành.
+c. Tách biệt hoàn toàn các lĩnh vực kinh doanh nhằm duy trì sự chuyên môn hóa.
+d. Sử dụng chung nguồn tri thức để phát triển nhiều sản phẩm và thị trường. 
+Trường hợp của Ford và Firestone minh họa điều gì về tác động của quản trị tri thức đối với hiệu quả quy trình?
+a. Tầm quan trọng của việc áp dụng trí tuệ nhân tạo để thay thế mọi quyết định quản trị.
+b. Nguy cơ sai sót lớn xảy ra khi thông tin không được tích hợp và chia sẻ đầy đủ giữa các bên liên quan. 
+c. Giá trị của việc số hóa tri thức hiện thành cơ sở dữ liệu thống nhất trong toàn ngành.
+d. Sự cần thiết phải loại bỏ tri thức ẩn để tránh rủi ro trong các ngành công nghiệp nặng.
+Quản trị tri thức có thể giúp giảm chi phí phát triển sản phẩm mới chủ yếu nhờ vào đâu?
+a. Rút ngắn vòng đời thiết kế bằng cách tái sử dụng tri thức và tránh lặp lại sai lầm cũ. 
+b. Giảm nhu cầu sáng tạo tri thức mới nhờ phụ thuộc vào cơ sở dữ liệu tập trung.
+c. Loại bỏ tri thức ẩn, chỉ giữ lại dữ liệu số hóa để dễ dàng truy xuất.
+d. Tự động hóa toàn bộ quy trình sản phẩm mà không cần khảo sát khách hàng.
+Hệ thống KM tác động lên sự hài lòng trong công việc của nhân viên như thế nào?
+a. Được bảo đảm quyền lợi nghề nghiệp thông qua hệ thống đánh giá minh bạch.
+b. Giảm thiểu hoàn toàn nguy cơ bị thay thế bởi các công nghệ tự động hóa.
+c. Luôn đạt được cơ hội thăng tiến nhanh chóng nhờ tri thức hiện sẵn có.
+d. Cảm thấy giá trị bản thân tăng lên nhờ năng lực học hỏi và thích ứng được nâng cao. 
+Chevron nhấn mạnh lợi ích nào khi áp dụng quản trị tri thức?
+a. Tăng cường khả năng tiếp cận khách hàng toàn cầu bằng hệ thống tri thức số hóa.
+b. Giảm đáng kể chi phí vận hành nhờ khai thác tri thức được chia sẻ trong toàn tổ chức. 
+c. Bảo đảm tính minh bạch thông qua chuẩn hóa toàn bộ tài liệu quy trình kỹ thuật.
+d. Hoàn toàn loại bỏ rủi ro pháp lý liên quan đến các quy trình vận hành phức tạp.
+Sun Microsystems đã áp dụng kho tri thức trực tuyến để đạt được giá trị gì?
+a. Tăng lợi nhuận chủ yếu bằng cách giảm số lần phát hành sản phẩm mỗi năm.
+b. Cải thiện hỗ trợ khách hàng nhờ cung cấp bản vá lỗi và giải pháp trực tuyến sẵn có. 
+c. Giảm thiểu rủi ro bằng cách hạn chế quyền truy cập của người dùng vào kho tri thức.
+d. Chuẩn hóa dịch vụ bằng cách loại bỏ sự tham gia của khách hàng trong quá trình.
+Tại sao có thể nói rằng tác động của chia sẻ tri thức lên sự hài lòng trong công việc của nhân viên có quan hệ nhân quả hai chiều?
+a. Vì chia sẻ tri thức luôn dẫn đến xung đột lợi ích, khiến mức độ hài lòng giảm dần theo thời gian.
+b. Vì nhân viên hài lòng thường sẵn sàng chia sẻ tri thức, trong khi chia sẻ tri thức cũng làm tăng sự hài lòng công việc. 
+c. Vì sự hài lòng công việc và chia sẻ tri thức là hai hiện tượng hoàn toàn độc lập, không có quan hệ nhân quả.
+d. Vì sự hài lòng công việc chỉ phụ thuộc vào quy trình thủ tục chứ không liên quan đến tri thức.
+Đâu là yếu tố cốt lõi nhất trong câu nói của Deutsche Bank “Ideas are capital. The rest is just money”?
+a. Tri thức là vốn, còn các nguồn lực khác chỉ là tiền tệ. 
+b. Tri thức phải được chuẩn hóa thành dữ liệu kế toán.
+c. Tri thức chỉ có ý nghĩa khi đo lường được bằng ROI ngắn hạn.
+d. Tri thức cần gắn liền với sản phẩm hữu hình để tạo giá trị.
+Trong bối cảnh toàn cầu, vì sao quản trị tri thức được xem là yếu tố giúp tổ chức duy trì khả năng phục hồi (resilience) trước khủng
+hoảng?
+a. Vì tri thức hiện có thể thay thế toàn bộ nhu cầu về vốn tài chính trong ngắn hạn.
+b. Vì tri thức tích lũy cho phép tổ chức phản ứng nhanh và tìm ra giải pháp trong tình huống bất ngờ. 
+c. Vì tri thức số hóa có thể đảm bảo cho tổ chức hoạt động độc lập không cần đối tác.
+d. Vì tri thức ẩn có thể loại bỏ hoàn toàn rủi ro từ thị trường toàn cầu đầy biến động.
+Trong trường hợp British Telecom, yếu tố nào cho thấy tác động trực tiếp của KM?
+a. Giá trị thị trường cổ phiếu tăng lên nhờ các báo cáo tài chính minh bạch.
+b. Mối quan hệ đối tác dài hạn được tăng cường nhờ cam kết chia sẻ tri thức.
+c. Doanh thu tăng hàng triệu USD đến từ việc sử dụng hệ thống tri thức. 
+d. Uy tín ngành được củng cố nhờ vai trò dẫn đầu trong công bố đổi mới.
+Một trong những cách quản trị tri thức thúc đẩy đổi mới quy trình (process innovation) là gì?
+a. Giới hạn quyền truy cập vào tri thức hiện để kiểm soát tính bảo mật và giảm rủi ro.
+b. Khuyến khích brainstorming, trao đổi ý tưởng và kết hợp tri thức từ nhiều nguồn khác nhau. 
+c. Chuẩn hóa tất cả quy trình vận hành để đảm bảo tính đồng bộ tuyệt đối trong toàn tổ chức.
+d. Loại bỏ vai trò cộng đồng thực hành để tránh sự khác biệt trong cách tiếp cận vấn đề.
+Tổ chức có thể nâng cao hiệu quả quy trình (process effectiveness) nhờ quản trị tri thức bằng cách nào?
+a. Ứng dụng quy trình tự động hóa nhằm thay thế hoàn toàn sự tham gia của con người.
+b. Rút ngắn thời gian chu kỳ sản xuất và phân phối để giảm thiểu chi phí vận hành.
+c. Loại bỏ tri thức ẩn để chỉ tập trung vào tri thức hiện nhằm chuẩn hóa dữ liệu.
+d. Thu thập và tích hợp thông tin để nhận diện rủi ro tiềm ẩn, tránh lặp lại sai lầm đã có. 
+Trường hợp LeaseCo minh họa lợi thế cạnh tranh bền vững từ quản trị tri thức bằng cách nào?
+a. Đầu tư mạnh vào cơ sở hạ tầng ERP để chuẩn hóa mọi quy trình nội bộ.
+b. Cắt giảm toàn bộ chi phí marketing nhờ tận dụng dữ liệu khách hàng sẵn có.
+c. Giới hạn chia sẻ tri thức để tránh rò rỉ thông tin ra ngoài tổ chức.
+d. Kinh nghiệm đấu thầu tạo nên rào cản tri thức mà đối thủ khó sao chép. 
+Trong trường hợp Xerox, tác động quan trọng nhất của cộng đồng thực hành đối với nhân viên là gì?
+a. Đảm bảo tri thức hiện được chuyển đổi thành báo cáo định kỳ nhằm phục vụ đánh giá hiệu suất.
+b. Tích hợp toàn bộ quy trình làm việc thành cơ sở dữ liệu thống nhất để dễ dàng truy xuất.
+c. Giúp nhân viên học tập liên tục và nâng cao năng lực thích ứng với sự thay đổi.
+d. Khả năng gắn kết các nhóm phân tán địa lý để học hỏi lẫn nhau và chia sẻ kinh nghiệm. 
+Trong ngành tư vấn và phát triển phần mềm, tại sao quản trị tri thức được xem là nền tảng sống còn?
+a. Vì tri thức có thể dễ dàng thay thế, nên quản trị tri thức chỉ tạo ra lợi thế tạm thời.
+b. Vì lợi thế tài chính đủ mạnh có thể thay thế toàn bộ nhu cầu về quản trị tri thức.
+c. Vì quy trình sản xuất phần mềm chủ yếu dựa trên tự động hóa, ít liên quan đến tri thức chuyên môn.
+d. Vì tri thức chính là sản phẩm cốt lõi, cần được kết hợp và truy cập nhanh chóng để duy trì cạnh tranh. 
+Trường hợp Steelcase Inc, khi khai thác video ethnography của khách hàng cho thấy tác động nào của quản trị tri thức?
+a. Cho phép loại bỏ tri thức ẩn của khách hàng để tránh rò rỉ thông tin ra bên ngoài.
+b. Tạo điều kiện để phân tích dữ liệu định lượng phục vụ dự báo nhu cầu tiêu dùng.
+c. Giúp điều chỉnh thiết kế sản phẩm nội thất văn phòng theo trải nghiệm thực tế của người dùng. 
+d. Thay thế hoàn toàn nhà thiết kế bằng các hệ thống tạo mẫu tự động dựa trên dữ liệu.
+Khi một tổ chức thiếu quản trị tri thức, hậu quả nào thường xảy ra đối với quy trình?
+a. Gia tăng sai lầm do lặp lại thất bại trước đây và khó dự đoán rủi ro trong một môi trường kinh doanh đầy biến động. 
+b. Cải thiện liên tục nhờ học hỏi từ cộng đồng thực hành và cơ chế xã hội hóa tri thức.
+c. Đạt hiệu quả chi phí cao hơn thông qua giảm nhân sự và cắt giảm hoạt động chia sẻ.
+d. Đổi mới quy trình diễn ra nhanh chóng do không bị giới hạn bởi quy chuẩn hiện có.
+LeaseCo đã xây dựng lợi thế cạnh tranh bền vững dựa trên điều gì?
+a. Kinh nghiệm đấu thầu độc nhất giúp hình thành rào cản tri thức khó sao chép. 
+b. Xây dựng mạng lưới đối tác toàn cầu nhằm mở rộng quy mô kinh doanh.
+c. Đầu tư mạnh vào hệ thống ERP nhằm kiểm soát toàn bộ chuỗi cung ứng.
+d. Khả năng chuẩn hóa hợp đồng thuê thành mô-đun tri thức để tái sử dụng.
+Tác động trực tiếp của quản trị tri thức lên hiệu quả tổ chức có thể đo lường rõ nhất thông qua yếu tố nào?
+a. Tích lũy vốn trí tuệ để phát triển lợi thế cạnh tranh khó bắt chước.
+b. Xây dựng niềm tin nội bộ và giảm tỷ lệ nhân viên nghỉ việc trong dài hạn.
+c. Tăng cường uy tín thương hiệu và mở rộng thị phần trên phạm vi toàn cầu.
+d. Cải thiện tỷ suất lợi nhuận hoặc hoàn vốn đầu tư (ROI) nhờ áp dụng tri thức. 
+Trong bối cảnh British Telecom, yếu tố nào phản ánh tác động trực tiếp của KM?
+a. Hệ thống kế toán tích hợp giúp giảm thiểu sai sót trong báo cáo tài chính.
+b. Doanh thu hàng triệu USD đến từ việc khai thác hiệu quả hệ thống tri thức. 
+c. Tỷ lệ duy trì nhân viên tăng cao nhờ cộng đồng chia sẻ tri thức nội bộ.
+d. Số lượng sáng chế được đăng ký nhiều hơn so với các đối thủ cùng ngành.
+Một tác động gián tiếp khác của KM đối với hiệu quả tổ chức là gì?
+a. Giảm chi phí đầu tư vào hệ thống công nghệ thông tin nhờ tiêu chuẩn hóa dữ liệu.
+b. Thay thế vai trò của chiến lược kinh doanh bằng cơ chế quản trị tri thức.
+c. Đảm bảo mọi tri thức đều có thể quy đổi trực tiếp thành lợi ích tài chính.
+d. Tăng cường lòng trung thành của khách hàng thông qua vị thế dẫn đầu về tri thức. 
+Trong bối cảnh Xerox triển khai cộng đồng thực hành chiến lược, yếu tố nào mang lại giá trị tri thức lớn nhất cho nhân viên?
+a. Hoạt động kết nối trực tiếp tại các buổi gặp mặt, nơi tri thức ẩn được chia sẻ. 
+b. Việc chuẩn hóa toàn bộ tài liệu quy trình để chuyển đổi tri thức ẩn thành tri thức hiện.
+c. Việc áp dụng cơ chế nội hóa để biến tri thức hiện thành kỹ năng cá nhân mà không cần xã hội hóa.
+d. Sự thay thế của cộng đồng tự phát bằng các hệ thống ERP và MIS chính thức.
+Đâu là minh chứng rõ ràng nhất cho vai trò của tri thức ẩn trong lợi thế cạnh tranh?
+a. Có thể được chuyển đổi nhanh chóng thành tri thức hiện qua báo cáo.
+b. Khó mua bán trên thị trường và cần thời gian dài trải nghiệm để tích lũy. 
+c. Dễ dàng sao chép thông qua các hệ thống công nghệ mới.
+d. Luôn gắn liền với các công cụ tài chính và tài sản hữu hình.
+Theo quan điểm của Deutsche Bank, vai trò của tri thức đối với hiệu quả tổ chức được khái quát như thế nào?
+a. Tri thức chỉ mang lại lợi ích nếu gắn với tài sản hữu hình và công cụ tài chính cụ thể.
+b. Tri thức cần được chuyển hóa toàn bộ thành quy trình chuẩn để giảm chi phí dài hạn.
+c. Tri thức không có giá trị nếu không thể đo lường bằng các chỉ số định lượng ngắn hạn.
+d. Tri thức được xem như động lực chính, còn các nguồn lực khác chỉ đóng vai trò hỗ trợ. 
+Trường hợp ICL trong lĩnh vực tư vấn cho thấy vai trò nào của quản trị tri thức?
+a. Giúp hạn chế chia sẻ tri thức để tránh lộ thông tin cho các đối thủ cạnh tranh.
+b. Giúp thay thế tri thức chuyên gia bằng hệ thống trí tuệ nhân tạo.
+c. Giúp rút ngắn thời gian chuẩn bị hồ sơ đấu thầu. 
+d. Giúp chuẩn hóa thủ tục để giảm thiểu sự khác biệt giữa các dự án tư vấn.
+Trong trường hợp DeepGreen, điểm đột phá lớn nhất của hệ thống ứng dụng tri thức là gì?
+a. Khả năng mở rộng dịch vụ tín dụng sang nhiều quốc gia với chi phí tối thiểu.
+b. Quyết định cho vay gần như ngay lập tức dựa trên quy tắc được tự động hóa. 
+c. Việc đào tạo nhân viên thành chuyên gia phân tích định tính thay thế công nghệ.
+d. Xây dựng mạng lưới chi nhánh vật lý rộng khắp để xử lý hồ sơ vay nhanh hơn.
+Phát biểu của Chủ tịch Chevron về quản trị tri thức minh họa điều gì?
+a. Việc chia sẻ tri thức đã giúp giảm chi phí vận hành hàng tỷ USD mỗi năm. 
+b. Việc áp dụng dữ liệu kế toán giúp đo lường trực tiếp năng suất từng phòng ban.
+c. Việc triển khai hệ thống ERP giúp đảm bảo quy trình vận hành đồng nhất.
+d. Việc chuẩn hóa tri thức ẩn đã loại bỏ toàn bộ nhu cầu đào tạo nhân viên mới.
+Trong bối cảnh cộng đồng thực hành, yếu tố nào đảm bảo tri thức được lan tỏa hiệu quả giữa các thành viên?
+a. Việc phân công bắt buộc để nhân viên tham gia theo lệnh của lãnh đạo cấp cao.
+b. Sự tương tác định kỳ và niềm tin giúp duy trì hoạt động chia sẻ tri thức. 
+c. Sự thay thế hoàn toàn các buổi gặp mặt trực tiếp bằng hệ thống tài liệu số.
+d. Việc tách biệt cộng đồng theo phòng ban nhằm kiểm soát phạm vi chia sẻ tri thức.
+Trong bối cảnh cải thiện hiệu suất quy trình (process efficiency), vai trò then chốt của quản trị tri thức là gì?
+a. Hạn chế tri thức ẩn và chỉ lưu giữ tri thức hiện để đảm bảo tính minh bạch dữ liệu.
+b. Xây dựng hệ thống ERP để loại bỏ hoàn toàn nhu cầu trao đổi tri thức phi chính thức.
+c. Áp dụng duy nhất một chuẩn quy trình để thay thế mọi hình thức điều chỉnh linh hoạt.
+d. Tạo điều kiện cho quy trình vận hành nhanh hơn và tiết kiệm chi phí thông qua tái sử dụng tri thức. 
+Trường hợp VHA (Veterans Health Administration) cho thấy tác động nào của quản trị tri thức?
+a. Tập trung vào hiệu quả chi phí thông qua giảm thiểu tri thức ẩn trong hệ thống y tế.
+b. Tăng cường tính ổn định của quy trình bằng cách áp dụng thủ tục chuẩn hóa nghiêm ngặt.
+c. Loại bỏ nhu cầu cải tiến quy trình vì tổ chức đã đạt được chuẩn mực ngành cao nhất.
+d. Thúc đẩy đổi mới quy trình bằng cách phá bỏ rào cản tổ chức, giảm quan liêu và hợp tác bên ngoài. 
+Sự khác biệt cơ bản giữa sản phẩm gia tăng giá trị và sản phẩm dựa trên tri thức là gì?
+a. Sản phẩm gia tăng giá trị tập trung vào tiết kiệm chi phí, còn sản phẩm dựa trên tri thức tập trung vào dữ liệu.V
+b. Sản phẩm gia tăng giá trị là cải tiến từ sản phẩm sẵn có, còn sản phẩm dựa trên tri thức chính là tri thức hoặc dịch vụ tri
+thức.
+c. Sản phẩm gia tăng giá trị chỉ xuất hiện trong ngành sản xuất, còn sản phẩm dựa trên tri thức chỉ xuất hiện trong dịch vụ.
+d. Sản phẩm gia tăng giá trị luôn loại bỏ tri thức ẩn, còn sản phẩm dựa trên tri thức khai thác dữ liệu thô.
+Trong bối cảnh Firestone và Ford, hạn chế nào trong KM đã dẫn đến hậu quả nghiêm trọng?
+a. Không có cơ chế khuyến khích nhân viên chia sẻ tri thức nội bộ.
+b. Sự phụ thuộc quá mức vào ERP dẫn đến chậm phản ứng với thị trường.
+c. Thiếu tích hợp thông tin giữa hai công ty khiến không nắm được rủi ro về lốp xe.V
+d. Quy trình đào tạo nhân viên thiếu chuẩn hóa gây ra lỗi sản xuất liên tục.
+Việc ngoại hóa và nội hóa tri thức trong quá trình học tập của nhân viên có ý nghĩa quan trọng như thế nào đối với tổ chức?
+a. Giúp nhân viên biến tri thức ẩn thành tri thức hiện để lưu giữ và tái sử dụng, đồng thời chuyển hóa tri thức hiện thành kinh nghiệm ẩn cho những người khác.V
+b. Đảm bảo toàn bộ tri thức hiện trong tổ chức đều được chuyển thành dữ liệu số và loại bỏ tri thức ẩn để tránh rủi ro thất thoát.
+c. Thúc đẩy tổ chức chuẩn hóa quy trình vận hành và tách biệt hoàn toàn tri thức ẩn với tri thức hiện để dễ quản lý.
+d. Tạo điều kiện để nhân viên giảm thiểu chi phí học tập bằng cách tái sử dụng tài liệu chính thức thay vì tham gia các hoạt động xã hội.
+Khả năng thích ứng của nhân viên tăng lên nhờ quản trị tri thức chủ yếu vì lý do nào?
+a. Họ liên tục được tiếp cận với các ý tưởng và tri thức mới. 
+b. Họ giảm thiểu sự phụ thuộc vào đồng nghiệp và hạn chế tham gia xã hội hóa.
+c. Họ được yêu cầu tuân thủ chặt chẽ thủ tục chuẩn hóa bất kể hoàn cảnh thay đổi.
+d. Họ có quyền truy cập trực tiếp vào toàn bộ dữ liệu tài chính và báo cáo quản trị.
+Khái niệm economies of scale trong bối cảnh tác động gián tiếp của KM được hiểu thế nào?
+a. Lợi ích đạt được nhờ kết hợp nhiều loại tri thức trong một nền tảng chung.
+b. Tổ chức mở rộng phạm vi sản phẩm để khai thác tri thức rộng rãi.
+c. Chi phí bình quân trên mỗi sản phẩn giảm khi sản lượng tăng. 
+d. Tăng trưởng bền vững đạt được khi tri thức ẩn trở thành tri thức hiện.
+Trong bối cảnh toàn cầu hóa, tác động nào của quản trị tri thức giúp tổ chức duy trì lợi thế khi mở rộng sang thị trường mới?
+a. Sự tập trung duy nhất vào tri thức hiện để thay thế toàn bộ tri thức ẩn trong tổ chức.
+b. Loại bỏ các cộng đồng thực hành nhằm tránh sự phân tán tri thức ngoài tầm kiểm soát.
+c. Khả năng tái sử dụng tri thức đã tích lũy để rút ngắn thời gian thích nghi với môi trường mới. 
+d. Việc chuẩn hóa tuyệt đối các sản phẩm nhằm loại bỏ mọi sự khác biệt về nhu cầu vùng miền.
+Một trong những hạn chế khi đánh giá tác động gián tiếp của quản trị tri thức là gì?
+a. Khó có thể đo lường một cách cụ thể. 
+b. Được xem là ít ảnh hưởng hơn đối với uy tín và thương hiệu tổ chức.
+c. Luôn dẫn đến chi phí tăng cao hơn so với tác động trực tiếp.
+d. Không thể áp dụng cho các tổ chức dịch vụ vốn dựa nhiều vào tri thức.
+Khi thiếu KM, tác động lớn nhất đối với quy trình tổ chức là gì?
+a. Tăng đáng kể chi phí vận hành do thiếu chuẩn hóa dữ liệu.
+b. Giảm mạnh khả năng mở rộng quy mô toàn cầu.
+c. Mất lợi thế trong việc đàm phán với các đối tác.
+d. Nguy cơ lặp lại sai lầm trong quá khứ và không dự đoán được vấn đề rõ ràng. 
+Buckman Laboratories đã tận dụng KM để đạt được lợi ích nào?
+a. Khả năng cắt giảm chi phí sản xuất thông qua tự động hóa toàn bộ dây chuyền.
+b. Đào tạo nhân sự theo quy trình chuẩn nhằm giảm tỷ lệ sai sót.
+c. Tạo dựng thương hiệu toàn cầu dựa trên chuẩn hóa tri thức kỹ thuật.
+d. Nhân viên có thể truy cập mạng nội bộ để nhanh chóng giải quyết vấn đề khách hàng. 
+Trong quản trị tri thức, mối quan hệ giữa hiệu quả (effectiveness), hiệu suất (efficiency) và đổi mới (innovation) của quy trình được mô
+tả như thế nào?
+a. Chúng chỉ quan trọng trong ngành sản xuất, không áp dụng cho lĩnh vực dịch vụ.
+b. Chúng xung đột lẫn nhau, việc tăng hiệu suất luôn làm giảm đổi mới và hiệu quả.
+c. Chúng liên kết chặt chẽ, đổi mới có thể cải thiện đồng thời hiệu quả và hiệu suất của quy trình. 
+d. Chúng hoàn toàn độc lập, mỗi yếu tố chỉ chịu tác động bởi một loại tri thức riêng biệt.
+Trong khảo sát của IDC và KM Magazine, lý do hàng đầu để doanh nghiệp Mỹ áp dụng KM là gì?
+a. Không để mất đi nguồn tri thức quan trọng của nhân viên. 
+b. Loại bỏ chi phí nghiên cứu phát triển sản phẩm mới trong dài hạn.
+c. Tăng tỷ lệ đổi mới sáng chế so với các công ty cùng ngành.
+d. Chuẩn hóa toàn bộ tri thức thành hệ thống ERP tích hợp.
+Vì sao lợi thế cạnh tranh dựa trên tri thức được xem là bền vững hơn so với các nguồn lực khác?
+a. Tri thức chỉ có giá trị khi gắn với quy trình sản xuất hàng loạt ổn định.
+b. Tri thức luôn có thể sao chép nhanh chóng nhờ đầu tư công nghệ.
+c. Tri thức hữu hình có thể đo lường trực tiếp nên dễ tạo giá trị hơn.
+d. Tri thức ẩn thường khó bắt chước và không thể mua ngay dưới dạng sẵn có. 
+Đâu là tác động gián tiếp quan trọng nhất của KM đối với tổ chức?
+a. Tăng tỷ lệ nhân viên gắn bó lâu dài nhờ chính sách đãi ngộ tốt hơn.
+b. Giảm thiểu toàn bộ chi phí nghiên cứu và phát triển sản phẩm mới.
+c. Đảm bảo khả năng chuẩn hóa toàn cầu của các quy trình nội bộ.
+d. Tạo lợi thế cạnh tranh bền vững khó bị bắt chước nhờ tri thức ẩn. 
+Ví dụ Matsushita (Panasonic) với sản phẩm máy làm bánh mì tự động cho thấy điều gì?
+a. Việc chuyển đổi tri thức ẩn từ chuyên gia làm bánh thành đặc tính sản phẩm cụ thể. 
+b. Việc giảm thiểu chức năng sản phẩm nhằm chuẩn hóa trải nghiệm người dùng.
+c. Việc chuẩn hóa tri thức ẩn trong sản xuất công nghiệp để giảm thiểu chi phí.
+d. Việc lưu giữ tri thức hiện trong cơ sở dữ liệu thay thế hoàn toàn nghiên cứu mới.
+Khi Ford áp dụng hệ thống thực hành tốt nhất, kết quả nào được coi là minh chứng rõ ràng nhất?
+a. Khả năng loại bỏ hoàn toàn sai sót kỹ thuật trong chuỗi cung ứng lốp xe và ô tô.
+b. Tiết kiệm hàng trăm triệu USD từ việc áp dụng các giải pháp cải tiến quy trình. 
+c. Việc triển khai đồng loạt hệ thống ERP tại tất cả nhà máy để chuẩn hóa vận hành.
+d. Tỷ lệ nhân sự rời bỏ giảm đáng kể nhờ quy trình đào tạo chuẩn hóa toàn cầu.
+Mối quan hệ giữa tri thức, giá trị thị trường lao động và sự hài lòng công việc của nhân viên có thể mô tả thế nào?
+a. Nhân viên càng tập trung vào tri thức ẩn thì càng khó thích ứng và mức độ hài lòng giảm.
+b. Sự hài lòng công việc chỉ phụ thuộc vào lương thưởng chứ không liên quan đến tri thức.
+c. Nhân viên sở hữu nhiều tri thức được đánh giá cao hơn trên thị trường lao động, từ đó cảm thấy hài lòng và gắn bó hơn. 
+d. Giá trị thị trường lao động hoàn toàn tách biệt với việc nhân viên hài lòng công việc.
+Lợi ích lớn nhất của việc nhân viên được tiếp cận các giải pháp kinh doanh đã thành công hoặc thất bại trước đây là gì?
+a. Giúp phân tách tri thức ẩn và tri thức hiện thành hai hệ thống lưu trữ độc lập.
+b. Đảm bảo rằng toàn bộ tri thức hiện đều được số hóa và kiểm soát tập trung.
+c. Giúp họ học hỏi nhanh hơn, tránh lặp lại sai lầm và nâng cao khả năng ra quyết định. 
+d. Cho phép tổ chức loại bỏ nhu cầu đào tạo chính thức và giảm chi phí nhân sự.
+Một trong những lý do quan trọng khiến người tài rời bỏ tổ chức là gì?
+a. Họ cảm thấy tài năng của mình không được khai thác và phát huy đầy đủ. 
+b. Họ muốn chuyển toàn bộ tri thức ẩn thành tri thức hiện để công bố ra bên ngoài.
+c. Họ được khuyến khích áp dụng thủ tục chuẩn thay vì đóng góp ý tưởng sáng tạo.
+d. Họ bị hạn chế tham gia vào các cộng đồng thực hành và diễn đàn nội bộ.
+
+Chương 6:
+Trong số các loại hệ thống ứng dụng tri thức, hệ thống nào chủ yếu dựa vào mối quan hệ cấp trên–cấp dưới để truyền tri thức?
+a. Hệ thống hỗ trợ quyết định dựa trên phân tích dữ liệu phức tạp.
+b. Hệ thống thủ tục với quy trình chuẩn hóa cho toàn bộ nhân viên.
+c. Hệ thống chuyên gia dựa trên tri thức được mã hóa thành luật IF–THEN.
+d. Hệ thống hướng dẫn với tri thức truyền đạt thông qua chỉ đạo. 
+Vì sao các hệ thống ứng dụng tri thức thường gắn liền với công nghệ trí tuệ nhân tạo?
+a. Vì AI thay thế hoàn toàn các cơ chế tổ chức trong quản trị tri thức.
+b. Vì AI tạo điều kiện để tự động hóa quá trình thu giữ tri thức từ cộng đồng.
+c. Vì AI giúp mô phỏng suy nghĩ của con người và hỗ trợ quyết định nhanh chóng. 
+d. Vì AI loại bỏ nhu cầu sử dụng bất kỳ công nghệ nào khác trong doanh nghiệp.
+Khi một hệ thống AI được thiết kế để hành động giống con người, điều gì được nhấn mạnh?
+a. Đầu vào và đầu ra của hệ thống phù hợp với cách con người phản ứng trong các tình huống. 
+b. Hệ thống chỉ cần dựa vào dữ liệu chuẩn hóa thay vì suy nghĩ logic.
+c. Hệ thống hoạt động dựa trên việc loại bỏ mọi sai số từ tri thức ẩn.
+d. Kết quả của hệ thống phụ thuộc hoàn toàn vào các báo cáo định kỳ.
+Nếu không có quy trình chuyển giao tri thức hiệu quả, hệ thống ứng dụng tri thức có nguy cơ nào?
+a. Tri thức hiện tại sẽ tự động biến mất khỏi thư viện mà không có cơ chế lưu giữ.
+b. Các quy tắc vận hành sẽ bị vô hiệu hóa và hệ thống ngừng hoạt động ngay.
+c. Hệ thống sẽ tự động chuyển đổi sang công nghệ khác mà không cần quản trị.
+d. Người dùng sẽ không bổ sung thêm trường hợp mới vào thư viện tình huống. 
+Trong bối cảnh ứng dụng tri thức, hệ thống hỗ trợ quyết định có vai trò chính là gì?
+a. Cung cấp thông tin phân tích giúp nhà quản lý đưa ra quyết định hợp lý. 
+b. Đảm bảo sự lặp lại quy trình thông qua chuẩn hóa và thủ tục.
+c. Truyền đạt chỉ đạo trực tiếp từ lãnh đạo đến nhân viên.
+d. Mã hóa tri thức chuyên gia thành các luật suy luận.
+Ý nghĩa quan trọng nhất của SOS Advisor đối với quy trình quản lý của cơ quan liên bang là gì?
+a. Giúp nhân viên liên bang tập trung vào hỗ trợ chuyên sâu thay vì sàng lọc sơ bộ. 
+b. Thay thế hoàn toàn các cộng đồng thực hành trong việc lan tỏa tri thức.
+c. Đảm bảo tất cả doanh nghiệp nhỏ đều có quyền nhận hỗ trợ vốn ban đầu.
+d. Ngăn chặn sự xuất hiện của các ứng viên không đủ điều kiện tham gia thị trường.
+So với các hình thức biểu diễn tri thức khác, vì sao luật thường được lựa chọn?
+a. Vì chúng thay thế hoàn toàn nhu cầu trao đổi tri thức giữa các chuyên gia.
+b. Vì có khả năng mô tả chi tiết mọi hiện tượng phức tạp mà không cần kiểm chứng.
+c. Vì dễ hình dung, triển khai trực quan và phù hợp cho việc mô tả tri thức thực tiễn. 
+d. Vì đảm bảo tính bảo mật tuyệt đối của tri thức trong mọi hoàn cảnh vận hành.
+Theo phương pháp Case-Method Cycle, mục tiêu chính của quá trình phát triển hệ thống là gì?
+a. Chuyển đổi tất cả tri thức ẩn thành tri thức hiện bằng cách chuẩn hóa quy trình.
+b. Phát triển hệ thống có khả năng lưu trữ các trường hợp mới và truy xuất trường hợp liên quan. 
+c. Tích hợp toàn bộ dữ liệu thô mà không cần sàng lọc hay phân loại.
+d. Tự động loại bỏ các tình huống tương đồng để giảm dung lượng cơ sở dữ liệu.
+Theo mô hình bộ nhớ động của Schank (1982), cách tiếp cận của CBR nhấn mạnh vào yếu tố nào?
+a. Việc lưu trữ các công thức toán học để giải thích hiện tượng thực tiễn.
+b. Quá trình truy xuất và sử dụng kinh nghiệm đã có nhằm giải quyết tình huống mới. 
+c. Quá trình thay thế tri thức ẩn bằng tri thức hiện trong môi trường tổ chức.
+d. Việc tiêu chuẩn hóa toàn bộ dữ liệu vận hành thành các bảng quy chiếu cố định.
+Giải pháp Total Recall được xây dựng nhằm khắc phục vấn đề nào của AQUARIS?
+a. Cho phép xây dựng thư viện tình huống dựa trên CBR để tái sử dụng kinh nghiệm phân tích lỗi. 
+b. Chuẩn hóa tất cả dữ liệu chất lượng thành báo cáo quản trị cho cấp lãnh đạo.
+c. Tạo cơ chế kết nối trực tiếp giữa khách hàng và nhóm kỹ sư bảo đảm chất lượng.
+d. Tự động loại bỏ các lỗi nhỏ nhằm tập trung vào các sự cố nghiêm trọng nhất.
+Trong quy trình của hệ thống CBR, bước nào đảm bảo cải thiện chất lượng giải pháp về lâu dài?
+a. Phản hồi từ việc áp dụng giải pháp để phân loại kết quả thành thành công hoặc thất bại. 
+b. Lưu giữ nguyên trạng mọi trường hợp cũ mà không cần cập nhật.
+c. Tự động loại bỏ những trường hợp không thành công để giữ cơ sở dữ liệu nhỏ gọn.
+d. Đưa toàn bộ dữ liệu vào hệ thống thống kê để tính xác suất chính xác.
+Hệ thống chuyên gia minh họa rõ nhất cho cách áp dụng tri thức nào?
+a. Tri thức hiện được mã hóa thành các luật và suy luận có cấu trúc. 
+b. Tri thức được lặp lại qua các thủ tục tổ chức hàng ngày.
+c. Tri thức ẩn lan truyền qua cộng đồng thực hành và xã hội hóa.
+d. Tri thức được tích hợp thành báo cáo hỗ trợ cho quản lý cấp cao.
+Quy trình chuyển giao tri thức trong Case-Method Cycle nhằm đạt được điều gì?
+a. Giới hạn quyền truy cập để đảm bảo tính bảo mật tuyệt đối.
+b. Chuẩn hóa tất cả tri thức hiện có và loại bỏ tri thức ẩn.
+c. Tạo động lực để người dùng chấp nhận và bổ sung thêm các trường hợp mới. 
+d. Ngăn chặn việc phản hồi để duy trì tính ổn định của thư viện.
+Theo bối cảnh ngành điện, vì sao khả năng chẩn đoán sớm sự cố của GenAID lại mang tính sống còn?
+a. Vì các sự cố nhỏ thường được xử lý ngay mà không ảnh hưởng đến hoạt động tổng thể.
+b. Vì một lần dừng máy có thể gây thiệt hại từ 60.000 USD đến 250.000 USD. 
+c. Vì nhân viên tại chỗ luôn có đủ chuyên môn để phân tích dữ liệu nên cần tự động hóa.
+d. Vì chi phí lắp đặt cảm biến mới thường vượt quá mức dự toán ngân sách hằng năm.
+Mục tiêu chính khi Westinghouse phát triển hệ thống GenAID là gì?
+a. Chuẩn hóa toàn bộ dữ liệu bảo trì để giảm chi phí lưu trữ hồ sơ vận hành.
+b. Dự báo nhu cầu thị trường cho các loại tua-bin mới nhằm tối ưu sản xuất.
+c. Phát hiện sớm các điều kiện vận hành bất thường của máy phát điện tua-bin. 
+d. Loại bỏ nhu cầu sử dụng cảm biến trong quá trình giám sát thiết bị.
+Cơ chế nào thường được các hệ thống ứng dụng tri thức khai thác để đảm bảo sự chỉ dẫn và chuẩn hóa hành vi?
+a. Sáng kiến cá nhân, tự do sáng tạo và thói quen cá nhân hóa công việc.
+b. Quan hệ thứ bậc, trung tâm hỗ trợ và các bộ phận trợ giúp kỹ thuật. 
+c. Hệ thống tự động, mô phỏng sinh học và thuật toán tiến hóa ngẫu nhiên.
+d. Thị trường mở, cạnh tranh nội bộ và phân quyền tài chính độc lập.
+Vì sao Turing Test thường được dùng để đánh giá một hệ thống AI?
+a. Dựa trên khả năng phân tích độ chính xác khi hệ thống tái tạo tri thức hiện trong cơ sở dữ liệu.
+b. Dựa trên khả năng hệ thống hành động hợp lý trong môi trường phức tạp.
+c. Dựa trên khả năng một hệ thống AI có thể “đánh lừa” người đối thoại sao cho họ không phân biệt được đó là máy hay con người.
+d. Dựa trên mức độ mà hệ thống có thể bắt chước tư duy sáng tạo của con người.
+Trong hệ thống CBR, mục tiêu chính khi bắt chước cách con người giải quyết vấn đề là gì?
+a. Tìm kiếm các trường hợp tương tự trong trí nhớ và điều chỉnh giải pháp cũ cho vấn đề mới. 
+b. Tái tạo toàn bộ tiến trình tư duy sáng tạo trong bộ não con người.
+c. Loại bỏ sự tham gia của chuyên gia để đảm bảo tính khách quan tuyệt đối.
+d. Sử dụng mô hình quy tắc chuẩn hóa để mô phỏng quyết định tổ chức.
+Trong bối cảnh ngành bán dẫn, thách thức lớn nhất khi National Semiconductor duy trì chất lượng sản phẩm là gì?
+a. Khối lượng dữ liệu sản xuất khổng lồ khiến việc chuẩn hóa trở nên bất khả thi.
+b. Việc phụ thuộc vào nhà cung cấp thiết bị cảm biến bên ngoài làm tăng chi phí vận hành.
+c. Sự thiếu hụt nhân lực kỹ thuật có kinh nghiệm khiến việc giám sát không nhất quán.
+d. Độ phức tạp cao của công nghệ bán dẫn khiến việc phân tích nguyên nhân lỗi trở nên khó khăn. 
+Ví dụ nào thể hiện rõ nhất hệ thống thủ tục trong tổ chức?
+a. Quy trình kiểm toán tài chính định kỳ được chuẩn hóa trong toàn doanh nghiệp. 
+b. Mô hình thống kê dự báo nhu cầu dựa trên dữ liệu thị trường.
+c. Mạng xã hội doanh nghiệp khuyến khích chia sẻ tri thức ngầm.
+d. Hệ thống trí tuệ nhân tạo hỗ trợ phân tích hành vi khách hàng phức tạp.
+Trong bối cảnh ứng dụng KM, giá trị của AI thể hiện rõ nhất ở khả năng nào?
+a. Khả năng hỗ trợ xử lý tri thức theo hướng mô phỏng tư duy của con người. 
+b. Khả năng chuẩn hóa tri thức hiện để giảm chi phí vận hành tổ chức.
+c. Khả năng thay thế toàn bộ nhân lực để đảm bảo hiệu quả vận hành tối đa.
+d. Khả năng loại bỏ hoàn toàn tri thức ẩn nhằm duy trì dữ liệu minh bạch.
+Trong sáu quy trình của Case-Method Cycle, quy trình phát triển thư viện trường hợp tập trung vào điều gì?
+a. Chỉ lưu trữ dữ liệu định tính mà không cần chú ý đến dữ liệu định lượng.
+b. Hạn chế việc thêm mới các trường hợp để tránh trùng lặp dữ liệu.
+c. Xây dựng và duy trì một thư viện đủ lớn để hỗ trợ lĩnh vực cần áp dụng. 
+d. Loại bỏ các trường hợp cũ nhằm đảm bảo tính gọn nhẹ của hệ thống.
+Trong thực tiễn, yếu tố nào đảm bảo sự thành công của quá trình phát triển hệ thống ứng dụng tri thức?
+a. Giới hạn hệ thống chỉ cho một nhóm nhỏ để giảm chi phí.
+b. Tập trung tuyệt đối vào công nghệ mà không cần quan tâm đến văn hóa tổ chức.
+c. Việc loại bỏ toàn bộ tri thức ẩn để tránh mâu thuẫn trong thư viện.
+d. Sự phối hợp giữa kỹ thuật phần mềm, quản lý dữ liệu và sự chấp nhận của người dùng. 
+Trong bối cảnh doanh nghiệp, lợi ích thực tiễn nào có thể đạt được khi áp dụng CBR?
+a. Loại bỏ các kho dữ liệu cũ để tối giản chi phí vận hành công nghệ.
+b. Tự động hóa toàn bộ quy trình sản xuất mà không cần đến nhân lực.
+c. Chuẩn hóa mọi hoạt động sáng tạo để duy trì tính nhất quán tuyệt đối.
+d. Khả năng học hỏi từ kinh nghiệm tổ chức để giải quyết nhanh các sự cố vận hành. 
+Trong quy trình khai thác cơ sở dữ liệu, công cụ nào thường được sử dụng để nâng cao giá trị hệ thống?
+a. Các mô hình tâm lý học để dự đoán hành vi người dùng.
+b. Các kỹ thuật khai phá dữ liệu (data mining) kết hợp với phân tích thống kê. 
+c. Các quy tắc hành vi xã hội nhằm chuẩn hóa giao tiếp nội bộ.
+d. Các chiến lược nhân sự để giảm chi phí vận hành hạ tầng.
+Một hệ thống CBR điển hình cần làm bước nào trước khi thích ứng giải pháp cho vấn đề hiện tại?
+a. So sánh tất cả dữ liệu trong thư viện mà không có tiêu chí lọc.
+b. Truy xuất trường hợp tương tự nhất từ thư viện và lượng hóa độ tương đồng. 
+c. Tạo ra tri thức hoàn toàn mới mà không dựa trên các tình huống trước đó.
+d. Xây dựng mô hình thống kê mới thay cho dữ liệu kinh nghiệm cũ.
+Mục tiêu cơ bản của SOS Advisor trong bối cảnh chương trình SBIR/STTR là gì?
+a. Tối ưu hóa thời gian đánh giá khả năng đủ điều kiện của doanh nghiệp. 
+b. Thay thế hoàn toàn quy trình tuyển chọn ứng viên cho các cơ quan liên bang.
+c. Chuẩn hóa tri thức ẩn của các nhân viên liên bang thành dữ liệu có cấu trúc.
+d. Tập trung vào việc thương mại hóa ngay các sản phẩm công nghệ cao.
+Khi hai tình huống chưa đủ tương đồng, hệ thống CBR sẽ thực hiện hành động nào?
+a. Hủy bỏ toàn bộ dữ liệu cũ và yêu cầu nhập mới từ chuyên gia.
+b. Áp dụng giải pháp hiện có mà không cần kiểm chứng thực tiễn.
+c. Điều chỉnh giải pháp từ trường hợp trước để phù hợp với vấn đề mới. 
+d. Tạo ra quy tắc cố định để thay thế mọi tình huống trong tương lai.
+Thách thức lớn nhất mà Darty phải đối mặt trước khi triển khai hệ thống ứng dụng tri thức là gì?
+a. Toàn bộ dữ liệu cuộc gọi không thể được số hóa và lưu trữ trong kho dữ liệu trung tâm.
+b. Hệ thống ERP nội bộ không tích hợp được với quy trình vận hành của tổng đài.
+c. Hầu hết cuộc gọi bị chuyển lên cấp 2 vì nhân viên cấp 1 thiếu kiến thức kỹ thuật. 
+d. Tỷ lệ khách hàng không hài lòng luôn ở mức 95% bất chấp nỗ lực cải thiện.
+Trong thực tiễn, khi nào hệ thống chuyên gia được xem là phù hợp nhất?
+a. Khi tổ chức muốn loại bỏ hoàn toàn tri thức ẩn để chuẩn hóa dữ liệu.
+b. Khi cần mô phỏng quyết định của chuyên gia trong môi trường phức tạp. 
+c. Khi các thủ tục lặp lại được coi là nền tảng duy nhất cho vận hành.
+d. Khi việc truyền đạt chỉ đạo là cách duy nhất để áp dụng tri thức.
+Điểm nổi bật trong dự án CLAIM của GE Healthcare nhằm cải thiện quy trình xác định tài liệu đính kèm cho hồ sơ bồi hoàn là gì?
+a. Sử dụng hệ thống CBR so sánh hồ sơ mới với hồ sơ tương tự trong quá khứ để dự đoán nhu cầu đính kèm. 
+b. Áp dụng mô hình học sâu để thay thế hoàn toàn nhân viên quản lý hồ sơ bồi hoàn.
+c. Giới hạn xử lý hồ sơ ở mức thử nghiệm thủ công để đảm bảo bảo mật thông tin bệnh nhân.
+d. Tập trung vào chuẩn hóa toàn bộ quy trình thanh toán y tế thành một giao diện ERP thống nhất.
+Một hạn chế nổi bật của hệ thống dựa trên luật khi số lượng luật tăng quá lớn là gì?
+a. Làm giảm khả năng học hỏi tri thức ẩn từ trải nghiệm cá nhân của nhân viên.
+b. Làm tri thức trở nên phân mảnh và buộc tổ chức phải phụ thuộc vào tri thức bên ngoài.
+c. Khiến hệ thống chỉ còn dựa trên dữ liệu định tính mà không thể xử lý dữ liệu định lượng.
+d. Gây khó khăn cho việc mã hóa, kiểm chứng, bảo trì và giảm hiệu quả của bộ suy luận. 
+Một ví dụ điển hình về việc hệ thống ứng dụng tri thức hỗ trợ các quy trình theo thói quen là gì?
+a. Quản lý tài chính xây dựng mô hình dự báo lợi nhuận dài hạn bằng công cụ BI.
+b. Nhân sự tuyển dụng phát triển chiến lược nhân tài toàn cầu dựa trên benchmark.
+c. Kỹ sư nghiên cứu tạo ra tri thức mới từ dữ liệu thử nghiệm chưa được công bố.
+d. Nhân viên dịch vụ khách hàng tìm giải pháp giao hàng thay thế khi xử lý đơn hàng. 
+Trong cách tiếp cận CBR, tri thức được tích lũy và phát triển theo cơ chế nào?
+a. Bằng cách chuyển đổi mọi tình huống thành quy tắc IF-THEN chuẩn hóa.
+b. Bằng cách bổ sung các trường hợp mới cùng kết quả đánh giá vào thư viện. 
+c. Bằng cách loại bỏ dần các trường hợp cũ để giữ lại dữ liệu tinh gọn.
+d. Bằng cách thay thế toàn bộ dữ liệu kinh nghiệm bằng mô hình dự đoán thống kê.
+Trong phát triển hệ thống dựa trên luật, vai trò của knowledge engineer là gì?
+a. Xây dựng quy trình kinh doanh chuẩn hóa để thay thế chuyên gia trong tổ chức.
+b. Quản lý dữ liệu vận hành và đảm bảo các chỉ số KPI đạt mức tiêu chuẩn toàn cầu.
+c. Khai thác tri thức từ chuyên gia và biểu diễn nó thành dạng có thể xử lý bởi máy tính. 
+d. Thiết kế và điều chỉnh thuật toán thống kê nhằm mô hình hóa toàn bộ tri thức hiện.
+Trong quản trị tri thức, ý nghĩa của việc AI được liên hệ chặt chẽ với tri thức là gì?
+a. AI chỉ giới hạn ở chức năng tự động hóa các quy trình chuẩn hóa.
+b. AI thay thế toàn bộ hệ thống chia sẻ tri thức, loại bỏ nhu cầu trao đổi phi chính thức.
+c. AI đảm bảo tri thức hiện luôn chiếm ưu thế so với tri thức ẩn.
+d. AI cung cấp một khuôn khổ giúp khai thác tri thức để hỗ trợ suy luận và ra quyết định. 
+Trước khi có GenAID, hạn chế lớn nhất trong cách phân tích dữ liệu cảm biến tại nhà máy điện là gì?
+a. Thiết bị cảm biến không thể cung cấp dữ liệu theo thời gian thực cho nhà máy.
+b. Hệ thống kiểm toán tài chính không tích hợp được với dữ liệu kỹ thuật.
+c. Dữ liệu được thu thập thủ công và thiếu tính nhất quán giữa các bộ phận.
+d. Phải phụ thuộc vào kỹ thuật viên đến tận nơi để kiểm tra định kỳ dữ liệu. 
+Vì sao CBR được coi là phương pháp suy luận dựa trên sự tương đồng?
+a. Vì nó loại bỏ tính ngẫu nhiên trong quá trình ứng dụng tri thức.
+b. Vì nó dựa trên mối quan hệ nhân quả giữa dữ liệu và giải pháp chuẩn hóa.
+c. Vì nó thay thế mọi kinh nghiệm tổ chức bằng các thuật toán thống kê.
+d. Vì nó tận dụng sự tương đồng giữa tình huống cũ và tình huống mới để đề xuất giải pháp. 
+Điểm khác biệt then chốt giữa tìm kiếm trong thư viện trường hợp và tìm kiếm cơ sở dữ liệu thông thường là gì?
+a. Thư viện trường hợp chỉ lưu giữ dữ liệu định lượng dưới dạng bảng số liệu.
+b. Việc tìm kiếm tập trung vào các trường hợp có mức độ tương tự cao với vấn đề hiện tại. 
+c. Tìm kiếm trong thư viện trường hợp chỉ cần duyệt qua toàn bộ dữ liệu mà không cần so sánh.
+d. Thư viện trường hợp loại bỏ hoàn toàn nhu cầu phản hồi kết quả sau khi áp dụng.
+Hệ thống AQUARIS do National phát triển năm 1995 có hạn chế nổi bật nào?
+a. Không cho phép phân tích định lượng về tỷ lệ lỗi của từng dây chuyền sản xuất.
+b. Không thể truy xuất hiệu quả các trường hợp lỗi tương tự trong quá khứ. 
+c. Không tích hợp được với các hệ thống ERP hiện có của tập đoàn.
+d. Không có khả năng lưu trữ dữ liệu số hóa dưới dạng báo cáo kỹ thuật chuẩn.
+Một tính năng đặc biệt trong giao diện người dùng của hệ thống Darty là gì?
+a. Thuật toán deep learning tái tạo toàn bộ quy trình dịch vụ khách hàng.
+b. Cơ chế blockchain đảm bảo bảo mật dữ liệu cuộc gọi trong toàn bộ hệ thống.
+c. Công cụ tìm kiếm trực quan cho phép mô tả vấn đề bằng hình ảnh minh họa. 
+d. Cơ sở dữ liệu phi cấu trúc thay thế hoàn toàn cho kho dữ liệu hiện có.
+Ví dụ nào minh họa rõ cách áp dụng hệ thống dựa trên luật trong thực tiễn?
+a. SOS Advisor kiểm tra điều kiện để xác định một công ty có đủ tiêu chuẩn cho chương trình SBIR/STTR. 
+b. Một tổ chức tài chính xây dựng mô hình dự báo thị trường chứng khoán bằng dữ liệu lớn.
+c. Một công ty phần mềm phát triển công cụ khai phá dữ liệu để tìm ra các luật kết hợp.
+d. Một bệnh viện dùng thuật toán học sâu để nhận diện hình ảnh y tế phức tạp.
+So với hệ thống dựa trên luật, điểm mạnh nổi bật của CBR là gì?
+a. Khả năng dễ dàng thích ứng giải pháp trong bối cảnh phức tạp và thay đổi. 
+b. Khả năng thay thế tri thức ẩn bằng tri thức hiện trong mọi tình huống.
+c. Khả năng đảm bảo mọi tình huống được xử lý bằng cùng một quy tắc chuẩn.
+d. Khả năng loại bỏ hoàn toàn sự can thiệp của chuyên gia ra quyết định.
+Trong quá trình vận hành tàu con thoi, hệ thống OFD được NASA áp dụng nhằm giải quyết thách thức nào?
+a. Ghi nhận, phân loại và tái sử dụng các kinh nghiệm từ những bất thường chưa từng gặp. 
+b. Quản lý dữ liệu hành chính để giảm chi phí tài chính cho trung tâm vũ trụ.
+c. Chuẩn hóa toàn bộ quy trình lắp ráp để tăng tốc độ sản xuất hàng loạt.
+d. Loại bỏ nhu cầu can thiệp của kỹ sư bằng cách tự động hóa hoàn toàn mọi hoạt động.
+Quy trình vận hành hệ thống trong phát triển hệ thống ứng dụng tri thức có đặc điểm gì?
+a. Loại bỏ toàn bộ dữ liệu lỗi để đảm bảo thư viện trường hợp luôn tinh gọn.
+b. Phụ thuộc hoàn toàn vào các chuyên gia thay vì các nguyên tắc kỹ thuật chung.
+c. Dựa vào các quy trình kỹ nghệ phần mềm và quản lý cơ sở dữ liệu quan hệ. 
+d. Chỉ tập trung vào khâu cài đặt phần cứng mà không chú trọng đến người dùng.
+Một luật trong hệ thống chuyên gia dựa trên luật thường được biểu diễn dưới hình thức nào?
+a. Các câu lệnh điều kiện dạng IF-THEN. 
+b. Các công thức toán học dùng để tính xác suất và dự báo kết quả trong mọi tình huống.
+c. Các sơ đồ khối mô tả chi tiết từng bước trong quá trình xử lý dữ liệu phức tạp.
+d. Các biểu đồ chuỗi thời gian thể hiện xu hướng thay đổi của thông tin trong cơ sở dữ liệu.
+Sau ba tháng triển khai hệ thống tại Darty, kết quả nổi bật nhất đạt được là gì?
+a. Hệ thống tạo ra báo cáo tự động giúp ban lãnh đạo loại bỏ nhu cầu về các cộng đồng thực hành.
+b. Tỷ lệ cuộc gọi phải chuyển lên cấp 2 giảm từ 95% xuống còn 20%. 
+c. Doanh thu tăng trưởng 30% nhờ tối ưu hóa hệ thống ERP tích hợp.
+d. Số lượng nhân viên cấp 1 giảm một nửa do hệ thống thay thế hoàn toàn vai trò của họ.
+Cơ chế nào giúp SOS Advisor vừa sàng lọc được ứng viên đủ điều kiện, vừa giảm tải cho nhân viên chương trình?
+a. Áp dụng thuật toán thống kê phức tạp để phân loại mọi dữ liệu nộp vào.
+b. Dựa trên tập hợp câu hỏi trắc nghiệm với luật IF–THEN đánh giá tự động. 
+c. Tích hợp trực tiếp với hệ thống ERP nhằm chuẩn hóa thông tin tài chính.
+d. Sử dụng cơ chế đấu thầu công khai để chọn lọc các hồ sơ doanh nghiệp.
+Một hạn chế khi áp dụng hệ thống hướng dẫn trong tổ chức là gì?
+a. Không thể kết hợp tri thức hiện và tri thức ẩn trong môi trường thực tế.
+b. Đòi hỏi phải có dữ liệu lớn và công cụ phân tích thống kê phức tạp.
+c. Phụ thuộc nhiều vào người lãnh đạo, có thể dẫn đến thiên lệch cá nhân. 
+d. Khó duy trì sự lặp lại quy trình, làm giảm tính ổn định trong hoạt động.
+Vì sao CBR thường được chọn làm công nghệ nền tảng trong phát triển hệ thống ứng dụng tri thức?
+a. Vì CBR có thể thay thế hoàn toàn vai trò của con người trong suy luận.
+b. Vì CBR đảm bảo mọi tình huống đều được xử lý bằng một quy tắc duy nhất.
+c. Vì CBR loại bỏ nhu cầu quản lý và bảo trì thư viện trường hợp.
+d. Vì CBR trực quan, tận dụng tri thức hiện có như báo cáo sự cố và dễ triển khai. 
+Quy trình quản lý trong phát triển hệ thống ứng dụng tri thức có vai trò nào?
+a. Tạo ra một mô hình duy nhất thay thế mọi phương pháp phát triển khác.
+b. Xác định cách thức thành lập nhóm dự án và loại hình hỗ trợ tổ chức cần thiết. 
+c. Loại bỏ các bước kiểm thử để rút ngắn thời gian triển khai.
+d. Đảm bảo tất cả tri thức ẩn được số hóa ngay trong giai đoạn đầu.
+Trong bốn cách định nghĩa AI được Russell và Norvig (2002) đề xuất, đâu là định nghĩa nhấn mạnh yếu tố hành động hợp lý?
+a. Hệ thống có thể tái hiện toàn bộ tiến trình nhận thức của con người.
+b. Hệ thống được đánh giá qua khả năng vượt qua bài kiểm tra Turing Test.
+c. Hệ thống xử lý thông tin như con người khi giải quyết vấn đề phức tạp.
+d. Hệ thống có thể hành động một cách hợp lý dựa trên nguyên tắc logic. 
+Trong quản trị tri thức, hệ thống ứng dụng tri thức hỗ trợ cá nhân sử dụng tri thức của người khác mà không cần điều kiện nào?
+a. Họ phải học hỏi toàn bộ kiến thức nền tảng trước khi áp dụng tri thức.
+b. Họ không cần tự mình lĩnh hội tri thức nhưng vẫn có thể ứng dụng. 
+c. Họ phải mua quyền sử dụng tri thức từ cơ sở dữ liệu thương mại.
+d. Họ phải trải qua đào tạo chính thức để nắm bắt tri thức được chia sẻ.
+Đặc điểm nổi bật nhất của hệ thống thủ tục trong ứng dụng tri thức là gì?
+a. Các quyết định được mô phỏng dựa trên mô hình thống kê phức tạp.
+b. Các quy trình được chuẩn hóa và lặp lại để đảm bảo sự nhất quán trong tổ chức. 
+c. Các mối quan hệ xã hội giữ vai trò chính trong việc chia sẻ tri thức ẩn.
+d. Các dữ liệu thô được khai phá nhằm tìm ra mẫu và xu hướng mới.
+Trong bốn loại hệ thống ứng dụng tri thức, điểm chung quan trọng nhất là gì?
+a. Đều hỗ trợ áp dụng tri thức vào thực tiễn nhằm nâng cao hiệu quả tổ chức. 
+b. Đều dựa vào dữ liệu thô chưa được xử lý để đưa ra quyết định.
+c. Đều thay thế hoàn toàn vai trò của tri thức ẩn trong tổ chức.
+d. Đều loại bỏ nhu cầu sử dụng cộng đồng thực hành và chia sẻ kinh nghiệm.
+Điểm khác biệt then chốt giữa hệ thống chuyên gia và hệ thống hỗ trợ quyết định là gì?
+a. Hệ thống chuyên gia thiên về chuẩn hóa thủ tục, còn DSS thiên về chỉ đạo.
+b. Hệ thống chuyên gia dựa vào tri thức luật hóa, còn DSS dựa vào phân tích dữ liệu. 
+c. Hệ thống chuyên gia chú trọng tri thức ẩn, còn DSS chỉ dựa vào tri thức hiện.
+d. Hệ thống chuyên gia hoạt động thủ công, còn DSS hoàn toàn tự động.
+Trong bối cảnh xử lý hàng trăm triệu hồ sơ y tế, thách thức lớn nhất đối với các nhà cung cấp dịch vụ chăm sóc sức khỏe khi gửi hồ sơ bồi hoàn là gì?
+a. Tất cả các nhà chi trả đều công bố chính sách chuẩn hóa về tài liệu đính kèm.
+b. Các yêu cầu về tài liệu bổ sung từ mỗi nhà chi trả thay đổi liên tục và khó nắm bắt. 
+c. Các hệ thống ERP y tế không thể đồng bộ hóa dữ liệu bệnh nhân với hồ sơ khiếu nại.
+d. Nhân viên hành chính luôn có đủ năng lực để quyết định loại hồ sơ cần đính kèm.
+Đâu là mục tiêu cơ bản của các hệ thống ứng dụng tri thức?
+a. Để thay thế hoàn toàn các hệ thống chia sẻ và lưu giữ tri thức truyền thống.
+b. Để tạo ra tri thức mới thông qua quá trình khám phá tri thức phức tạp.
+c. Để hỗ trợ việc sử dụng tri thức của tổ chức một cách hiệu quả. 
+d. Để loại bỏ sự tham gia của con người trong các quy trình quản trị tri thức.
+Điểm nào cho thấy phương pháp Case-Method Cycle mang tính lặp (iterative)?
+a. Hệ thống chỉ vận hành theo trình tự và không cho phép phản hồi từ người dùng.
+b. Sáu quy trình được thực hiện liên tục và cập nhật kết quả để cải tiến hệ thống. 
+c. Các bước chỉ được thực hiện một lần và không quay lại giai đoạn trước.
+d. Việc triển khai chỉ dựa vào mô hình tuyến tính cố định không thay đổi.
+Một minh chứng điển hình cho hệ thống hỗ trợ quyết định trong kinh doanh là gì?
+a. Công cụ BI phân tích dữ liệu thị trường để hỗ trợ nhà quản lý. 
+b. Bộ quy trình kiểm toán nội bộ nhằm chuẩn hóa hoạt động tài chính.
+c. Bộ luật IF–THEN mô phỏng quyết định của chuyên gia kỹ thuật.
+d. Chỉ đạo miệng của lãnh đạo để định hướng hành vi nhân viên.
+
+Chương 7:
+Trong kỹ thuật quan sát nhân học của Snowden, việc sử dụng “người phỏng vấn ngây thơ” mang lại lợi ích gì?
+a. Giúp loại bỏ hoàn toàn yếu tố cảm xúc trong câu chuyện được kể.
+b. Tái hiện chính xác dữ liệu định lượng thay cho tường thuật định tính.
+c. Tạo cơ hội để các đối tượng chia sẻ những giai thoại tự nhiên và chân thực. 
+d. Đảm bảo rằng các câu hỏi luôn tập trung vào chi tiết kỹ thuật phức tạp.
+Hệ thống nắm bắt tri thức có thể thu giữ tri thức từ những nguồn nào?
+a. Từ các tài liệu chính thức đã được ban hành nội bộ.
+b. Từ các báo cáo định kỳ của bộ phận tài chính.
+c. Từ nhân viên hiện tại của tổ chức thông qua phỏng vấn trực tiếp.
+d. Từ nhân viên, đối thủ cạnh tranh, khách hàng, nhà cung cấp. 
+Yếu tố công nghệ đóng vai trò gì trong hệ thống nắm bắt tri thức?
+a. Thay thế hoàn toàn chuyên gia để ra quyết định chiến lược.
+b. Loại bỏ nhu cầu cộng tác giữa các nhân viên.
+c. Đảm bảo thu thập được hoàn toàn tri thức ẩn của tất cả các nhân viên.
+d. Hỗ trợ ngoại hóa và nội hóa thông qua công cụ giao tiếp và mô phỏng. 
+Trong bối cảnh phát triển văn hóa quản trị, 3M sử dụng những “pet stories” để làm gì?
+a. Trình bày số liệu tài chính và báo cáo lợi nhuận.
+b. Miêu tả những hành vi nên được nhân rộng trong toàn tổ chức.
+c. Minh họa “những việc không nên làm” để tránh sai lầm. 
+d. Giải thích chi tiết các quy trình vận hành kỹ thuật.
+Trong thiết kế hệ thống, vì sao cần phân biệt rõ giữa tài liệu kỹ thuật và tri thức chuyên gia?
+a. Vì tài liệu luôn chứa toàn bộ bối cảnh nên dễ áp dụng hơn tri thức.
+b. Vì tri thức chuyên gia luôn ít giá trị hơn tài liệu kỹ thuật.
+c. Vì tri thức chuyên gia chỉ tồn tại dưới dạng số hóa.
+d. Vì tài liệu chỉ ghi lại sản phẩm cuối, còn tri thức bao gồm lập luận và giả định. 
+Vì sao kể chuyện được coi là công cụ mạnh trong việc giữ gìn bản sắc tổ chức?
+a. Vì nó thay thế toàn bộ tài liệu lưu trữ chính thức.
+b. Vì nó đảm bảo loại bỏ sự đa dạng văn hóa trong nội bộ.
+c. Vì nó chỉ tập trung vào việc ghi lại số liệu tài chính.
+d. Vì nó kết nối lịch sử, giá trị và kinh nghiệm chung thành ký ức tập thể. 
+Ý nghĩa của việc lưu trữ câu chuyện trong cơ sở dữ liệu là gì?
+a. Giúp mã hóa các quy tắc IF–THEN để suy luận tự động.
+b. Giúp loại bỏ nhu cầu chia sẻ tri thức trực tiếp giữa con người.
+c. Giúp bảo tồn kinh nghiệm tổ chức và làm nguồn tham chiếu cho tình huống mới. 
+d. Giúp thay thế toàn bộ báo cáo tài chính và kế hoạch sản xuất.
+Vì sao vòng tròn kể chuyện (storytelling circles) được khuyến nghị nên ghi lại bằng video?
+a. Vì video dễ dàng chuyển đổi thành dữ liệu số chuẩn hóa.
+b. Vì video loại bỏ được sự chủ quan trong nội dung câu chuyện.
+c. Vì video có thể tái hiện bối cảnh, ngôn ngữ cơ thể và sắc thái giọng nói. 
+d. Vì video thay thế hoàn toàn nhu cầu chia sẻ trực tiếp giữa con người.
+Ví dụ nào thể hiện rõ cơ chế nội hóa trong nắm bắt tri thức?
+a. Xây dựng mô hình khái niệm để trình bày tri thức hiện.
+b. Kể lại một câu chuyện để truyền đạt kinh nghiệm quản lý.
+c. Số hóa báo cáo kiểm toán thành dữ liệu định lượng.
+d. Nhân viên mới học hỏi bằng cách quan sát chuyên gia xử lý công việc. 
+Trong truyền thông tổ chức, vì sao kể chuyện thường có sức mạnh hơn báo cáo chính thức?
+a. Vì kể chuyện dễ gợi cảm xúc và tạo sự đồng cảm hơn dữ liệu khô khan. 
+b. Vì báo cáo chính thức chỉ được viết để giải trí cho nhân viên.
+c. Vì báo cáo chính thức thường không chứa đựng thông tin có giá trị.
+d. Vì kể chuyện thay thế hoàn toàn các công cụ thống kê.
+Khi được sử dụng trong đào tạo, kể chuyện có ưu điểm nào so với bài giảng lý thuyết?
+a. Giúp mô phỏng chính xác mọi quy trình tài chính trong doanh nghiệp.
+b. Giúp loại bỏ hoàn toàn tri thức ẩn và thay bằng tri thức hiện.
+c. Giúp chuẩn hóa tri thức để không còn khác biệt văn hóa.
+d. Giúp người học tiếp thu nhanh nhờ tình huống và ngữ cảnh cụ thể. 
+Vì sao hệ thống nắm bắt tri thức được coi là công cụ quan trọng đối với tri thức chiến thuật?
+a. Vì tri thức chiến thuật tập trung vào vị thế dài hạn và tầm nhìn chiến lược.
+b. Vì tri thức chiến thuật không cần sự tham gia của chuyên gia hiện trường.
+c. Vì tri thức chiến thuật chủ yếu được mã hóa trong tài liệu tài chính.
+d. Vì tri thức chiến thuật liên quan đến các quyết định vận hành ngắn hạn. 
+Khi thay đổi nhân vật hoặc bối cảnh trong câu chuyện (shifting character or context), tổ chức đạt được điều gì?
+a. Tránh mọi yếu tố hư cấu và chỉ giữ lại sự kiện thực tế.
+b. Xem xét một quan điểm mới để hiểu sâu hơn ý nghĩa của câu chuyện. 
+c. Đảm bảo rằng tất cả chi tiết được mô tả hoàn toàn giống dữ liệu gốc.
+d. Loại bỏ các mối liên hệ xã hội vốn có trong bối cảnh câu chuyện.
+Tại sao 3M coi việc kể chuyện là một công cụ chiến lược trong quản trị tri thức?
+a. Vì nó hỗ trợ phát triển thế hệ lãnh đạo kế cận. 
+b. Vì nó thay thế hoàn toàn báo cáo tài chính và kế hoạch sản xuất.
+c. Vì nó giúp mô tả chi tiết các bước vận hành kỹ thuật chuẩn.
+d. Vì nó tạo ra kịch bản giải trí giúp nhân viên giảm căng thẳng.
+Tại sao bản đồ khái niệm (concept maps) lại hữu ích trong đào tạo nhân lực mới?
+a. Vì chúng chuẩn hóa toàn bộ quy trình vận hành tài chính.
+b. Vì chúng biểu diễn trực quan các mối quan hệ khái niệm mà văn bản khó thể hiện. 
+c. Vì chúng thay thế nhu cầu cố vấn cá nhân trong tổ chức.
+d. Vì chúng đảm bảo mọi nhân viên đều suy nghĩ giống nhau.
+Khi xây dựng hệ thống nắm bắt tri thức, mục tiêu cuối cùng của việc bảo tồn tri thức chuyên gia là gì?
+a. Đảm bảo loại bỏ mọi khác biệt giữa tri thức ẩn và tri thức hiện.
+b. Đảm bảo hệ thống tự động thay thế hoàn toàn chuyên gia.
+c. Đảm bảo tri thức chỉ tồn tại trong môi trường máy tính.
+d. Đảm bảo người khác có thể học hỏi và áp dụng được tri thức đó. 
+Một rủi ro lớn khi chỉ lưu giữ “kết quả” chẩn đoán mà không lưu lại lập luận dẫn đến kết quả đó là gì?
+a. Kết quả được lưu sẽ thay thế mọi kinh nghiệm thực tiễn.
+b. Báo cáo y tế sẽ trở nên đơn giản và dễ đọc hơn.
+c. Người học sẽ tự động suy luận đúng dựa vào kết quả cuối cùng.
+d. Người học về sau không hiểu được cách thức để tái áp dụng tri thức. 
+Trong thiết kế hệ thống nắm bắt tri thức, thách thức lớn nhất của việc lưu trữ chẩn đoán y khoa là gì?
+a. Kết quả chẩn đoán được ghi lại nhưng quá trình suy luận dẫn đến chẩn đoán thường không được lưu giữ. 
+b. Các quyết định lâm sàng thường được chuẩn hóa sẵn trong cơ sở dữ liệu.
+c. Các bác sĩ luôn viết rõ ràng mọi giả định và ràng buộc trong báo cáo.
+d. Tri thức y khoa chỉ tồn tại dưới dạng dữ liệu số hóa và không cần tài liệu bổ sung.
+Một câu chuyện trong tổ chức có thể khuyến khích đổi mới sáng tạo bằng cách nào?
+a. Đảm bảo rằng mọi hoạt động được giữ nguyên trạng và không thay đổi.
+b. Ngăn chặn việc áp dụng ý tưởng mới để duy trì tính ổn định.
+c. Truyền cảm hứng để nhân viên nhìn thấy khả năng thay đổi. 
+d. Thay thế sự sáng tạo cá nhân bằng quy trình kiểm toán nghiêm ngặt.
+Điểm khác biệt cơ bản giữa tài liệu kỹ thuật và tri thức thực sự của chuyên gia là gì?
+a. Tài liệu thường giàu cảm xúc, trong khi tri thức hoàn toàn trung tính.
+b. Tài liệu thường chỉ phản ánh kết quả, còn tri thức bao gồm cả giả định và lập luận dẫn đến kết quả đó. 
+c. Tài liệu luôn chứa toàn bộ suy luận chi tiết, còn tri thức chỉ là tóm tắt kết quả.
+d. Tài liệu và tri thức hoàn toàn đồng nhất trong mọi bối cảnh.
+Trong việc lan tỏa văn hóa tổ chức, kể chuyện đóng vai trò gì?
+a. Loại bỏ hoàn toàn các mối quan hệ xã hội phi chính thức.
+b. Đảm bảo mọi dữ liệu được xử lý bằng công cụ phân tích thống kê.
+c. Truyền đạt các giá trị, niềm tin và chuẩn mực hành vi tới nhân viên mới. 
+d. Chuẩn hóa các quy trình kỹ thuật thành báo cáo định lượng.
+Điều gì làm cho kể chuyện phù hợp trong môi trường cần hợp tác cao?
+a. Vì nó thay thế hoàn toàn các hệ thống quản lý tri thức chính thức.
+b. Vì nó cung cấp dữ liệu số hóa nhanh chóng.
+c. Vì nó phản ánh chuẩn mực, giá trị và văn hóa tổ chức. 
+d. Vì nó loại bỏ các yếu tố phi chính thức.
+Trong bối cảnh thiết kế hệ thống nắm bắt tri thức, tại sao cần song song vừa có kỹ thuật vừa có công nghệ thông minh?
+a. Vì công nghệ luôn loại bỏ mọi giả định trong khi kỹ thuật thì không.
+b. Vì kỹ thuật tạo ra nội dung còn công nghệ cung cấp phương tiện lưu trữ và truyền tải. 
+c. Vì kỹ thuật thay thế toàn bộ tri thức ẩn, còn công nghệ chỉ ghi lại tri thức hiện.
+d. Vì công nghệ đảm bảo tính hợp pháp trong khi kỹ thuật chỉ tập trung vào vận hành.
+Theo quan điểm thiết kế hệ thống nắm bắt tri thức, vai trò chính của công nghệ là gì?
+a. Tập trung vào việc thay thế con người trong toàn bộ quá trình.
+b. Tạo ra môi trường cho phép mô phỏng và bảo tồn tri thức của chuyên gia. 
+c. Đảm bảo mọi tri thức ẩn tự động chuyển thành tri thức hiện.
+d. Loại bỏ hoàn toàn nhu cầu xây dựng thư viện tri thức.
+Theo quan điểm quản trị tri thức, kể chuyện trong tổ chức mang lại lợi ích gì?
+a. Chuẩn hóa hoàn toàn dữ liệu để dễ dàng xử lý bằng công nghệ.
+b. Giảm sự cần thiết của cộng đồng thực hành trong tổ chức.
+c. Thay thế toàn bộ tri thức ẩn bằng tri thức hiện.
+d. Tạo ra cách nhìn đa chiều giúp phát hiện cơ hội kinh doanh. 
+Tại sao suy luận dựa trên ngữ cảnh (CxBR) lại phù hợp cho tri thức chiến thuật?
+a. Vì nó chủ yếu tập trung vào tri thức hiện có sẵn trong báo cáo.
+b. Vì nó mô phỏng quá trình đánh giá tình huống và lựa chọn hành động. 
+c. Vì nó thay thế hoàn toàn nhu cầu đào tạo bằng mô phỏng.
+d. Vì nó chỉ lưu trữ thông tin dạng văn bản mà không xử lý ngữ cảnh.
+Cơ chế nội hóa (internalization) trong hệ thống nắm bắt tri thức có đặc điểm gì?
+a. Mô tả quy trình mã hóa luật IF–THEN từ tri thức chuyên gia.
+b. Chỉ tập trung vào việc thu thập dữ liệu từ kho lưu trữ điện tử.
+c. Giúp người học chuyển đổi tri thức hiện thành tri thức ẩn thông qua trải nghiệm. 
+d. Loại bỏ sự tham gia của con người để đảm bảo khách quan tuyệt đối.
+Một hạn chế khi sử dụng kể chuyện như cơ chế nắm bắt tri thức là gì?
+a. Nội dung chỉ phù hợp cho báo cáo tài chính hàng năm.
+b. Nội dung luôn phản ánh chính xác dữ liệu định lượng.
+c. Nội dung có thể bị thiên lệch do góc nhìn và cách diễn đạt của người kể. 
+d. Nội dung không thể tác động đến hành vi hay thái độ.
+Tại sao môi trường có tính bất định cao lại yêu cầu việc ghi lại các quyết định?
+a. Vì tài liệu kỹ thuật trong bối cảnh này không còn giá trị.
+b. Vì chỉ có dữ liệu định lượng mới đủ để vận hành.
+c. Vì môi trường bất định luôn loại bỏ mọi giả định.
+d. Vì các quyết định được lưu trữ sẽ giúp tái sử dụng khi điều kiện thay đổi. 
+Làm thế nào để việc kể chuyện góp phần xây dựng niềm tin trong tổ chức?
+a. Bằng cách loại bỏ các tương tác phi chính thức giữa nhân viên.
+b. Bằng cách chuẩn hóa tri thức thành quy trình thủ tục duy nhất.
+c. Bằng cách sử dụng thuật toán thống kê để xác nhận mọi phát biểu.
+d. Bằng cách tạo cảm giác kết nối cá nhân và chia sẻ trải nghiệm chân thực. 
+Mục tiêu của kỹ thuật “alternative histories” trong thu thập tri thức tổ chức là gì?
+a. Tạo ra những kịch bản giả định khác nhau để tham chiếu kết quả dự án. 
+b. Chuẩn hóa các câu chuyện thành báo cáo định lượng duy nhất.
+c. Loại bỏ hoàn toàn các yếu tố sáng tạo khỏi quá trình ra quyết định.
+d. Giảm sự đa dạng trong tri thức nhằm duy trì ổn định tổ chức.
+Trong môi trường bất định, việc ghi lại giả định kèm theo quyết định thiết kế mang lại lợi ích gì?
+a. Giúp loại bỏ hoàn toàn nhu cầu cập nhật tri thức.
+b. Đảm bảo tất cả quyết định đều đúng trong tương lai.
+c. Thay thế toàn bộ vai trò của chuyên gia kỹ thuật.
+d. Cho phép tái sử dụng hoặc điều chỉnh quyết định khi bối cảnh thay đổi. 
+Tại sao hệ thống nắm bắt tri thức có thể vượt qua ranh giới tổ chức?
+a. Vì chỉ tập trung vào dữ liệu nội bộ để giảm chi phí vận hành.
+b. Vì tri thức ẩn luôn có thể tự động chuyển thành tri thức hiện mà không cần công cụ.
+c. Vì có thể thu nhận tri thức từ cả bên trong lẫn bên ngoài, bao gồm đối tác và đối thủ cạnh tranh. 
+d. Vì mọi tri thức đều được chuẩn hóa thành quy trình thủ tục cố định.
+Theo nghiên cứu của Denning, yếu tố nào làm cho kể chuyện có thể kích hoạt hành động thay đổi ngay?
+a. Việc tái tạo toàn bộ báo cáo chiến lược dài hạn.
+b. Cách kể ngắn gọn, tập trung và dễ liên hệ để người nghe tưởng tượng khả năng mới. 
+c. Việc mô tả chi tiết tất cả lỗi vận hành để tránh sai sót.
+d. Việc đưa vào nhiều số liệu phức tạp để chứng minh độ chính xác tuyệt đối.
+Một lý do khiến kể chuyện trở thành công cụ quản trị thay đổi hiệu quả là gì?
+a. Khả năng định hình lại cách nhìn và hành vi của nhân viên qua ví dụ thực tế. 
+b. Khả năng loại bỏ nhu cầu phân tích dữ liệu trong tổ chức.
+c. Khả năng đảm bảo tri thức chỉ tồn tại dưới dạng số liệu chuẩn.
+d. Khả năng thay thế tất cả chính sách quản lý bằng tường thuật.
+Theo Snowden, tại sao kể chuyện trong tổ chức được coi là phi thứ bậc (nonhierarchical)?
+a. Vì kể chuyện thay thế toàn bộ các chính sách quản trị chính thức.
+b. Vì kể chuyện loại bỏ hoàn toàn sự tham gia của nhân viên cấp dưới.
+c. Vì kể chuyện mang tính hợp tác, khuyến khích các thành viên đồng sáng tạo. 
+d. Vì kể chuyện đảm bảo quyền lực tập trung vào lãnh đạo cấp cao.
+Ví dụ nào thể hiện rõ cơ chế ngoại hóa trong quá trình nắm bắt tri thức?
+a. Thông qua kể chuyện để chuyển tri thức ẩn thành tri thức hiện. 
+b. Tổ chức các cuộc họp trực tiếp để nhân viên học hỏi lẫn nhau.
+c. Đọc lại báo cáo đã chuẩn hóa từ hệ thống thông tin quản lý.
+d. Quan sát trực tiếp cách một chuyên gia xử lý tình huống trong thực tế.
+Hệ thống nắm bắt tri thức khác biệt với hệ thống chia sẻ tri thức chủ yếu ở điểm nào?
+a. Tập trung vào việc chuẩn hóa số liệu tài chính thành báo cáo.
+b. Tập trung vào việc tự động hóa các quyết định chiến lược cấp cao.
+c. Tập trung vào việc thu giữ và định hình tri thức để lưu trữ lâu dài. 
+d. Tập trung vào việc truyền đạt nhanh chóng giữa các nhóm chức năng.
+Trong tổ chức, vì sao phép ẩn dụ thường được dùng trong các câu chuyện để truyền đạt tri thức?
+a. Vì phép ẩn dụ cho phép loại bỏ mọi sự khác biệt văn hóa trong doanh nghiệp.
+b. Vì phép ẩn dụ giúp minh họa trực quan những khái niệm trừu tượng và khó diễn đạt. 
+c. Vì phép ẩn dụ thay thế hoàn toàn nhu cầu đào tạo chính thức trong tổ chức.
+d. Vì phép ẩn dụ luôn chính xác hơn số liệu định lượng khi giải thích tình huống.
+Một nhược điểm của kỹ thuật phỏng vấn truyền thống so với kỹ thuật kể chuyện trong nắm bắt tri thức là gì?
+a. Luôn tạo ra dữ liệu định tính chính xác tuyệt đối.
+b. Chỉ thu được dữ liệu từ bên ngoài tổ chức.
+c. Không thể thu nhận tri thức hiện từ chuyên gia.
+d. Ít tái hiện được bối cảnh phong phú gắn với hành động và quyết định. 
+Theo định nghĩa của Swap et al. (2001), câu chuyện tổ chức được hiểu là gì?
+a. Một bản kế hoạch chiến lược dài hạn được phê duyệt bởi ban giám đốc.
+b. Một bản mô tả kỹ thuật chi tiết về quá trình sản xuất sản phẩm.
+c. Một chuỗi dữ liệu số hóa phản ánh hiệu quả tài chính của doanh nghiệp.
+d. Một tường thuật phi chính thức về các sự kiện nội bộ hay bên ngoài tổ chức. 
+Trong lịch sử nhân loại, cơ chế nguyên thủy nhất để nắm bắt tri thức là gì?
+a. Việc mã hóa luật thành văn bản pháp lý.
+b. Các quy trình kiểm toán tài chính định kỳ.
+c. Việc chuẩn hóa các bảng số liệu và thống kê.
+d. Nghệ thuật kể chuyện truyền miệng trong cộng đồng. 
+Kỹ thuật gợi tri thức (knowledge elicitation) trong AI chủ yếu được thực hiện bằng cách nào?
+a. Thông qua việc chuẩn hóa các báo cáo định lượng trong doanh nghiệp.
+b. Thông qua buổi phỏng vấn giữa kỹ sư tri thức và chuyên gia. 
+c. Thông qua quan sát ngẫu nhiên các quy trình không chính thức.
+d. Thông qua việc phân tích dữ liệu hành vi người dùng từ mạng xã hội.
+Một trong những điểm mạnh của kể chuyện là gì khi so với danh sách gạch đầu dòng trong kế hoạch kinh doanh?
+a. Danh sách có khả năng truyền đạt các giá trị văn hóa tốt hơn.
+b. Kể chuyện cho phép tái hiện mạch sự kiện và ưu tiên chiến lược rõ ràng. 
+c. Kể chuyện loại bỏ hoàn toàn yếu tố cảm xúc cá nhân.
+d. Danh sách gạch đầu dòng luôn hấp dẫn và dễ nhớ hơn.
+Một “springboard story” theo Denning (2000) có tác dụng gì?
+a. Giúp khán giả hình dung tổ chức có thể thay đổi nhờ câu chuyện trong một bối cảnh khác. 
+b. Thay thế các phương pháp phân tích dữ liệu định lượng trong tổ chức.
+c. Dùng để chuẩn hóa tri thức hiện thành các tài liệu hướng dẫn chính thức.
+d. Chỉ nhằm mục đích khuyến khích nhân viên giải trí sau giờ làm việc.
+Một trong những lý do kể chuyện giúp tăng tốc quản trị thay đổi trong tổ chức là gì?
+a. Kể chuyện đảm bảo sự tuân thủ tuyệt đối của nhân viên.
+b. Kể chuyện loại bỏ nhu cầu về bất kỳ số liệu minh chứng nào.
+c. Kể chuyện luôn thay thế toàn bộ chiến lược dài hạn.
+d. Kể chuyện khơi gợi hình ảnh cụ thể khiến nhân viên hình dung dễ dàng về trạng thái tương lai. 
+Theo Phoel (2006), yếu tố nào được xem là trung tâm để một câu chuyện tổ chức thành công?
+a. Khả năng lặp lại câu chuyện giống hệt trong mọi ngữ cảnh.
+b. Sự tham gia của chuyên gia bên ngoài để hiệu chỉnh nội dung.
+c. Mức độ chính xác trong các số liệu tài chính được đề cập.
+d. Tính chân thực trong cách kể và nội dung của câu chuyện. 
+Điểm hạn chế của các mô hình chuyên gia được xây dựng trong AI là gì?
+a. Mô hình có xu hướng chỉ tập trung vào dữ liệu định lượng và bỏ qua cảm xúc.
+b. Mô hình thường quá phức tạp nên không thể vận hành trên nền tảng số hóa.
+c. Máy tính dễ dàng hiểu mô hình, nhưng mô hình không phải lúc nào cũng phản ánh đầy đủ tri thức để người khác học hỏi.
+d. Mô hình luôn yêu cầu nguồn dữ liệu cực lớn nên khó ứng dụng thực tế.
+Trong việc kể chuyện tổ chức, vì sao yếu tố cảm xúc được coi là tài sản tri thức?
+a. Vì nó tạo sự kết nối sâu sắc và gợi nhớ lâu dài hơn dữ liệu khô khan. 
+b. Vì nó thay thế được tất cả các quy trình chính thức.
+c. Vì nó loại bỏ được các khác biệt về bối cảnh.
+d. Vì nó luôn chính xác hơn các dữ kiện thống kê.
+Trong kỹ thuật “dit-spinning” (fish tales), đặc điểm nào nổi bật nhất?
+a. Xu hướng giảm thiểu chi tiết ngữ cảnh để tăng tính khách quan.
+b. Xu hướng con người phóng đại hoặc cải tiến câu chuyện đã được kể. 
+c. Xu hướng chuyển mọi tri thức thành dữ liệu số hóa chuẩn.
+d. Xu hướng tập trung vào việc chuẩn hóa quy trình kỹ thuật nội bộ.
+Đâu là một trong những đặc điểm làm cho kể chuyện trở thành công cụ hiệu quả trong việc nắm bắt tri thức ẩn?
+a. Kể chuyện thường được chuẩn hóa thành dữ liệu định lượng rõ ràng.
+b. Kể chuyện loại bỏ hoàn toàn các yếu tố cảm xúc của người tham gia.
+c. Kể chuyện thường chứa đựng chi tiết ngữ cảnh phong phú và dễ liên hệ cá nhân. 
+d. Kể chuyện chỉ có giá trị khi được viết dưới dạng báo cáo chính thức.
+Trong bối cảnh IBM, Snowden cho rằng mục tiêu chính của kể chuyện trong tổ chức là gì?
+a. Đạt được sự giải trí cho nhân viên sau giờ làm việc.
+b. Chuẩn hóa tri thức hiện để tạo ra quy trình kỹ thuật.
+c. Đảm bảo rằng mọi câu chuyện đều phản ánh hành vi lý tưởng.
+d. Giúp đạt một mục đích cụ thể chứ không chỉ để giải trí. 
+Khi lập chỉ mục cơ sở dữ liệu, việc sử dụng nhân vật nguyên mẫu (archetypal characters) có ý nghĩa gì?
+a. Giảm thiểu tính đa dạng văn hóa trong cộng đồng tổ chức.
+b. Loại bỏ hoàn toàn yếu tố cảm xúc trong tri thức tổ chức.
+c. Chuẩn hóa câu chuyện thành báo cáo định lượng duy nhất.
+d. Gợi liên tưởng đến những hình mẫu phổ quát giúp truyền tải giá trị. 
+Cơ chế ngoại hóa (externalization) trong hệ thống nắm bắt tri thức được hiểu là gì?
+a. Quá trình chuyển đổi tri thức ẩn thành tri thức hiện để có thể chia sẻ. 
+b. Quá trình chuẩn hóa dữ liệu thành mô hình thống kê để dự báo.
+c. Quá trình biến đổi báo cáo tài chính thành tài liệu quản trị tri thức.
+d. Quá trình chuyển đổi tri thức hiện thành tri thức ẩn thông qua thực hành.
+Theo Snowden (1999), điều gì KHÔNG nên có trong một chương trình kể chuyện?
+a. Sử dụng chất liệu gắn liền với cộng đồng nội bộ.
+b. Tránh lý tưởng hóa hành vi nhân viên trong câu chuyện.
+c. Khuyến khích nhân viên chia sẻ trải nghiệm công việc.
+d. Phụ thuộc quá nhiều vào chuyên gia bên ngoài để duy trì. 
+Cơ sở dữ liệu có thể được lập chỉ mục theo những cách nào?
+a. Theo số liệu tài chính, báo cáo sản xuất và hợp đồng kinh doanh.
+b. Theo chủ đề, các bên liên quan hoặc các nhân vật nguyên mẫu. 
+c. Theo độ chính xác thống kê và mức độ kiểm toán độc lập.
+d. Theo cấu trúc dữ liệu số hóa được chuẩn hóa toàn cầu.
+Việc áp dụng bản đồ khái niệm (concept maps) trong giáo dục nhằm mục đích chính nào?
+a. Hỗ trợ nắm bắt và mô hình hóa tri thức của chuyên gia trong môi trường đào tạo. 
+b. Chuẩn hóa kinh nghiệm cá nhân thành báo cáo pháp lý duy nhất.
+c. Loại bỏ sự cần thiết của việc tham gia trực tiếp của giảng viên.
+d. Thay thế toàn bộ phương pháp đánh giá định lượng truyền thống.
+Tại sao việc ghi lại các quyết định kỹ thuật trong quá trình thiết kế hệ thống phức tạp lại quan trọng?
+a. Vì nó cung cấp cơ sở để hình thành đại diện hữu ích hơn về thiết kế trong điều kiện bất định. 
+b. Vì nó thay thế hoàn toàn bản vẽ kỹ thuật và mô hình CAD.
+c. Vì nó đảm bảo rằng tất cả giả định được loại bỏ khỏi quy trình thiết kế.
+d. Vì nó chỉ ra mọi phương án bị loại bỏ để phục vụ cho mục đích pháp lý.
+Trong việc sử dụng phép ẩn dụ (metaphor) khi kể chuyện, lợi ích lớn nhất là gì?
+a. Chuẩn hóa dữ liệu định lượng để phân tích thống kê.
+b. Tạo điểm tham chiếu chung để dễ dàng liên hệ và thấu hiểu. 
+c. Đảm bảo loại bỏ các yếu tố sáng tạo trong câu chuyện.
+d. Thay thế toàn bộ các quy trình ra quyết định bằng ngôn ngữ biểu tượng.
+Kỹ thuật kể chuyện gián tiếp (indirect stories) phục vụ mục đích nào?
+a. Ngăn chặn các yếu tố cảm xúc và ẩn dụ trong tường thuật.
+b. Cho phép kể câu chuyện thông qua nhân vật hư cấu để tránh cá nhân hóa. 
+c. Thay thế hoàn toàn nhu cầu tương tác trực tiếp giữa nhân viên.
+d. Chuẩn hóa toàn bộ tri thức thành dữ liệu số trong cơ sở dữ liệu.
+Tại sao bản đồ khái niệm được xem là công cụ mô hình hóa tri thức phù hợp?
+a. Vì nó giới hạn số lượng khái niệm để tránh quá tải nhận thức.
+b. Vì nó chỉ yêu cầu dữ liệu số hóa, không cần sự hiểu biết của người học.
+c. Vì nó thay thế hoàn toàn vai trò của giáo viên trong giảng dạy.
+d. Vì nó cho phép diễn tả khái niệm theo cách trực quan, linh hoạt và gắn kết. 
+Vì sao CxBR phù hợp để mô hình hóa tri thức trong các lĩnh vực như hàng không hay điều khiển tàu ngầm?
+a. Vì người vận hành luôn hành động theo lộ trình cố định, không phụ thuộc bối cảnh.
+b. Vì các lĩnh vực này không cần đến sự hỗ trợ của hệ thống tri thức.
+c. Vì các tình huống trong những lĩnh vực này mang tính chiến thuật, yêu cầu phản ứng nhanh và quyết định theo ngữ cảnh.
+d. Vì tri thức trong các lĩnh vực này chủ yếu mang tính định lượng và ổn định.
+Tại sao bản đồ khái niệm được xem là công cụ lý tưởng để chia sẻ tri thức chuyên gia?
+a. Vì nó đảm bảo rằng người học chỉ nhìn thấy kết quả cuối cùng.
+b. Vì nó thay thế hoàn toàn quá trình đào tạo truyền thống.
+c. Vì nó làm cho tri thức ẩn trở nên tường minh và có thể học được bởi người khác. 
+d. Vì nó loại bỏ yếu tố ngữ cảnh và chuẩn hóa mọi tri thức.
+Một trong những khó khăn trong quá trình thu nhận tri thức chuyên gia là:
+a. Kỹ sư tri thức phải nhanh chóng xác định mô hình tri thức phù hợp khi phỏng vấn chuyên gia. 
+b. Tài liệu kỹ thuật quá dài khiến hệ thống không thể xử lý.
+c. Dữ liệu đầu vào không thể lưu trữ dưới dạng số hóa.
+d. Các chuyên gia thường không cho phép ghi âm buổi phỏng vấn.
+Vai trò của phần mềm CmapTools trong quá trình nắm bắt tri thức là gì?
+a. Giới hạn phạm vi tri thức chỉ trong lĩnh vực kỹ thuật.
+b. Hỗ trợ thu nhận, tổ chức và trình bày tri thức chuyên gia dưới dạng mô hình trực quan. 
+c. Biến đổi các bản đồ khái niệm thành dữ liệu thống kê định lượng.
+d. Tự động tạo ra các khái niệm mà không cần tương tác của người dùng.
+Một đặc điểm giúp CITKA nổi bật so với phương pháp phỏng vấn truyền thống là gì?
+a. Có khả năng thay thế hoàn toàn vai trò của kỹ sư tri thức.
+b. Có khả năng ghi lại toàn bộ quá trình tương tác giữa người học và hệ thống.
+c. Có khả năng tạo ra cơ sở ngữ cảnh hoàn chỉnh từ các truy vấn tự động. 
+d. Có khả năng biến đổi tri thức thành dữ liệu hình ảnh ba chiều.
+Điểm đặc trưng của các liên kết (links) trong bản đồ khái niệm là gì?
+a. Chúng chỉ biểu diễn mối quan hệ tuyến tính giữa hai dữ liệu.
+b. Chúng được sinh tự động từ thuật toán phân cụm khái niệm.
+c. Chúng không có hướng và không có giá trị ngữ nghĩa cụ thể.
+d. Chúng được gắn nhãn rõ ràng và thể hiện mối quan hệ dưới dạng mệnh đề có nghĩa. 
+Trong hệ thống CITKA, vai trò của Knowledge Engineering Database (KEDB) là gì?
+a. Lưu trữ cơ sở ngữ cảnh đang được phát triển theo cấu trúc phân cấp của CxBR. 
+b. Quản lý giao diện người dùng cho chuyên gia khi trả lời câu hỏi.
+c. Tự động sinh câu hỏi dựa trên các quy tắc truy vấn có sẵn.
+d. Thực hiện đối thoại thông minh trực tiếp với chuyên gia lĩnh vực.
+Khi một ngữ cảnh chính đang hoạt động trong hệ thống CxBR, điều nào sau đây là đúng?
+a. Chỉ một ngữ cảnh chính được kích hoạt tại một thời điểm và kiểm soát toàn bộ hành vi. 
+b. Không có ngữ cảnh nào thực sự điều khiển hành vi vì hệ thống hoạt động độc lập.
+c. Nhiều ngữ cảnh chính có thể cùng hoạt động song song để tối ưu hóa hiệu suất.
+d. Các ngữ cảnh chính luôn được kích hoạt ngẫu nhiên theo thuật toán xác suất.
+Khái niệm “cross-links” trong bản đồ khái niệm có ý nghĩa gì?
+a. Liên kết giữa các lĩnh vực tri thức khác nhau giúp nhận diện mối quan hệ liên ngành. 
+b. Tập hợp các khái niệm bị loại trừ khỏi mô hình chính.
+c. Kết nối giữa các khái niệm cùng cấp độ chi tiết.
+d. Đường nối phụ nhằm tăng mật độ đồ thị tri thức.
+Theo ước tính, CITKA có thể tự động xây dựng bao nhiêu phần trăm mô hình tri thức dựa trên ngữ cảnh?
+a. Khoảng 10% với sự can thiệp thủ công tối đa.
+b. Không quá 30% trong điều kiện thông thường.
+c. Trên 95% nhờ sử dụng trí tuệ nhân tạo học sâu.
+d. Từ 50% đến 80% tổng cấu trúc mô hình. 
+Nếu chuyên gia mô tả tri thức theo trình tự các sự kiện xảy ra, mô hình nào được xem là thích hợp nhất?
+a. Mô hình dựa trên trường hợp (case-based).
+b. Mô hình dựa trên ràng buộc (constraint-based). 
+c. Mô hình dựa trên quy tắc (rule-based).
+d. Mô hình dựa trên khái niệm (concept-based).
+Khác biệt cơ bản giữa bản đồ khái niệm và mạng ngữ nghĩa (semantic network) là gì?
+a. Mạng ngữ nghĩa luôn có cấp bậc rõ ràng hơn bản đồ khái niệm.
+b. Bản đồ khái niệm được dùng trong AI, còn mạng ngữ nghĩa chủ yếu trong thống kê.
+c. Bản đồ khái niệm tạo mệnh đề bằng từ nối và thường có phân cấp phục vụ học tập; mạng ngữ nghĩa nhấn mạnh quan hệ hình thức giữa các khái niệm.
+d. Mạng ngữ nghĩa bao gồm yếu tố cảm xúc, còn bản đồ khái niệm thì không.
+Kết luận quan trọng rút ra từ các hệ thống học tập bằng quan sát là gì?
+a. Không thể thu nhận tri thức chuyên gia nếu không có sự can thiệp trực tiếp.
+b. Có thể thu nhận tri thức từ chuyên gia thông qua tương tác gián tiếp và không xâm nhập. 
+c. Việc mô phỏng hành vi chuyên gia luôn đòi hỏi kiểm chứng thực nghiệm phức tạp.
+d. Các hệ thống học tập bằng quan sát chưa chứng minh được tính khả thi.
+Một ưu điểm quan trọng của bản đồ khái niệm khi dùng trong các hệ thống tri thức là gì?
+a. Đảm bảo rằng mọi liên kết đều tuyến tính và không chồng chéo.
+b. Có khả năng mở rộng quy mô để bao quát lượng thông tin lớn. 
+c. Bắt buộc mọi tri thức phải được biểu diễn theo cấu trúc cây.
+d. Có khả năng chuyển đổi trực tiếp thành mã máy tính nhị phân.
+Trong hệ thống CITKA, SME Interface (SMEI) đóng vai trò gì?
+a. Là mô-đun chịu trách nhiệm phân tích dữ liệu đầu ra của người dùng.
+b. Là cơ sở dữ liệu lưu giữ toàn bộ phản hồi từ người học.
+c. Là bảng điều khiển kỹ thuật cho lập trình viên hệ thống.
+d. Là giao diện đồ họa động cho phép chuyên gia tương tác với các câu hỏi và quy tắc trong QRB. 
+Điểm khác biệt giữa tri thức chiến thuật và tri thức chiến lược là gì?
+a. Tri thức chiến thuật dựa vào tài liệu, còn tri thức chiến lược dựa vào hệ thống AI.
+b. Tri thức chiến thuật tập trung vào dữ liệu, còn tri thức chiến lược tập trung vào con người.
+c. Tri thức chiến thuật mang tính ngắn hạn, còn tri thức chiến lược định hướng dài hạn. 
+d. Tri thức chiến thuật phụ thuộc vào thị trường, còn tri thức chiến lược phụ thuộc vào công nghệ.
+Theo các nhà nghiên cứu, ưu điểm nổi bật của CmapTools trong nắm bắt tri thức là gì?
+a. Khả năng tạo tự động mô hình khái niệm mà không cần người dùng.
+b. Khả năng mã hóa dữ liệu định lượng thay cho tri thức khái niệm.
+c. Khả năng hiển thị phong phú đa phương tiện và hỗ trợ học tập, cộng tác trực tuyến. 
+d. Khả năng hạn chế phạm vi tri thức chỉ trong một lĩnh vực cụ thể.
+Trong ứng dụng về hỗ trợ chẩn đoán, diễn giải lâm sàng các ca bệnh tim mạch, các nút khái niệm trong bản đồ khái niệm biểu thị điều gì?
+a. Mỗi nút là một biểu tượng trừu tượng hóa của một loại bệnh lý tim mạch cụ thể. 
+b. Mỗi nút là một công thức y học định lượng được hệ thống hóa.
+c. Mỗi nút phản ánh quy trình điều trị lâm sàng được chuẩn hóa.
+d. Mỗi nút đại diện cho một bệnh nhân và dữ liệu xét nghiệm cá nhân.
+Điểm khác biệt giữa observational learning và cognitive imitation là gì?
+a. Quan sát chỉ được áp dụng trong môi trường mô phỏng ảo.
+b. Bắt chước chỉ xảy ra khi không có quá trình học tập qua quan sát.
+c. Quan sát có thể không bao gồm hành vi bắt chước, trong khi bắt chước luôn cần quan sát. 
+d. Cả hai đều yêu cầu mô phỏng chính xác hành động vật lý của chuyên gia.
+Trong hệ thống nắm bắt tri thức dựa trên bản đồ khái niệm, vai trò chính của CmapTools là gì?
+a. Mã hóa dữ liệu chuyên gia thành mô hình thống kê và bảng quyết định.
+b. Biến tri thức ẩn thành dữ liệu số hóa định lượng.
+c. Thay thế toàn bộ quá trình phỏng vấn giữa chuyên gia và kỹ sư tri thức.
+d. Cung cấp môi trường thu nhận, tổ chức và duyệt tri thức dưới dạng cấu trúc khái niệm. 
+Trong hệ thống CmapTools, người học có thể thu nhận tri thức chuyên gia bằng cách nào?
+a. Phân tích dữ liệu thống kê và biểu đồ định lượng.
+b. Thực hiện các phép tính logic trên cơ sở dữ liệu ngữ nghĩa.
+c. Ghi nhớ toàn bộ văn bản của chuyên gia mà không cần thao tác.
+d. Duyệt qua các bản đồ khái niệm và khám phá mối liên kết giữa các khái niệm. 
+Tác dụng quan trọng nhất của bản đồ khái niệm trong đào tạo là gì?
+a. Giảm thiểu thời gian giảng dạy bằng cách tự động hóa quá trình học.
+b. Giúp người học nhận diện cấu trúc tri thức và mối liên hệ giữa các khái niệm. 
+c. Đảm bảo mọi người học đều có mô hình tri thức giống nhau.
+d. Tách biệt hoàn toàn tri thức lý thuyết và tri thức thực hành.
+Vì sao bản đồ khái niệm được xem là công cụ hỗ trợ học tập hiệu quả?
+a. Vì nó cho phép người học khám phá cấu trúc tri thức của chuyên gia một cách trực quan. 
+b. Vì nó chỉ tập trung vào khái niệm định lượng và mô hình toán học.
+c. Vì nó loại bỏ hoàn toàn vai trò của người hướng dẫn trong lớp học.
+d. Vì nó đảm bảo rằng mọi người học có cùng cấu trúc tri thức.
+Vì sao CxBR được xem là mô hình trực quan để mô phỏng hành vi con người?
+a. Vì nó sử dụng hoàn toàn dữ liệu định lượng trong mọi tình huống.
+b. Vì nó tổ chức tri thức theo cấu trúc phân cấp, mô phỏng cách con người ra quyết định theo ngữ cảnh. 
+c. Vì nó mô phỏng hành vi bằng cách ngẫu nhiên hóa đầu vào.
+d. Vì nó loại bỏ hoàn toàn yếu tố cảm xúc và thiên kiến trong quá trình mô phỏng.
+Cấu trúc phân cấp của bản đồ khái niệm mang lại lợi ích gì khi mở rộng quy mô tri thức?
+a. Giúp giới hạn số lượng khái niệm nhằm duy trì độ chính xác cao.
+b. Giúp loại bỏ các mối quan hệ chéo giữa các chủ đề khác nhau.
+c. Giúp chuyển đổi tự động tri thức sang định dạng văn bản chuẩn.
+d. Giúp tích hợp dễ dàng các khái niệm của nhiều lĩnh vực vào cùng hệ thống. 
+Một trong những hướng nghiên cứu nổi bật về học tập bằng quan sát là gì?
+a. Phát triển thuật toán suy diễn thống kê để thay thế hoàn toàn tri thức chuyên gia.
+b. Thiết kế các tác nhân thông minh có khả năng học thêm từ các trải nghiệm mới. 
+c. Giảm vai trò của tri thức nền trong việc xây dựng mô hình học tập.
+d. Tạo cơ chế loại bỏ hoàn toàn sự can thiệp của con người trong huấn luyện.
+CmapTools hỗ trợ người học thông qua đặc điểm nào sau đây?
+a. Giới hạn việc truy cập nội dung chỉ trong một lĩnh vực duy nhất.
+b. Chuẩn hóa các bài giảng dưới dạng thống kê số liệu.
+c. Tạo môi trường học tập đa phương tiện với khả năng hợp tác từ xa. 
+d. Thay thế toàn bộ hoạt động nghiên cứu của giảng viên.
+Trong hệ thống CmapTools, các biểu tượng nhỏ (icons) bên dưới các nút khái niệm có chức năng gì?
+a. Liên kết tới các tài nguyên đa phương tiện như hình ảnh, video hoặc văn bản. 
+b. Chỉ hiển thị mô tả định lượng về khái niệm đang xét.
+c. Giúp hệ thống tự động sinh ra các khái niệm phụ liên quan.
+d. Dẫn đến cơ sở dữ liệu thống kê ngoài mạng nội bộ.
+Giải pháp nào được khuyến nghị để vượt qua sự e dè của chuyên gia khi tương tác với hệ thống tri thức?
+a. Tự động hóa toàn bộ quy trình phỏng vấn.
+b. Bắt buộc chuyên gia tham gia vào quy trình nắm bắt tri thức.
+c. Cung cấp đào tạo phù hợp và giao diện thân thiện với người dùng. 
+d. Giảm thiểu số lượng câu hỏi để tiết kiệm thời gian.
+Khi nói đến “trình duyệt dựa trên bản đồ khái niệm”, ý nghĩa chính của cụm này là gì?
+a. Một chương trình xử lý hình ảnh hỗ trợ hiển thị khái niệm dưới dạng 3D.
+b. Một phần mềm định dạng văn bản chuyên dùng cho lưu trữ dữ liệu.
+c. Một giao diện cho phép duyệt tri thức theo cấu trúc liên kết khái niệm thay vì theo thứ tự tuyến tính. 
+d. Một hệ thống mã hóa tri thức dựa trên thuật toán logic mệnh đề.
+Trong quá trình xây dựng bản đồ khái niệm, mối quan hệ giữa kỹ sư tri thức và chuyên gia lĩnh vực là gì?
+a. Hợp tác cùng xây dựng mô hình khái niệm chia sẻ về tri thức. 
+b. Kỹ sư tri thức độc lập tạo mô hình mà không cần phản hồi chuyên gia.
+c. Phân cấp rõ ràng: kỹ sư thu thập còn chuyên gia xác nhận dữ liệu.
+d. Chuyên gia chịu trách nhiệm toàn bộ việc mã hóa tri thức.
+Thành phần Knowledge Engineering Interface (KEI) của CITKA cung cấp điều gì?
+a. Một môi trường đồ họa hiển thị các mô phỏng trực quan của tri thức.
+b. Một giao diện bảng biểu cho phép nhập liệu thông qua tám hộp thoại tương tác. 
+c. Một mô-đun dùng để tự động hóa toàn bộ việc viết quy tắc chuyên gia.
+d. Một công cụ phân tích dữ liệu định lượng để kiểm định tri thức chuyên gia.
+Từ góc nhìn của chuyên gia, rào cản chính khi tương tác với hệ thống nắm bắt tri thức là gì?
+a. Hệ thống không thể lưu trữ tri thức hiện hữu.
+b. Tốc độ xử lý của hệ thống thấp hơn mong đợi.
+c. Kỹ sư tri thức can thiệp quá sâu vào quy trình làm việc.
+d. Cảm giác e ngại khi phải học cách sử dụng công nghệ mới. 
+Phần mềm CITKA được thiết kế với mục tiêu tự động hóa điều gì?
+a. Quá trình trích xuất dữ liệu văn bản trong kho tài liệu tổ chức.
+b. Quá trình mô phỏng hành vi người dùng trong hệ thống thương mại điện tử.
+c. Quá trình thu nhận tri thức chiến thuật của chuyên gia thông qua các truy vấn thông minh. 
+d. Quá trình huấn luyện nhân viên bằng các mô hình học máy thống kê.
+Theo quan điểm của kỹ sư tri thức, điều kiện tiên quyết để biểu diễn tri thức một cách chính xác là gì?
+a. Xác định sớm loại hình tri thức để chọn mô hình biểu diễn thích hợp. 
+b. Tự động hóa toàn bộ quy trình ghi nhận phản hồi của chuyên gia.
+c. Thu thập lượng dữ liệu lớn nhằm giảm thiểu sai lệch thống kê.
+d. Ưu tiên tri thức hiện vì dễ mã hóa hơn tri thức ẩn.
+Trong mô hình CxBR, “mission context” có vai trò gì?
+a. Đại diện cho tri thức ẩn của chuyên gia trong môi trường thực tế.
+b. Kiểm soát toàn bộ hệ thống và loại bỏ mọi ngữ cảnh phụ.
+c. Đưa ra quyết định chi tiết cho từng hành động cụ thể.
+d. Xác định phạm vi, mục tiêu và ràng buộc tổng thể của nhiệm vụ. 
+Trong cấu trúc CITKA, Query Rule-Base (QRB) có chức năng chính nào?
+a. Quản lý các biểu đồ ngữ cảnh phục vụ huấn luyện nhân viên mới.
+b. Lưu trữ và điều phối các quy tắc đối thoại với chuyên gia. 
+c. Thực hiện mã hóa tri thức ẩn thành dữ liệu định lượng.
+d. Ghi nhận dữ liệu phản hồi từ người dùng cuối trong môi trường học tập.
+Vì sao việc phát triển công cụ đa mô hình (multiparadigm tool) trong nắm bắt tri thức gần như bất khả thi?
+a. Vì không thể xác định trước loại tri thức phù hợp với mỗi mô hình. 
+b. Vì chuyên gia thường không sẵn lòng tiết lộ tri thức ẩn.
+c. Vì các hệ thống như vậy quá tốn kém về mặt phần cứng.
+d. Vì dữ liệu tri thức luôn thay đổi liên tục theo thời gian.
+Tại sao bản đồ khái niệm được xem là giải pháp cho vấn đề “điều hướng” trong các hệ thống siêu phương tiện (hypermedia)?
+a. Vì nó thay thế giao diện trình duyệt bằng cấu trúc thống kê.
+b. Vì nó định hướng người dùng theo mối liên hệ logic giữa các khái niệm. 
+c. Vì nó tự động loại bỏ các đường dẫn trùng lặp trong cơ sở dữ liệu.
+d. Vì nó giới hạn người dùng trong một cây phân cấp tuyến tính.
+Khái niệm tri thức chiến thuật trong Context-Based Reasoning (CxBR) được hiểu là gì?
+a. Tri thức định lượng giúp xác định chỉ số hiệu suất hoạt động.
+b. Tri thức phục vụ đánh giá tình huống, lựa chọn kế hoạch hành động và thực thi kế hoạch đó. 
+c. Tri thức được mã hóa sẵn trong hệ thống chuyên gia phục vụ dự báo xu hướng.
+d. Tri thức tập trung vào tầm nhìn dài hạn và chiến lược cạnh tranh của tổ chức.
+Khi chuyên gia mô tả tri thức của mình bằng cách kể lại những tình huống đã xảy ra, mô hình nào phù hợp nhất để biểu diễn tri thức đó?
+a. Suy luận theo ngữ cảnh (context-based).
+b. Suy luận dựa trên trường hợp (case-based reasoning). 
+c. Bản đồ khái niệm (concept mapping).
+d. Quy tắc ràng buộc (constraint-based).
+Nếu chuyên gia mô tả tri thức bằng cấu trúc “nếu A thì B”, hình thức biểu diễn phù hợp nhất là gì?
+a. Hệ thống dựa trên trường hợp (case-based).
+b. Mô hình dựa trên ngữ cảnh (context-based).
+c. Bản đồ khái niệm (concept map).
+d. Mô hình dựa trên quy tắc (rule-based). 
+Khi ứng dụng bản đồ khái niệm vào đo lường tri thức chuyên gia, lợi ích nổi bật là gì?
+a. Có thể tự động hóa việc gán điểm và xếp hạng chuyên gia.
+b. Có thể đánh giá mức độ hiểu biết về chủ đề trong ngữ cảnh cụ thể. 
+c. Có thể chuẩn hóa tri thức thành mô hình tuyến tính duy nhất.
+d. Có thể thay thế hoàn toàn quá trình vấn đáp trực tiếp.
+Theo lý thuyết học tập có ý nghĩa của Ausubel, điều kiện nào là cần thiết để việc học bằng bản đồ khái niệm đạt hiệu quả?
+a. Người học cần loại bỏ hoàn toàn các tri thức cũ trước khi học.
+b. Giáo viên phải kiểm soát tuyệt đối cách học viên liên kết các khái niệm.
+c. Học viên phải có tri thức nền tảng liên quan để tích hợp khái niệm mới. 
+d. Bản đồ khái niệm phải được thiết kế có cùng số lượng nút ở mỗi tầng.
+Trong mô hình bản đồ khái niệm, “proposition” được hiểu là gì?
+a. Một quy tắc suy luận dùng trong hệ chuyên gia.
+b. Một đơn vị ngữ nghĩa tạo bởi hai khái niệm được nối bằng từ liên kết. 
+c. Một biểu đồ thống kê mô tả tần suất xuất hiện của khái niệm.
+d. Một nhóm dữ liệu định lượng thể hiện mối tương quan.
+Khái niệm cognitive imitation trong nghiên cứu về tri thức có ý nghĩa nào sau đây?
+a. Chuyên gia truyền đạt trực tiếp tri thức mà không cần minh họa hành động.
+b. Học viên sao chép cách chuyên gia sử dụng quy tắc để giải quyết vấn đề. 
+c. Người học ghi nhớ toàn bộ thông tin định lượng mà không hiểu bản chất.
+d. Hệ thống mô phỏng hành vi con người thông qua ngẫu nhiên hóa dữ liệu.
+Trong bản đồ khái niệm, mối quan hệ giữa hai khái niệm được thể hiện thông qua yếu tố nào?
+a. Từ nối (linking word) tạo nên một mệnh đề có nghĩa. 
+b. Số liệu định lượng mô tả cường độ kết nối.
+c. Dấu mũi tên biểu thị hướng của luồng thông tin.
+d. Mã màu thể hiện cấp độ của tri thức.
+Trong mô hình CxBR, “context” được định nghĩa là gì?
+a. Tập hợp các hành động và thủ tục phù hợp để xử lý một tình huống cụ thể. 
+b. Tập hợp các dữ liệu đầu vào định lượng liên quan đến nhiệm vụ.
+c. Tập hợp các mục tiêu chiến lược của toàn bộ tổ chức.
+d. Tập hợp các quy tắc logic được lưu trữ trong cơ sở tri thức.
+Kết quả thử nghiệm CITKA trong mô hình tác chiến tàu ngầm cho thấy điều gì?
+a. Có thể giảm tới 80% thời gian nhân công so với phương pháp phỏng vấn truyền thống. 
+b. Có thể thay thế toàn bộ quy trình kiểm định dữ liệu định lượng.
+c. Có thể loại bỏ hoàn toàn nhu cầu tham gia của chuyên gia lĩnh vực.
+d. Có thể tăng độ phức tạp của hệ thống lên gấp đôi mà không cần bảo trì.
+Hình ảnh “những ngón tay xanh bất đối xứng” trong bản đồ khái niệm tim mạch được hiểu như thế nào?
+a. Mô hình giả lập nhằm hướng dẫn bác sĩ trong quy trình phẫu thuật.
+b. Biểu tượng trực quan cho tình trạng thiếu máu cơ tim hoặc suy tim mãn tính.
+c. Tham số thống kê mô tả hiệu suất bơm máu của tim. 
+d. Dấu hiệu đồ họa dùng để đánh dấu bệnh nhân có tiền sử tim mạch.
+Trong cấu trúc của bản đồ khái niệm, trục dọc đóng vai trò gì?
+a. Đánh dấu ranh giới giữa các lĩnh vực tri thức khác nhau.
+b. Biểu thị hệ thống phân cấp từ khái niệm tổng quát đến chi tiết. 
+c. Thể hiện luồng thời gian trong chuỗi sự kiện.
+d. Diễn tả mức độ tương tác giữa các khái niệm.
+Khi một tình huống bất ngờ xuất hiện, điều gì xảy ra trong hệ thống CxBR?
+a. Các ngữ cảnh phụ bị loại bỏ để tránh sai lệch dữ liệu.
+b. Toàn bộ cấu trúc ngữ cảnh được thiết lập lại từ đầu.
+c. Hệ thống tạm ngưng hoạt động cho đến khi có dữ liệu xác minh.
+d. Một chuyển đổi giữa các ngữ cảnh được kích hoạt để phản ứng với tình huống mới. 
+Khi một người lái xe rời đường cao tốc để vào khu vực nội đô, hành vi nào mô tả đúng bản chất của CxBR?
+a. Tăng tốc độ xử lý thông tin để duy trì tốc độ di chuyển cao hơn.
+b. Kích hoạt lại ngữ cảnh trước đó nhằm duy trì ổn định hành vi.
+c. Bỏ qua các yếu tố môi trường như đèn giao thông hoặc người đi bộ.
+d. Chuyển đổi từ ngữ cảnh lái xe trên cao tốc sang ngữ cảnh lái xe trong thành phố với bộ quy tắc mới. 
+Một trong những rào cản lớn nhất đối với việc tự động thu nhận tri thức của chuyên gia là gì?
+a. Việc thu thập dữ liệu định lượng mất quá nhiều chi phí vận hành.
+b. Các chuyên gia thường không hợp tác trong quá trình phỏng vấn.
+c. Hệ thống máy tính chưa đủ tốc độ xử lý để mô phỏng toàn bộ tri thức.
+d. Kỹ sư tri thức cần hình thành sớm nhận thức về bản chất và cấu trúc tri thức của chuyên gia. 
+Một hệ thống nắm bắt tri thức lý tưởng trong tương lai cần có khả năng gì?
+a. Mô phỏng cảm xúc của chuyên gia trong mọi tình huống.
+b. Thay thế hoàn toàn kỹ sư tri thức bằng mô hình học máy.
+c. Chuyển toàn bộ tri thức sang định dạng văn bản thống kê.
+d. Hiểu bản chất tri thức và tự động đặt câu hỏi tương thích với chuyên gia. 
+Trong cấu trúc CxBR, “subcontext” có chức năng gì?
+a. Ghi lại dữ liệu thống kê để đánh giá hiệu suất.
+b. Đại diện cho mục tiêu tổng thể của nhiệm vụ.
+c. Xử lý các hành động chi tiết thuộc một ngữ cảnh chính và có thể được tái sử dụng. 
+d. Đóng vai trò trung gian giữa người dùng và hệ thống.
+CITKA hoạt động dựa trên nguyên lý nào của Context-Based Reasoning (CxBR)?
+a. Phân rã tri thức thành các quy tắc ngẫu nhiên không ràng buộc.
+b. Chuyển đổi tri thức chiến lược thành hành vi định lượng.
+c. Gộp các ngữ cảnh nhỏ thành một hệ thống mô phỏng duy nhất.
+d. Tổ chức tri thức thành các ngữ cảnh phân cấp có thể tái sử dụng và mở rộng. 
+Lợi ích quan trọng nhất khi áp dụng mô hình CITKA là gì?
+a. Giảm mạnh nhu cầu nhân lực và sai sót khi thu nhận tri thức chuyên gia. 
+b. Tự động hóa toàn bộ quá trình ra quyết định chiến lược dài hạn.
+c. Tăng cường sự phụ thuộc của hệ thống vào chuyên gia lập trình.
+d. Chuẩn hóa toàn bộ tri thức ẩn thành tri thức hiện định lượng.
+Theo hướng tiếp cận mới, tác nhân học tập hiệu quả cần có đặc điểm gì?
+a. Hoạt động hoàn toàn độc lập mà không cần dữ liệu huấn luyện.
+b. Chỉ tập trung vào việc sao chép bề ngoài hành vi của chuyên gia.
+c. Sở hữu tri thức nền tảng để có thể tiếp thu tri thức mới một cách tích lũy. 
+d. Xóa bỏ mọi tri thức trước đó nhằm tránh sai lệch nhận thức.
+
+Chương 8:
+Yếu tố nào giúp hệ thống chia sẻ tri thức trở thành công cụ cạnh tranh chiến lược?
+a. Tốc độ xử lý dữ liệu cao hơn các hệ thống CNTT truyền thống.
+b. Cấu trúc lưu trữ phi tập trung giúp tiết kiệm chi phí đầu tư.
+c. Giao diện thân thiện hỗ trợ tự động hóa quy trình nội bộ.
+d. Khả năng biến tri thức cá nhân thành tài sản tập thể có thể khai thác lâu dài. 
+Cơ sở dữ liệu thực hành tốt (Best Practices Database) có đặc điểm khác biệt gì so với hệ thống bài học kinh nghiệm?
+a. Coi trọng phản hồi cá nhân hơn là chuẩn mực ngành.
+b. Được xây dựng chủ yếu từ dữ liệu thử nghiệm thất bại.
+c. Chỉ lưu trữ các kết quả thành công, không bao gồm thất bại. 
+d. Tập trung mô tả quá trình ra quyết định thay vì kết quả thực thi.
+Hệ thống chia sẻ tri thức có thể được xem như một “thị trường tri thức” vì lý do nào?
+a. Sự trao đổi tri thức cần đạt đến mức thanh khoản đủ lớn để vận hành hiệu quả. 
+b. Hệ thống đảm bảo tất cả người dùng đều được thưởng khi chia sẻ tri thức.
+c. Các nhà quản lý có thể định giá tri thức theo cung cầu thị trường.
+d. Tri thức chỉ được chia sẻ khi có quy định pháp lý ràng buộc.
+Khái niệm “critical volume” trong bối cảnh hệ thống chia sẻ tri thức đề cập đến yếu tố nào?
+a. Số lượng tối thiểu người chia sẻ và người tìm kiếm tri thức để tạo ra trao đổi hiệu quả. 
+b. Mức độ tin cậy trung bình của các kho tri thức trực tuyến.
+c. Dung lượng dữ liệu tối đa mà hệ thống có thể xử lý đồng thời.
+d. Mức lưu lượng truy cập cần thiết để duy trì máy chủ hoạt động.
+Tại sao mạng lưới “liên kết yếu” lại khó được ghi nhận trong hệ thống chia sẻ tri thức?
+a. Vì họ thường hoạt động ngoài khuôn khổ quy trình chính thức.
+b. Vì họ ít có cơ hội tiếp cận các tài nguyên quan trọng trong tổ chức.
+c. Vì tri thức họ chia sẻ thường không có giá trị thương mại rõ ràng.
+d. Vì đóng góp của họ thường ngắn hạn và khó có thể đo lường theo các chỉ số truyền thống. 
+Điểm khác biệt giữa cơ sở dữ liệu thực hành tốt và cơ sở dữ liệu bài học kinh nghiệm là gì?
+a. Mức độ bảo mật – yêu cầu xác thực sinh trắc học khi truy cập.
+b. Cấu trúc lưu trữ – sử dụng định dạng phi tuyến thay vì dạng cây phân cấp.
+c. Nguồn gốc nội dung – từ chuẩn mực ngành thay vì trải nghiệm thực tế. 
+d. Quy trình cập nhật – phụ thuộc hoàn toàn vào AI thay vì con người.
+Khái niệm “active presentation of relevant information” mô tả điều gì?
+a. Thuật toán phân tích hành vi người dùng để gợi ý tài liệu tương tự.
+b. Khả năng của hệ thống tự động cung cấp thông tin phù hợp đúng lúc và đúng nơi. 
+c. Cơ chế bảo mật chủ động nhằm giới hạn quyền truy cập theo thời gian.
+d. Quy trình lập chỉ mục dữ liệu thủ công cho từng loại tri thức.
+Trong hệ thống chia sẻ tri thức, điều kiện tiên quyết để “chủ sở hữu tri thức” sẵn lòng chia sẻ là gì?
+a. Họ phải kiểm soát được phạm vi và điều kiện chia sẻ. 
+b. Họ được đảm bảo quyền sở hữu trí tuệ tuyệt đối.
+c. Họ nhận được phần thưởng tài chính ngay lập tức.
+d. Họ có quyền xóa tri thức sau khi truyền đạt xong.
+Tại sao hệ thống chia sẻ tri thức thường được xây dựng trên nền tảng Web?
+a. Vì Web độc lập nền tảng, cho phép truy cập thống nhất từ nhiều hệ thống khác nhau. 
+b. Vì Web giúp giảm chi phí triển khai phần cứng.
+c. Vì Web đảm bảo tính bảo mật cao hơn mạng nội bộ.
+d. Vì Web có thể mã hóa mọi loại tri thức ở dạng phi cấu trúc.
+Trong mô hình “knowledge markets”, tại sao người tìm kiếm tri thức cần hệ thống hỗ trợ?
+a. Vì họ thiếu quyền truy cập vào các kho dữ liệu bí mật của công ty.
+b. Vì họ thường không biết toàn bộ nguồn chia sẻ khả dụng trong tổ chức. 
+c. Vì họ không thể tự liên hệ với chuyên gia trong cùng phòng ban.
+d. Vì họ không có khả năng đánh giá độ chính xác của tri thức.
+Cơ sở dữ liệu báo cáo sự cố (Incident Report Database) chủ yếu được dùng trong bối cảnh nào?
+a. Điều tra an toàn và phân tích nguyên nhân tai nạn để phòng ngừa rủi ro. 
+b. Tạo lập kho tri thức để chia sẻ các mô hình đào tạo thành công.
+c. Đánh giá kết quả học tập trong các chương trình đào tạo nhân viên.
+d. Xây dựng quy trình tuyển dụng nội bộ dựa trên dữ liệu ứng viên.
+Vì sao sự xuất hiện của Internet và World Wide Web được xem là cuộc cách mạng trong chia sẻ tri thức?
+a. Chúng cho phép trao đổi thông tin đa phương tiện trên phạm vi toàn cầu. 
+b. Chúng thay thế hoàn toàn mọi hình thức giao tiếp đồng bộ truyền thống.
+c. Chúng loại bỏ nhu cầu lưu trữ dữ liệu cục bộ trong tổ chức.
+d. Chúng đảm bảo mọi thông tin được mã hóa bằng cùng một chuẩn.
+Hệ thống quản lý tài liệu trong chia sẻ tri thức giúp thực hiện điều gì?
+a. Hợp nhất, phân loại và tổ chức thông tin để lưu trữ và truy xuất một cách thống nhất. 
+b. Xây dựng các thuật toán khai phá tri thức nâng cao.
+c. Lọc bỏ tri thức ẩn không thể biểu diễn bằng văn bản.
+d. Tự động tạo ra tri thức mới từ dữ liệu phi cấu trúc.
+Tại sao việc “giảm thiểu kỹ thuật hóa tri thức ban đầu” lại quan trọng trong thiết kế hệ thống chia sẻ tri thức?
+a. Vì nó giúp hệ thống được triển khai nhanh, tiết kiệm chi phí và thích ứng dễ hơn. 
+b. Vì nó làm tăng độ chính xác của dữ liệu thu thập.
+c. Vì nó cho phép dữ liệu được mã hóa phức tạp hơn.
+d. Vì nó giảm thiểu yêu cầu bảo mật nội dung tri thức.
+Trước thời đại thông tin, hình thức giao tiếp hai chiều chủ yếu dựa vào phương tiện nào?
+a. Điện thoại, cho phép trao đổi thông tin đồng bộ giữa các bên. 
+b. Điện báo, với tốc độ truyền tải vượt trội hơn thư tay.
+c. Radio, truyền âm thanh đến nhiều người nghe cùng lúc.
+d. Máy fax, giúp chuyển giao hình ảnh và chữ viết tức thời.
+Hội chứng “not-invented-here” (NIH) thường gây ra hệ quả nào trong tổ chức?
+a. Làm suy yếu động lực tái sử dụng tri thức có sẵn từ nội bộ và bên ngoài. 
+b. Gia tăng sự phụ thuộc vào tri thức từ các đối tác bên ngoài.
+c. Khiến nhân viên tập trung chia sẻ kinh nghiệm hơn là sáng tạo mới.
+d. Giảm nhu cầu thiết lập hệ thống khuyến khích chia sẻ tri thức.
+Hệ thống bài học kinh nghiệm (Lessons Learned System – LLS) nhằm đạt mục tiêu chính nào?
+a. Ghi lại và cung cấp bài học giúp nhân viên giải quyết tình huống tương tự sau này. 
+b. Lưu trữ các báo cáo định kỳ của các dự án đã hoàn thành.
+c. Xây dựng nền tảng chia sẻ tài liệu cho nhóm kỹ sư phần mềm.
+d. Phát triển thuật toán học máy để dự đoán sự cố tiềm ẩn.
+Thiếu sự hỗ trợ từ lãnh đạo có thể dẫn đến hệ quả nào đối với hệ thống chia sẻ tri thức?
+a. Nhân viên không thấy giá trị hoặc động lực để đóng góp tri thức. 
+b. Làm mất cân bằng giữa tri thức ẩn và tri thức hiện.
+c. Tăng nguy cơ rò rỉ dữ liệu ra bên ngoài tổ chức.
+d. Gây xung đột giữa các bộ phận trong việc phân quyền truy cập.
+Ví dụ về việc nhận biết “ai là người đi xe đạp giỏi” được dùng để minh họa điều gì?
+a. Năng lực cá nhân không liên quan đến chia sẻ tri thức.
+b. Mọi kỹ năng đều phải được định lượng hóa để đo lường chính xác.
+c. Hệ thống cần loại bỏ tri thức không thể chuyển thành dữ liệu.
+d. Dù không thể mã hóa kỹ năng, việc biết ai sở hữu nó vẫn hữu ích trong tổ chức. 
+Hệ thống chia sẻ tri thức được thiết kế chủ yếu nhằm mục tiêu nào?
+a. Kiểm soát quyền truy cập dữ liệu theo cấp độ phân quyền.
+b. Giúp người dùng chia sẻ tri thức ẩn và hiện một cách có tổ chức. 
+c. Đo lường hiệu quả đổi mới trong các dự án nghiên cứu.
+d. Tự động sinh tri thức mới dựa trên dữ liệu tổ chức.
+Việc khai thác phản hồi người dùng đóng vai trò gì trong quá trình vận hành hệ thống chia sẻ tri thức?
+a. Giúp duy trì, cập nhật và đảm bảo tính liên quan của tri thức trong tổ chức. 
+b. Cho phép người dùng điều chỉnh cấu trúc dữ liệu gốc của hệ thống.
+c. Tự động xác minh tính pháp lý của các nội dung chia sẻ.
+d. Hạn chế việc sao chép tri thức ra bên ngoài mạng nội bộ.
+Hệ thống cảnh báo (Alert System) ban đầu được thiết kế với mục đích gì?
+a. Phân tích xu hướng đầu tư của đối thủ cạnh tranh.
+b. Đánh giá kết quả của các chiến dịch marketing trong thời gian thực.
+c. Truyền tải nhanh thông tin về các sự cố đã hoặc sắp xảy ra. 
+d. Gửi báo cáo nội bộ cho các nhà quản lý cấp cao.
+Một tiêu chí quan trọng để một bài học được xem là “lesson learned” là gì?
+a. Phải có giá trị tác động thực tế và tính chính xác kỹ thuật cao. 
+b. Phải được rút ra từ các mô hình học máy hoặc thống kê.
+c. Phải có sự xác nhận của chuyên gia trong lĩnh vực học thuật.
+d. Phải được công bố chính thức trên các tạp chí chuyên ngành.
+Web page (trang Web) được đặc trưng bởi yếu tố nào sau đây?
+a. Là công cụ phần mềm được dùng để lập chỉ mục và tìm kiếm dữ liệu.
+b. Là tệp văn bản chứa toàn bộ mã nguồn của hệ thống mạng nội bộ.
+c. Là giao diện điều khiển để cấu hình máy chủ từ xa.
+d. Là tài liệu siêu đa phương tiện (hypermedia) thể hiện nội dung lưu trữ tại máy chủ Web. 
+Hệ thống chia sẻ tri thức đóng vai trò như thế nào trong việc bảo tồn “corporate memory”?
+a. Giới hạn quyền truy cập tri thức theo thời gian sử dụng.
+b. Ngăn chặn hoàn toàn sự rời bỏ nhân viên bằng chính sách thưởng.
+c. Giúp duy trì khả năng truy cập tri thức tổ chức ngay cả khi nguồn gốc ban đầu không còn. 
+d. Chỉ sao lưu dữ liệu giao dịch kinh doanh hàng ngày.
+Trong hệ thống chia sẻ tri thức, điều gì giúp cân bằng lợi ích giữa người chia sẻ và người tìm kiếm tri thức?
+a. Chính sách thưởng cố định theo lượt truy cập.
+b. Cơ chế trao đổi công bằng (fair exchange). 
+c. Cơ chế giám sát hành vi chia sẻ.
+d. Mô hình xếp hạng dựa trên điểm tín nhiệm.
+Một đặc điểm then chốt của hệ thống chia sẻ tri thức là khả năng gì?
+a. Phân tích hành vi người dùng nhằm tối ưu chiến lược marketing.
+b. Tổ chức, lưu trữ và phân phối tri thức của tổ chức theo cách có thể truy cập rộng rãi. 
+c. Bảo mật tuyệt đối bằng mã hóa phi đối xứng để ngăn truy cập ngoài.
+d. Tự động chuyển đổi tri thức ẩn thành tri thức hiện qua AI.
+Ví dụ về công ty RS Information Systems, Inc. minh họa cho điều gì?
+a. Hệ thống KM chỉ phát huy hiệu quả trong các tập đoàn lớn.
+b. Việc chia sẻ tri thức chỉ có ý nghĩa trong môi trường nghiên cứu học thuật.
+c. Doanh nghiệp nhỏ vẫn có thể đạt lợi thế cạnh tranh nhờ chia sẻ thực hành tốt. 
+d. Các tổ chức nhỏ nên tránh đầu tư vào công nghệ KM phức tạp.
+Vì sao “phần thưởng cá nhân hóa” được xem là rào cản đối với việc chia sẻ tri thức?
+a. Vì chúng chỉ khuyến khích thành tích cá nhân thay vì sự hợp tác. 
+b. Vì chúng buộc các nhóm phải chia sẻ dữ liệu định kỳ theo quy định.
+c. Vì chúng làm tri thức trở nên ít chính xác hơn khi được lan truyền.
+d. Vì chúng làm giảm khả năng duy trì trí nhớ tổ chức.
+Vai trò chính của HTML trong hệ thống chia sẻ tri thức là gì?
+a. Xác thực quyền truy cập của người dùng trên mạng nội bộ.
+b. Quản lý quá trình truyền tải gói dữ liệu giữa các máy khách.
+c. Cung cấp chuẩn biểu diễn giúp trình duyệt hiển thị văn bản và đồ họa. 
+d. Mã hóa dữ liệu người dùng trước khi tải lên máy chủ.
+Một hệ thống chia sẻ tri thức hiệu quả cần được tích hợp như thế nào trong tổ chức?
+a. Phải hoạt động tách biệt hoàn toàn để đảm bảo bảo mật tri thức.
+b. Phải thay thế toàn bộ hệ thống thông tin truyền thống của doanh nghiệp.
+c. Phải kết nối liền mạch với các công cụ CNTT hiện có trong luồng công việc. 
+d. Phải giới hạn quyền truy cập của người dùng vào từng phân hệ riêng biệt.
+Điểm khác biệt chính giữa hệ thống chia sẻ tri thức và hệ thống quản lý tài liệu truyền thống là gì?
+a. Hệ thống quản lý tài liệu tập trung nhiều hơn vào truyền thông đa phương tiện.
+b. Hệ thống chia sẻ tri thức hỗ trợ tái sử dụng và học tập, không chỉ lưu trữ. 
+c. Hệ thống quản lý tài liệu không cho phép người dùng truy cập song song.
+d. Hệ thống chia sẻ tri thức chủ yếu phục vụ mục đích bảo mật dữ liệu.
+Một trong những nguyên nhân khiến hệ thống chia sẻ tri thức thất bại là gì?
+a. Thiếu khả năng mã hóa dữ liệu hình ảnh và âm thanh.
+b. Lưu trữ tri thức ở dạng văn bản dài gây khó hiểu và khó tái sử dụng. 
+c. Cho phép người dùng tự do đăng tải thông tin mà không kiểm duyệt.
+d. Áp dụng thuật toán tìm kiếm không phù hợp với ngữ cảnh tri thức.
+Tại sao một số nhân viên e ngại khi đóng góp vào kho tri thức tổ chức?
+a. Vì hệ thống không có cơ chế xác nhận quyền tác giả.
+b. Vì lãnh đạo thường không khuyến khích đóng góp tự nguyện.
+c. Vì họ cho rằng tri thức của mình không đủ giá trị để ghi nhận.
+d. Vì họ sợ thông tin bị trích xuất sai ngữ cảnh hoặc gây rủi ro bảo mật. 
+Khía cạnh nào khiến chia sẻ tri thức trở thành nền tảng cho tổ chức học tập?
+a. Giảm sự phụ thuộc vào chuyên gia bằng cách loại bỏ tri thức ẩn.
+b. Tự động hóa hoàn toàn việc thu nhận tri thức ngầm.
+c. Cho phép tái sử dụng tri thức cá nhân vào bối cảnh tổ chức. 
+d. Bắt buộc nhân viên ghi chép lại toàn bộ kinh nghiệm làm việc.
+Tầm quan trọng của việc cho phép người dùng tải xuống tài liệu từ trang Web là gì?
+a. Là cơ chế bảo vệ bản quyền tài liệu trên nền tảng Web.
+b. Là yếu tố cốt lõi giúp cộng đồng tri thức dễ dàng chia sẻ và tái sử dụng thông tin. 
+c. Là cách duy nhất để giảm tải cho máy chủ trong hệ thống lớn.
+d. Là yêu cầu bắt buộc của mọi trình duyệt để đảm bảo bảo mật dữ liệu.
+Yếu tố nào thường dẫn đến mất mát tri thức của doanh nghiệp?
+a. Các nhà quản lý thiếu kỹ năng phân tích thống kê.
+b. Quá trình sao lưu dữ liệu gặp lỗi phần cứng.
+c. Nhân viên rời đi khiến tri thức ẩn bị thất thoát. 
+d. Cấu trúc phân cấp tổ chức quá phức tạp.
+Vì sao việc xây dựng “trí tuệ tổ chức đơn khối” (monolithic organizational memory) thường thất bại?
+a. Vì nó dễ gây ra tình trạng trùng lặp dữ liệu không kiểm soát.
+b. Vì tri thức cần được tách ngữ cảnh bởi người tạo và tái gắn ngữ cảnh bởi người dùng. 
+c. Vì nó không thể đáp ứng yêu cầu bảo mật nội bộ.
+d. Vì bộ nhớ này yêu cầu đầu tư hạ tầng lưu trữ quá lớn.
+Điều kiện cần để đạt “critical volume” trong chia sẻ tri thức là gì?
+a. Có hệ thống khuyến khích hợp lý cho cả người tạo và người tìm kiếm tri thức. 
+b. Có cơ sở hạ tầng CNTT đủ mạnh để xử lý tất cả truy vấn cùng lúc.
+c. Có lượng dữ liệu văn bản lớn để huấn luyện hệ thống AI nội bộ.
+d. Có sự đồng thuận của ban lãnh đạo trong việc mở kho tri thức ra bên ngoài.
+Hệ quả của việc tổ chức không có sự ghi nhận hoặc có những phần thưởng xứng đáng cho chuyên gia khi chia sẻ tri thức là gì?
+a. Giảm mức độ tham gia của người nắm giữ tri thức trong thị trường tri thức nội bộ. 
+b. Giúp hệ thống tri thức duy trì tính độc lập giữa các bộ phận.
+c. Tăng cường động lực đổi mới trong các nhóm nghiên cứu.
+d. Gia tăng tốc độ hình thức hóa tri thức ẩn thành tri thức hiện.
+URL trong môi trường Web có chức năng gì?
+a. Ghi nhận lịch sử truy cập và thống kê hành vi người dùng.
+b. Lưu trữ tạm thời nội dung tài liệu trước khi gửi đến máy chủ.
+c. Xác định địa chỉ và giao thức để trình duyệt truy cập tài nguyên mong muốn. 
+d. Kiểm tra định dạng tệp tin trước khi hiển thị trên trình duyệt.
+Trong hệ thống WWW, “Server” được hiểu là gì?
+a. Nút mạng dùng để phân phối địa chỉ IP cho các máy khách.
+b. Thiết bị trung gian mã hóa dữ liệu trước khi gửi đi trên mạng.
+c. Trình duyệt được cài đặt để hiển thị thông tin dạng đồ họa.
+d. Máy tính lưu trữ và cung cấp các tài nguyên thông tin cho người dùng truy cập. 
+Lợi ích nổi bật của giao tiếp không đồng bộ (asynchronous) trong chia sẻ tri thức là gì?
+a. Loại bỏ hoàn toàn nhu cầu xác minh độ tin cậy của nguồn thông tin.
+b. Đảm bảo nội dung tri thức được truyền tải liên tục theo thời gian thực.
+c. Cho phép các bên trao đổi ý tưởng mà không cần có mặt cùng thời điểm. 
+d. Giảm thiểu sai sót nhờ các kênh truyền dữ liệu có độ trễ thấp.
+Một rào cản kỹ thuật thường gặp nhưng ít được chú ý trong chia sẻ tri thức là gì?
+a. Thiếu phân quyền truy cập dựa trên vai trò chuyên môn.
+b. Lưu trữ tri thức ở dạng văn bản thiếu cấu trúc gây khó đọc và khó diễn giải. 
+c. Sử dụng cùng một hệ mã hóa cho tất cả định dạng dữ liệu.
+d. Không hỗ trợ giao diện đồ họa cho người dùng cuối.
+Đặc điểm nổi bật của báo cáo sự cố so với các hệ thống chia sẻ tri thức khác là gì?
+a. Ghi nhận cả các ví dụ tích cực nhằm minh họa cho thực hành tốt.
+b. Chủ yếu được dùng để đánh giá mức độ hài lòng của khách hàng.
+c. Tập trung vào việc phân tích chiến lược của toàn ngành thay vì tổ chức.
+d. Mô tả chi tiết sự kiện cùng nguyên nhân nhưng thường không kèm khuyến nghị. 
+Trong một hệ thống quản lý tài liệu, “repository” đóng vai trò gì?
+a. Cấu phần bảo mật chống thất thoát tri thức nội bộ.
+b. Công cụ phân tích dữ liệu phi cấu trúc phục vụ khai phá tri thức.
+c. Cơ chế phân quyền truy cập dữ liệu dựa trên vai trò người dùng.
+d. Kho lưu trữ điện tử trung tâm với nhiều điểm truy cập khác nhau. 
+Một tổ chức được xem là “learning organization” khi nào?
+a. Khi có đội ngũ chuyên trách thu thập dữ liệu định kỳ.
+b. Khi hệ thống chia sẻ tri thức cho phép chia sẻ và tái sử dụng tri thức liên tục. 
+c. Khi mọi hoạt động vận hành đều được số hóa hoàn toàn.
+d. Khi nhân viên chỉ học tập qua các khóa đào tạo chính thức.
+Chức năng cốt lõi của một hệ thống chia sẻ tri thức là gì?
+a. Tăng năng lực cạnh tranh của tổ chức thông qua việc cải thiện cách quản lý tri thức. 
+b. Tự động thay thế các quy trình ra quyết định của con người.
+c. Xây dựng kho dữ liệu phi cấu trúc để huấn luyện mô hình AI.
+d. Giảm chi phí vận hành bằng cách loại bỏ nhân tố con người.
+Sự khác nhau giữa các hệ thống chia sẻ tri thức được mô tả theo những yếu tố nào?
+a. Nguồn gốc nội dung, phạm vi ứng dụng, kết quả mô tả và định hướng. 
+b. Định dạng lưu trữ, loại ngôn ngữ sử dụng và giao diện hiển thị.
+c. Quy trình thu thập dữ liệu, độ chính xác, và số lượng người dùng.
+d. Mức độ phân quyền truy cập, tốc độ truy xuất và hình thức bảo mật.
+Theo định nghĩa của NASA, “bài học kinh nghiệm” được coi là gì?
+a. Cơ sở dữ liệu thuần túy phục vụ lưu trữ báo cáo khoa học.
+b. Hệ thống hướng dẫn giúp chuẩn hóa quy trình trong mọi trường hợp.
+c. Tri thức hoặc hiểu biết có được thông qua trải nghiệm, dù thành công hay thất bại. 
+d. Tập hợp các quy tắc mô phỏng quy trình thiết kế kỹ thuật phức tạp.
+Ví dụ “tri thức về cách đi xe đạp” được dùng để minh họa điều gì?
+a. Có những loại tri thức không thể hoặc không nên được mã hóa thành tri thức hiện. 
+b. Các quy trình cơ học đều có thể biểu diễn bằng công thức toán học.
+c. Tri thức chỉ có giá trị khi được ghi lại dưới dạng văn bản cụ thể.
+d. Tri thức kỹ năng cần được chuyển đổi hoàn toàn thành quy tắc số hóa.
+Theo nguyên tắc thiết kế, khi nỗ lực để “hình thức hóa tri thức” quá cao thì nên xử lý thế nào?
+a. Nên phân loại tri thức đó thành tri thức ngầm không thể truy xuất.
+b. Nên loại bỏ tri thức đó khỏi hệ thống để tránh nhiễu dữ liệu.
+c. Nên sử dụng mô hình học sâu để tái tạo tri thức đó.
+d. Nên để tri thức đó ở dạng phi chính thức và do con người mô tả. 
+Khái niệm “Client” trong môi trường Web có ý nghĩa như thế nào?
+a. Là người dùng chịu trách nhiệm biên tập và xác thực tri thức.
+b. Là máy tính gửi yêu cầu truy cập thông tin đến máy chủ qua mạng. 
+c. Là cơ sở dữ liệu chứa các bản ghi của người sử dụng.
+d. Là chương trình tạo lập nội dung để lưu trữ trên máy chủ.
+Điểm hạn chế lớn nhất của điện thoại trong việc chia sẻ tri thức là gì?
+a. Không thể kết nối được với nhiều người trong cùng một cuộc gọi.
+b. Không đảm bảo được tính bảo mật của nội dung trao đổi.
+c. Không thể ghi âm hay lưu trữ nội dung cuộc nói chuyện.
+d. Không truyền tải được thông tin phi ngôn ngữ như tài liệu, hình ảnh hay sơ đồ. 
+Ứng dụng mở rộng gần đây của hệ thống cảnh báo là gì?
+a. Phát hiện gian lận trong quy trình chia sẻ dữ liệu.
+b. Ghi nhận và xử lý tự động khi có lỗi phần mềm phát sinh.
+c. Cung cấp thông tin tích cực như cơ hội tài trợ hoặc thành công công nghệ. 
+d. Phân loại người dùng theo hành vi tìm kiếm tri thức.
+Bước đầu tiên trong quá trình thiết kế hệ thống chia sẻ tri thức là gì?
+a. Xây dựng thuật toán suy luận tự động hóa quy trình ra quyết định.
+b. Loại bỏ các tài liệu cũ để giảm tải cho hệ thống.
+c. Thu thập và tổ chức có hệ thống thông tin, tri thức từ nhiều nguồn khác nhau trong tổ chức. 
+d. Chuẩn hóa toàn bộ dữ liệu hiện có theo cùng một định dạng.
+Khái niệm “corporate memory” được hiểu chính xác nhất là gì?
+a. Bộ sưu tập tri thức được tạo ra từ khách hàng và nhà cung cấp.
+b. Tổng hợp tài sản trí tuệ bao gồm cả tri thức ẩn và tri thức hiện của tổ chức. 
+c. Danh mục các tài liệu quy trình vận hành tiêu chuẩn của công ty.
+d. Hệ thống cơ sở dữ liệu chứa toàn bộ hồ sơ hoạt động của doanh nghiệp.
+Tại sao việc tích hợp hệ thống chia sẻ tri thức với các công cụ CNTT hiện có lại cần thiết?
+a. Vì hệ thống mới thường không tương thích với công cụ truyền thống.
+b. Vì dữ liệu tổ chức thường bị trùng lặp giữa các bộ phận.
+c. Vì việc tách rời hệ thống sẽ giúp bảo mật thông tin hơn.
+d. Vì con người có xu hướng tránh các nỗ lực phải hình thức hóa tri thức thủ công. 
+Tại sao việc chia sẻ tri thức ẩn lại khó đạt được so với tri thức hiện?
+a. Vì tri thức ẩn không mang lại giá trị thương mại rõ ràng.
+b. Vì tri thức ẩn phụ thuộc vào bối cảnh, khó chuẩn hóa và ghi chép. 
+c. Vì tri thức ẩn không thể biểu diễn bằng bất kỳ ngôn ngữ nào.
+d. Vì tri thức ẩn luôn bị giới hạn bởi bản quyền pháp lý.
+Một trong những rào cản phổ biến khiến hệ thống chia sẻ tri thức thất bại là gì?
+a. Không gắn kết được con người, quy trình và công nghệ trong cùng bối cảnh. 
+b. Quá tập trung vào các chỉ số định lượng thay vì nội dung thực chất.
+c. Không có cơ chế lọc tri thức dư thừa trong kho dữ liệu.
+d. Dựa quá nhiều vào việc lưu trữ dữ liệu hình ảnh thay vì văn bản.
+Hệ thống bài học kinh nghiệm (LLS) có mục tiêu cốt lõi là gì?
+a. Lưu trữ dữ liệu kỹ thuật phục vụ báo cáo định kỳ của tổ chức.
+b. Ghi lại và cung cấp các bài học giúp nhân viên giải quyết tình huống tương tự trong tương lai. 
+c. Thay thế quá trình đào tạo bằng trí tuệ nhân tạo tự học.
+d. Xây dựng cơ sở tri thức dựa hoàn toàn trên chuẩn ngành quốc tế.
+Tại sao các tổ chức hiện đại ngày càng quan tâm đến ontology trong hệ thống ELS?
+a. Vì ontology làm giảm chi phí phần cứng trong quản trị dữ liệu.
+b. Vì ontology thay thế hoàn toàn vai trò của chuyên gia lĩnh vực.
+c. Vì ontology đơn giản hóa toàn bộ cấu trúc dữ liệu phi ngữ nghĩa.
+d. Vì ontology giúp mô hình hóa và kết nối các tri thức ẩn phức tạp. 
+Theo định nghĩa của Weber et al. (2001), bài học kinh nghiệm là gì?
+a. Mô tả các giả thuyết học thuật dùng để xây dựng tri thức lý thuyết.
+b. Tri thức hoặc hiểu biết đạt được từ trải nghiệm, có thể tích cực hoặc tiêu cực. 
+c. Chuỗi dữ liệu thuần túy được tổng hợp từ các phép đo định lượng.
+d. Quy trình kỹ thuật được chuẩn hóa và áp dụng lại trong nhiều tổ chức.
+Yếu tố “Participation” trong thiết kế HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) đề cập đến điều gì?
+a. Tỷ lệ chuyên gia chuyển việc hằng năm.
+b. Mức độ tự động hóa trong quá trình xác minh dữ liệu.
+c. Phạm vi mà hệ thống phản ánh mức độ tham gia của chuyên gia trong tổ chức. 
+d. Số lượng người dùng truy cập cùng lúc vào hệ thống.
+Việc sử dụng các chuẩn như O*NET hay Library of Congress trong phát triển taxonomy có ý nghĩa gì?
+a. Giảm thiểu sự cần thiết của chuyên gia lĩnh vực.
+b. Bảo đảm tính bảo mật dữ liệu nhân viên.
+c. Loại bỏ hoàn toàn sự khác biệt ngữ nghĩa giữa các khái niệm.
+d. Giúp chuẩn hóa và hỗ trợ phân loại tri thức trong tổ chức. 
+Mối quan hệ giữa taxonomy và semantic network là gì?
+a. Taxonomy mô tả hành vi người dùng; semantic network mô phỏng tri thức ẩn.
+b. Taxonomy mang tính mô phỏng, semantic network mang tính định lượng.
+c. Taxonomy chỉ tồn tại trong AI; semantic network chỉ áp dụng cho Web.
+d. Taxonomy dùng cấu trúc phân cấp; semantic network dùng cấu trúc mạng. 
+Hệ thống quản trị tri thức chia sẻ tri thức ẩn chủ yếu được xây dựng để hỗ trợ điều gì?
+a. Các hệ thống quản trị tài nguyên doanh nghiệp.
+b. Các cộng đồng thực hành (Communities of Practice – CoPs). 
+c. Các mạng truyền thông chuyên dụng cho tri thức công khai.
+d. Các quy trình quản lý dự án tập trung.
+Tại sao World Bank xem chia sẻ tri thức là yếu tố thiết yếu trong sứ mệnh “fighting poverty”?
+a. Vì tri thức có thể được bán lại như sản phẩm kinh tế.
+b. Vì tri thức được chia sẻ đúng lúc giúp nâng cao năng lực phát triển toàn cầu. 
+c. Vì tri thức thay thế được nguồn vốn đầu tư truyền thống.
+d. Vì tri thức giúp kiểm soát chi tiêu và giảm chi phí điều hành.
+Bước “store the lesson” trong LLS liên quan đến hoạt động nào?
+a. Lập chỉ mục, định dạng và đưa bài học vào kho lưu trữ điện tử. 
+b. Xác định quyền sở hữu trí tuệ của người đóng góp.
+c. Lọc bỏ những bài học có chứa dữ liệu nhạy cảm.
+d. Phân loại người dùng theo mức độ truy cập tri thức.
+Theo McDermott (2000), điều gì thúc đẩy con người tham gia vào CoPs?
+a. Lợi ích tài chính được quy đổi bằng điểm thưởng nội bộ.
+b. Yêu cầu từ chính sách đào tạo bắt buộc của tổ chức.
+c. Niềm đam mê chủ đề, giá trị nhận được từ cộng đồng và mối liên kết cảm xúc. 
+d. Cơ hội thăng tiến được đảm bảo khi tham gia cộng đồng.
+Ai là người chịu trách nhiệm xác minh bài học trước khi đưa vào LLS?
+a. Bộ phận pháp lý của tổ chức.
+b. Nhóm chuyên gia trong lĩnh vực liên quan (domain experts). 
+c. Nhà quản lý hệ thống công nghệ thông tin.
+d. Người đóng góp bài học gốc.
+Tại sao các tổ chức như NASA, DOE hay Bộ Quốc phòng Mỹ đặc biệt quan tâm đến LLS?
+a. Vì họ cần giảm thiểu rủi ro tai nạn và thất bại có thể gây tổn thất nghiêm trọng. 
+b. Vì họ phải đáp ứng yêu cầu pháp lý về chia sẻ tri thức quốc tế.
+c. Vì họ có nguồn ngân sách dư thừa để đầu tư vào công nghệ KM.
+d. Vì họ muốn thay thế toàn bộ nhân viên bằng hệ thống chuyên gia.
+Tại sao mức độ chi tiết (granularity) của taxonomy cần được cân bằng?
+a. Càng chi tiết thì tốc độ truy vấn càng chậm và dữ liệu càng khó bảo mật.
+b. Càng khái quát thì càng dễ tích hợp vào cơ sở dữ liệu quan hệ.
+c. Chi tiết thấp sẽ giúp giảm dung lượng lưu trữ.
+d. Quá chi tiết gây khó sử dụng; quá khái quát làm mất tính mô tả chính xác. 
+Nếu hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) cho thấy chỉ có ba chuyên gia trong một lĩnh vực trọng yếu, điều này hàm ý gì?
+a. Lĩnh vực này không quan trọng đối với tổ chức.
+b. Tổ chức cần tuyển hoặc đào tạo thêm chuyên gia trong lĩnh vực đó. 
+c. Hệ thống đã bị lỗi dữ liệu cần được hiệu chỉnh.
+d. Các chuyên gia hiện tại phải đảm nhiệm thêm nhiệm vụ mới.
+Phương pháp “interactive collection” khác biệt ở điểm nào?
+a. Hệ thống máy tính hợp tác với tác giả để tạo ra bài học rõ ràng, có ý nghĩa. 
+b. Người dùng tự biên soạn và xác thực nội dung bài học thủ công.
+c. Nhóm kiểm định trực tiếp viết lại toàn bộ bài học trước khi lưu trữ.
+d. Các nhà quản lý chỉnh sửa bài học theo tiêu chí kỹ thuật.
+Mục tiêu chính của các workshop tại Achmea là gì?
+a. Triển khai kiểm tra định kỳ về bảo mật thông tin.
+b. Duy trì kiến thức chuyên môn thống nhất và củng cố cảm giác gắn kết giữa các thành viên. 
+c. Đánh giá định lượng năng lực từng nhân viên trong nhóm.
+d. Đào tạo kỹ thuật lập trình cho nhân viên mới.
+Một bài học được coi là “lesson learned” khi thỏa mãn điều kiện nào?
+a. Có tính quan trọng, chính xác, và áp dụng được trong thực tế. 
+b. Có thể được trích dẫn trong các tài liệu tiêu chuẩn ngành.
+c. Có nguồn gốc từ các báo cáo nghiên cứu học thuật.
+d. Có giá trị lịch sử nhưng không nhất thiết còn phù hợp hiện nay.
+Đặc điểm nào sau đây phân biệt các hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) khác nhau giữa các tổ chức?
+a. Mức độ tự động hóa và số lượng nhân viên IT.
+b. Mục đích triển khai, cách truy cập, phạm vi và phân loại năng lực. 
+c. Cấu trúc phần cứng, tốc độ xử lý, dung lượng bộ nhớ.
+d. Độ chính xác của thuật toán tìm kiếm dữ liệu.
+Một yếu tố quan trọng dẫn đến thành công của mô hình CoPs tại World Bank là gì?
+a. Hạn chế quyền tham gia của nhân viên mới để đảm bảo chất lượng tri thức.
+b. Việc loại bỏ hoàn toàn cấu trúc ma trận truyền thống.
+c. Sử dụng thuật toán phân cụm dữ liệu để gợi ý chủ đề thảo luận.
+d. Tri thức được gắn liền với hệ thống đánh giá hiệu suất hàng năm, khuyến khích chia sẻ. 
+Bước “disseminate” trong quy trình LLS có mục tiêu chính là gì?
+a. Phổ biến và thúc đẩy việc tái sử dụng tri thức trong toàn tổ chức. 
+b. Xóa bỏ các bài học cũ để giảm tải kho dữ liệu.
+c. Thống kê lượt xem và đánh giá chất lượng bài học.
+d. Phân quyền truy cập tùy cấp bậc nhân viên.
+CoPs khác với nhóm làm việc thông thường ở điểm nào?
+a. CoPs chỉ tồn tại khi có hợp đồng tài trợ cụ thể.
+b. CoPs có cơ cấu quản trị chính thức và mục tiêu ngắn hạn rõ ràng.
+c. CoPs được hình thành tự nhiên quanh lĩnh vực quan tâm chung, không bị ép buộc bởi cơ cấu tổ chức. 
+d. CoPs luôn yêu cầu sự phê duyệt từ cấp lãnh đạo cấp cao trước khi thành lập.
+Theo mô hình của World Bank, “Thematic Groups (TGs)” có đặc điểm nào nổi bật?
+a. Là các tiểu ban cố định được bổ nhiệm bởi ban lãnh đạo cấp cao.
+b. Là các tổ chức phi lợi nhuận được cấp vốn độc lập từ chính phủ.
+c. Là nhóm tự nguyện của các cá nhân cùng đam mê một chủ đề và có thể bao gồm cả đối tác bên ngoài. 
+d. Là mạng lưới đào tạo kỹ năng quản lý dự án xuyên quốc gia.
+Phương pháp “reactive collection” khác biệt ở điểm nào?
+a. Người dùng trực tiếp nhập liệu vào hệ thống không cần xác minh.
+b. Một bên thứ ba phỏng vấn người đóng góp và nhập bài học thay họ. 
+c. Hệ thống tự động nhận dạng bài học thông qua từ khóa.
+d. Bài học được ghi nhận trong buổi họp sau hành động (after-action).
+Trong HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS), việc phát triển taxonomy tri thức có ý nghĩa gì?
+a. Đánh giá hiệu quả đào tạo thông qua chỉ số KPI.
+b. Mô hình hóa các mối quan hệ xã hội giữa nhân viên.
+c. Xây dựng cơ sở dữ liệu tài chính của doanh nghiệp.
+d. Giúp phân loại, chỉ mục hóa năng lực và kiến thức trong tổ chức. 
+Tổ chức NSA xây dựng HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) của mình dựa trên tiêu chuẩn nào?
+a. Hệ thống O*NET của Bộ Lao động Hoa Kỳ. 
+b. Chuẩn an ninh quốc phòng nội bộ.
+c. Khung năng lực IEEE toàn cầu.
+d. Quy tắc phân loại tri thức ISO/IEC 9000.
+“After-action collection” thường được sử dụng trong lĩnh vực nào?
+a. Giáo dục, nơi giáo viên phản hồi sau mỗi buổi giảng dạy.
+b. Quân sự, nơi bài học được thu thập sau khi kết thúc nhiệm vụ. 
+c. Tài chính, nơi nhà đầu tư rút kinh nghiệm từ giao dịch.
+d. Y học, nơi dữ liệu được thu thập trong quá trình điều trị bệnh.
+Trong các phương thức phổ biến tri thức, “proactive dissemination” có ý nghĩa gì?
+a. Hệ thống tự động cập nhật dữ liệu học thuật bên ngoài vào kho.
+b. Người quản lý chủ động gửi bản tin bài học qua email định kỳ.
+c. Người học được yêu cầu truy cập bài học theo kế hoạch đào tạo.
+d. Hệ thống dự đoán khi nào người dùng sẽ cần và cung cấp bài học phù hợp trước. 
+Phương pháp “passive collection” trong LLS mô tả điều gì?
+a. Hệ thống chủ động tìm kiếm bài học trong email.
+b. Người đóng góp tự gửi bài học qua biểu mẫu giấy hoặc web. 
+c. Tổ chức thuê bên thứ ba để phỏng vấn chuyên gia.
+d. Bài học được tự động thu thập thông qua hệ thống AI.
+Động cơ phổ biến nhất khi tổ chức tìm kiếm chuyên gia thông qua HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) là gì?
+a. Tìm nguồn thông tin hoặc người có năng lực thực hiện nhiệm vụ. 
+b. Tạo cơ sở dữ liệu để huấn luyện mô hình AI.
+c. Đánh giá hiệu suất làm việc của từng phòng ban.
+d. Xây dựng mô hình lương thưởng theo kỹ năng.
+“Active collection” trong LLS được hiểu như thế nào?
+a. Hệ thống quét tài liệu để tìm các bài học có chứa từ khóa đặc trưng. 
+b. Hệ thống tự động phân loại bài học theo ngành nghề.
+c. Người dùng chủ động chia sẻ kinh nghiệm trong diễn đàn nội bộ.
+d. Tổ chức tổ chức hội thảo chuyên đề định kỳ để tổng hợp tri thức.
+Trong SPuD (Skills Planning and Development), ai chịu trách nhiệm xác thực dữ liệu năng lực nhân viên?
+a. Bộ phận nhân sự trung ương.
+b. Hệ thống AI tự động đánh giá.
+c. Người giám sát trực tiếp (supervisor). 
+d. Nhóm đào tạo nội bộ.
+Hệ thống LLS Eureka của Xerox có điểm đặc biệt gì trong quá trình xác minh?
+a. Xác minh dựa trên thống kê hành vi người sử dụng.
+b. Áp dụng quy trình hai giai đoạn: kiểm tra thực tế và phê duyệt trước khi phổ biến. 
+c. Tự động loại bỏ các bài học trùng lặp mà không cần chuyên gia.
+d. Cho phép người dùng tự xác minh bài học trước khi đăng tải.
+Microsoft phát triển hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) mang tên gì?
+a. ConnectHub – Human Expertise Portal.
+b. SPuD – Skills Planning and Development. 
+c. CompBase – Competency Builder System.
+d. ExpertWeb – Knowledge Link Engine.
+Trong ngữ cảnh quản trị tri thức, ontology được hiểu là gì?
+a. Mô tả hình thức rõ ràng về các thực thể và mối quan hệ giữa chúng trong một lĩnh vực. 
+b. Tập hợp các thuật toán xử lý ngôn ngữ tự nhiên nhằm phân tích dữ liệu văn bản.
+c. Cấu trúc mạng máy tính lưu trữ dữ liệu phi cấu trúc.
+d. Danh mục các quy tắc định lượng mô phỏng hành vi tri thức.
+Hệ thống định vị chuyên gia (HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS)) được phát triển nhằm mục đích chính nào?
+a. Thay thế hoàn toàn các phòng nhân sự trong việc tuyển dụng.
+b. Tìm kiếm và xác định nguồn vốn tri thức trong tổ chức. 
+c. Lưu trữ dữ liệu kỹ thuật chi tiết về mọi nhân viên.
+d. Tự động hóa quy trình ra quyết định chiến lược của lãnh đạo.
+Theo Wiig (1993), cấp độ cao nhất trong phân loại năng lực chuyên môn là gì?
+a. Grand Master – chuyên gia đẳng cấp thế giới. 
+b. Expert – chuyên gia trong một lĩnh vực cụ thể.
+c. Competent – thành thạo trong phạm vi hẹp.
+d. Proficient – hiểu biết trong lĩnh vực đã chọn.
+Theo quy trình của LLS, giai đoạn đầu tiên là gì?
+a. Thu thập các bài học kinh nghiệm để đưa vào hệ thống. 
+b. Lưu trữ tri thức vào cơ sở dữ liệu cấu trúc.
+c. Phổ biến tri thức đến các nhóm người dùng.
+d. Kiểm tra tính hợp lệ của tri thức được chia sẻ.
+Điểm khác biệt cơ bản giữa taxonomy và ontology là gì?
+a. Taxonomy dùng trong AI; ontology dùng trong hệ thống thống kê.
+b. Taxonomy mang tính động; ontology mang tính tĩnh.
+c. Taxonomy nhóm các đối tượng theo đặc trưng; ontology biểu diễn mối quan hệ giữa chúng. 
+d. Taxonomy định nghĩa luật suy luận; ontology chỉ tập trung vào dữ liệu thô.
+Phương thức truy cập phổ biến nhất của HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) trong doanh nghiệp là gì?
+a. Qua mạng Intranet nội bộ. 
+b. Qua hệ thống đám mây công cộng.
+c. Bằng các ứng dụng di động mã nguồn mở.
+d. Thông qua mạng xã hội bên ngoài.
+Sự khác biệt của hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) liên tổ chức như SAGE là gì?
+a. Có thể truy cập qua Web, kết nối giữa nhiều tổ chức khác nhau. 
+b. Yêu cầu quyền truy cập bảo mật qua VPN nội bộ.
+c. Chỉ hoạt động trong phạm vi một bộ phận duy nhất.
+d. Sử dụng cơ sở dữ liệu tĩnh và đóng.
+Tại sao bước xác minh (verify) thường là nút thắt trong quá trình LLS?
+a. Vì các chuyên gia thường từ chối xác minh nội dung.
+b. Vì số lượng bài học được nhập quá ít để phân tích.
+c. Vì hệ thống không có công cụ hỗ trợ định dạng dữ liệu.
+d. Vì cần nhiều thời gian để kiểm tra tính chính xác, trùng lặp và liên quan. 
+Hệ thống CONNEX của Hewlett-Packard có đặc điểm nổi bật nào?
+a. Cung cấp cơ sở dữ liệu tập trung chứa hồ sơ năng lực của nhân viên, có thể tìm kiếm đa tiêu chí. 
+b. Sử dụng mạng phi tập trung giữa các nhóm nghiên cứu để trao đổi tri thức ẩn.
+c. Tập trung vào việc tự động hóa đào tạo thay vì xác định chuyên gia.
+d. Tích hợp dữ liệu từ các mạng xã hội bên ngoài để xếp hạng nhân viên.
+Nhược điểm lớn của việc tái sử dụng ontology chuẩn có sẵn là gì?
+a. Không thể triển khai trên môi trường Web.
+b. Làm giảm tốc độ xử lý khi mở rộng quy mô.
+c. Người dùng khó hiểu các giả định ngầm và khác biệt giữa các phần tử. 
+d. Hệ thống mất tính tương thích ngược với dữ liệu nội bộ.
+Lợi ích chính của việc sử dụng Web text data mining trong hệ thống định vị chuyên gia là gì?
+a. Tăng tính bảo mật của hồ sơ chuyên gia.
+b. Giảm lệ thuộc vào khai báo chủ quan của nhân viên. 
+c. Giảm thời gian xác minh năng lực bằng phỏng vấn.
+d. Tự động loại bỏ các thông tin dư thừa trong mạng nội bộ.
+Hạn chế chính của phương pháp tự khai báo năng lực trong hồ sơ chuyên gia là gì?
+a. Thiếu khả năng tích hợp với các hệ thống ERP.
+b. Mất chi phí lưu trữ cao do kích thước tệp lớn.
+c. Không thể biểu diễn dữ liệu dưới dạng đồ thị tri thức.
+d. Kết quả bị lệch do nhận thức và động cơ cá nhân. 
+Một trong những mục tiêu chiến lược của HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) trong doanh nghiệp là gì?
+a. Giảm thiểu chi phí duy trì hệ thống nhân sự.
+b. Tăng doanh số bán hàng ngắn hạn.
+c. Ghép năng lực nhân viên với vị trí công việc phù hợp. 
+d. Tự động hóa quy trình kiểm toán tài chính.
+Tổ chức Achmea Holding N.V. khuyến khích việc chia sẻ tri thức bằng cách nào?
+a. Tích hợp hệ thống CoP vào phần mềm nhân sự ERP.
+b. Mở rộng mạng xã hội doanh nghiệp ra công chúng.
+c. Cung cấp tiền thưởng cho mỗi bài viết được chia sẻ lên mạng nội bộ.
+d. Tổ chức các hội thảo chính thức giúp nhân viên gặp gỡ và tạo cảm giác cộng đồng. 
+Các giai đoạn phát triển chính của một CoP là gì?
+a. Tổ chức, vận hành, chuẩn hóa, mở rộng, hợp nhất.
+b. Lập kế hoạch, khởi động, phát triển, duy trì, kết thúc. 
+c. Thiết kế, đánh giá, tích hợp, chuyển giao, phục hồi.
+d. Hình thành, phân cấp, sáp nhập, mở rộng, tái cấu trúc.
+Tại sao LLS đôi khi tích hợp thêm nội dung đa phương tiện như âm thanh và video?
+a. Để tăng kích thước dữ liệu và đảm bảo tính toàn vẹn lưu trữ.
+b. Để minh họa rõ hơn các bài học quan trọng và tăng khả năng hiểu của người học. 
+c. Để đảm bảo mỗi bài học có cấu trúc giống nhau.
+d. Để thay thế hoàn toàn văn bản bằng hình ảnh trực quan.
+Authority file đóng vai trò gì trong quản trị tri thức?
+a. Tự động tạo ra các nhóm chuyên môn dựa trên chủ đề.
+b. Kiểm soát từ vựng được dùng để bảo đảm các khái niệm được sử dụng nhất quán. 
+c. Lưu trữ toàn bộ các bản sao của cơ sở dữ liệu tri thức nội bộ.
+d. Ghi nhận quyền sở hữu trí tuệ của từng tác giả tri thức.
+Theo định nghĩa của Weber & Aha (2003), bài học kinh nghiệm là gì?
+a. Một đoạn văn bản mô tả chi tiết quy trình sản xuất kỹ thuật.
+b. Một tập hợp dữ liệu phi cấu trúc dùng để khai phá mẫu thống kê.
+c. Một thực thể tri thức thể hiện kinh nghiệm có thể áp dụng cho nhiệm vụ hoặc quyết định. 
+d. Một mô hình định lượng mô phỏng hành vi tổ chức.
+Các hoạt động chính của Thematic Groups (TGs) tại World Bank bao gồm gì?
+a. Tạo bộ sưu tập tri thức, phổ biến thông tin, hỗ trợ nhóm công tác và huy động tài trợ. 
+b. Kiểm định các báo cáo tài chính, quản lý rủi ro, và ban hành quy chuẩn pháp lý.
+c. Quản lý nhân sự nội bộ và kiểm soát tiến độ hợp đồng.
+d. Đánh giá các dự án đầu tư nước ngoài, thương lượng với chính phủ đối tác.
+Công nghệ nào thường được dùng để hỗ trợ giai đoạn lưu trữ bài học trong LLS?
+a. Mạng blockchain để bảo vệ tính toàn vẹn của dữ liệu.
+b. Cơ sở dữ liệu quan hệ, hướng đối tượng hoặc hệ thống quản lý tài liệu bán cấu trúc. 
+c. Bộ lọc AI tự động học các mẫu tri thức từ văn bản.
+d. Mô hình đồ thị tri thức kết nối tri thức ngầm và tri thức hiện.
+Phương pháp “proactive collection” trong LLS có đặc điểm gì?
+a. Người quản lý chủ động yêu cầu nhân viên nộp báo cáo định kỳ.
+b. Hệ thống chuyên gia tự động phát hiện và đề xuất bài học từ nội dung được phân tích. 
+c. Tổ chức thuê chuyên gia đánh giá các lỗi quy trình hàng quý.
+d. Các nhóm dự án tổ chức họp thường niên để tổng hợp kinh nghiệm.
+Điều kiện tiên quyết để một hệ thống hỗ trợ chia sẻ tri thức ẩn thành công là gì?
+a. Nền tảng công nghệ có tốc độ xử lý cao.
+b. Quy trình kiểm duyệt nội dung tự động.
+c. Niềm tin và sự quen thuộc giữa các thành viên. 
+d. Cấu trúc phân quyền truy cập nghiêm ngặt.
+Vì sao việc phát triển ontology trong tổ chức thường gặp khó khăn?
+a. Do sự khác biệt trong quan điểm giữa các nhóm chuyên môn. 
+b. Do thiếu công cụ trực quan hóa dữ liệu tri thức.
+c. Do sự thay đổi liên tục của thuật toán phân cụm.
+d. Do thiếu tài nguyên phần cứng để huấn luyện mô hình dữ liệu.
+HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) giúp tổ chức giải quyết vấn đề nào trong quản trị tri thức?
+a. Chồng chéo giữa các quy trình đào tạo nội bộ.
+b. Quá tải thông tin đến từ hệ thống ERP.
+c. Thiếu dữ liệu định lượng về hành vi người dùng.
+d. Khoảng trống năng lực và khó khăn trong việc truy cập tri thức chuyên sâu. 
+Một trong những giải pháp thường dùng để giảm chi phí xây dựng ontology là gì?
+a. Sử dụng mô hình học máy để tự động sinh ontology mới.
+b. Loại bỏ hoàn toàn các mối quan hệ phức tạp giữa các thực thể.
+c. Tái sử dụng ontology đã được phát triển bởi các tổ chức chuẩn hóa. 
+d. Giới hạn số lượng khái niệm được định nghĩa trong mỗi lĩnh vực.
+Hệ thống Knowledge Bank của World Bank được thiết kế nhằm mục tiêu nào?
+a. Liên kết nhân viên, khách hàng và đối tác để tạo và chia sẻ tri thức toàn cầu. 
+b. Giảm sự phụ thuộc vào các chuyên gia tư vấn bên ngoài.
+c. Tự động hóa toàn bộ quy trình tín dụng và quản lý dự án.
+d. Tập trung hóa dữ liệu tài chính và dự báo rủi ro đầu tư.
+Khó khăn trọng yếu trong việc phát triển hệ thống định vị chuyên gia là gì?
+a. Chuẩn hóa thuật toán tìm kiếm trong toàn bộ mạng nội bộ.
+b. Xây dựng chính xác một hệ thống phân loại tri thức hoặc ontology. 
+c. Phân quyền truy cập chuyên gia theo cấu trúc tổ chức.
+d. Tối ưu hóa giao diện người dùng để truy vấn dữ liệu nhanh hơn.
